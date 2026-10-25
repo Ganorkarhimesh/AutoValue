@@ -1,0 +1,114 @@
+{
+  "numerical_features": [
+    "year",
+    "km_driven",
+    "mileage",
+    "engine",
+    "max_power",
+    "seats"
+  ],
+  "categorical_features": [
+    "brand",
+    "fuel",
+    "seller_type",
+    "transmission",
+    "owner"
+  ],
+  "category_options": {
+    "brand": [
+      "Ambassador",
+      "Ashok",
+      "Audi",
+      "Bmw",
+      "Chevrolet",
+      "Daewoo",
+      "Datsun",
+      "Fiat",
+      "Force",
+      "Ford",
+      "Honda",
+      "Hyundai",
+      "Isuzu",
+      "Jaguar",
+      "Jeep",
+      "Kia",
+      "Land",
+      "Lexus",
+      "Mahindra",
+      "Maruti",
+      "Mercedes-Benz",
+      "Mg",
+      "Mitsubishi",
+      "Nissan",
+      "Opel",
+      "Peugeot",
+      "Renault",
+      "Skoda",
+      "Tata",
+      "Toyota",
+      "Volkswagen",
+      "Volvo"
+    ],
+    "fuel": [
+      "CNG",
+      "Diesel",
+      "LPG",
+      "Petrol"
+    ],
+    "seller_type": [
+      "Dealer",
+      "Individual",
+      "Trustmark Dealer"
+    ],
+    "transmission": [
+      "Automatic",
+      "Manual"
+    ],
+    "owner": [
+      "First Owner",
+      "Fourth & Above Owner",
+      "Second Owner",
+      "Test Drive Car",
+      "Third Owner"
+    ]
+  },
+  "numerical_stats": {
+    "year": {
+      "min": 1991.0,
+      "max": 2020.0,
+      "median": 2014.0,
+      "mean": 2013.4246931407943
+    },
+    "km_driven": {
+      "min": 1.0,
+      "max": 2360457.0,
+      "median": 70000.0,
+      "mean": 74004.91768953069
+    },
+    "mileage": {
+      "min": 9.0,
+      "max": 42.0,
+      "median": 19.49,
+      "mean": 19.508869163061316
+    },
+    "engine": {
+      "min": 624.0,
+      "max": 3604.0,
+      "median": 1248.0,
+      "mean": 1430.8913367073533
+    },
+    "max_power": {
+      "min": 32.8,
+      "max": 400.0,
+      "median": 81.83,
+      "mean": 87.76610019353879
+    },
+    "seats": {
+      "min": 2.0,
+      "max": 14.0,
+      "median": 5.0,
+      "mean": 5.4346531705864844
+    }
+  },
+  "total_samples": 6925
+}

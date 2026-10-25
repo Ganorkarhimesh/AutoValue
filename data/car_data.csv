@@ -1,0 +1,1616 @@
+name,year,selling_price,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats
+Hyundai Grand i10 Magna,2008,47000,151072,Petrol,Dealer,Manual,Fourth & Above Owner,18.0 kmpl,1195 CC,82.2 bhp,5
+Toyota Innova Crysta 2.4 VX,2017,930000,52034,Diesel,Individual,Manual,First Owner,14.4 kmpl,2393 CC,150.2 bhp,7
+Mahindra Scorpio S11,2015,519000,76512,Diesel,Individual,Manual,First Owner,15.5 kmpl,2179 CC,140.9 bhp,7
+Audi A6 35 TDI Matrix,2011,601000,196618,Diesel,Individual,Automatic,Fourth & Above Owner,18.9 kmpl,1968 CC,,5
+Toyota Innova Crysta 2.4 VX,2019,972000,40893,Diesel,Individual,Manual,Second Owner,14.7 kmpl,2391 CC,146.4 bhp,7
+Maruti Vitara Brezza ZDI,2018,436000,53427,Diesel,Trustmark Dealer,Manual,Second Owner,23.9 kmpl,1250 CC,87.0 bhp,5
+Maruti Wagon R LXI CNG,2013,103000,85218,CNG,Individual,Manual,Third Owner,30.9 km/kg,1000 CC,59.3 bhp,5
+Tata Tiago XZ,2021,431000,46833,Petrol,Dealer,Automatic,First Owner,24.7 kmpl,1201 CC,84.2 bhp,5
+Toyota Innova 2.5 G4 Diesel,2022,1057000,27962,Diesel,Dealer,Manual,First Owner,12.7 kmpl,2492 CC,102.4 bhp,7
+Tata Nexon XZ Plus Petrol,2018,412000,68242,Petrol,Individual,Manual,Second Owner,17.4 kmpl,1200 CC,121.0 bhp,5
+Volkswagen Vento 1.6 Highline,2011,154000,137475,Petrol,Dealer,Manual,Second Owner,16.0 kmpl,1600 CC,105.1 bhp,5
+Ford Figo 1.2 Titanium,2020,323000,46149,Petrol,Individual,Manual,Second Owner,18.7 kmpl,1196 CC,97.3 bhp,5
+Hyundai Grand i10 Magna,2021,379000,47670,Petrol,Individual,Manual,First Owner,18.1 kmpl,1199 CC,81.7 bhp,5
+Hyundai Creta SX(O) Diesel AT,2011,300000,142019,Diesel,Individual,Automatic,Second Owner,18.9 kmpl,1495 CC,115.1 bhp,5
+Tata Harrier XZ Plus,2022,1504000,31882,Diesel,Individual,Manual,First Owner,16.4 kmpl,1956 CC,162.8 bhp,5
+Maruti Swift VXI,2010,84000,167295,Petrol,Dealer,Manual,Second Owner,22.0 kmpl,1195 CC,80.9 bhp,5
+Renault Duster 110PS RXZ,2013,269000,127952,Diesel,Individual,Automatic,Second Owner,18.7 kmpl,1461 CC,110.9 bhp,5
+Hyundai i20 Sportz 1.2,2009,81000,200593,Petrol,Individual,Automatic,Third Owner,19.4 kmpl,1195 CC,81.6 bhp,5
+Maruti Vitara Brezza ZDI,2016,222000,110656,Diesel,Dealer,Manual,Fourth & Above Owner,24.3 kmpl,1246 CC,86.7 bhp,5
+Tata Harrier XZ Plus,2021,1483000,32462,Diesel,Dealer,Manual,First Owner,17.0 kmpl,1956 CC,166.8 bhp,5
+Mercedes-Benz E-Class E 220d,2018,2728000,65988,Diesel,Individual,Automatic,Second Owner,15.4 kmpl,1948 CC,194.6 bhp,5
+BMW 3 Series 320d Luxury Line,2021,3194000,34208,Diesel,Dealer,Automatic,First Owner,22.1 kmpl,1993 CC,189.7 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2018,1454000,41636,Diesel,Individual,Automatic,Second Owner,13.9 kmpl,2753 CC,176.3 bhp,7
+Hyundai Creta SX(O) Diesel AT,2018,796000,66724,Diesel,Individual,Automatic,First Owner,17.7 kmpl,1495 CC,116.8 bhp,5
+Toyota Corolla Altis GL,2011,201000,125421,Petrol,Individual,Manual,Fourth & Above Owner,14.9 kmpl,1800 CC,136.4 bhp,5
+Audi A4 2.0 TDI Premium,2006,315000,251284,Diesel,Dealer,Manual,Second Owner,16.5 kmpl,1966 CC,176.8 bhp,5
+Honda Jazz 1.2 V,2019,407000,46985,Petrol,Dealer,Manual,First Owner,16.7 kmpl,1201 CC,88.3 bhp,5
+Hyundai Creta SX(O) Diesel AT,2018,801000,55164,Diesel,Individual,Automatic,First Owner,18.9 kmpl,1491 CC,116.4 bhp,5
+Maruti Baleno Alpha CVT,2020,463000,46936,Petrol,Individual,Manual,Second Owner,18.9 kmpl,1195 CC,90.6 bhp,5
+Hyundai i20 Asta CRDI,2015,308000,112590,Diesel,Dealer,Manual,First Owner,23.2 kmpl,1394 CC,91.2 bhp,5
+Maruti Baleno Delta,2012,108000,180761,Petrol,Dealer,Manual,Third Owner,21.6 kmpl,1195 CC,80.9 bhp,5
+Maruti Baleno Alpha CVT,2020,517000,36827,Petrol,Individual,Automatic,Second Owner,19.8 kmpl,1195 CC,87.0 bhp,5
+Toyota Glanza G,2020,434000,63826,Petrol,Dealer,Manual,Second Owner,21.4 kmpl,1197 CC,90.8 bhp,5
+Honda City ZX CVT,2018,793000,51297,Petrol,Dealer,Automatic,First Owner,,1500 CC,122.8 bhp,5
+Honda Amaze 1.2 VX,2014,177000,137348,Petrol,Individual,Manual,Second Owner,18.0 kmpl,1201 CC,89.8 bhp,5
+Volkswagen Polo GT TSI,2018,459000,73687,Petrol,Individual,Automatic,First Owner,17.3 kmpl,1197 CC,104.7 bhp,5
+Tata Nexon XZ Plus Petrol,2019,512000,72677,Petrol,Individual,Manual,First Owner,17.5 kmpl,1198 CC,116.2 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2016,304000,86978,Petrol,Trustmark Dealer,Manual,Second Owner,18.2 kmpl,1001 CC,105.9 bhp,5
+Volkswagen Polo GT TSI,2010,141000,209868,Petrol,Individual,Automatic,Second Owner,17.4 kmpl,1195 CC,106.5 bhp,5
+Mahindra Bolero Power+ ZLX,2016,285000,98643,Diesel,Individual,Manual,First Owner,16.9 kmpl,1495 CC,67.9 bhp,7
+Hyundai i20 Asta CRDI,2019,498000,44723,Diesel,Individual,Manual,First Owner,23.2 kmpl,1394 CC,88.5 bhp,5
+Mercedes-Benz E-Class E 220d,2018,2714000,98194,Diesel,Individual,Automatic,Second Owner,15.6 kmpl,1952 CC,191.1 bhp,5
+Mahindra Thar CRDe 4x4,2014,249000,94336,Diesel,Individual,Manual,First Owner,16.1 kmpl,2496 CC,106.3 bhp,4
+Audi Q3 2.0 TDI Quattro,2010,502000,117867,Diesel,Individual,Automatic,Third Owner,15.6 kmpl,1968 CC,,5
+Mahindra Scorpio S10,2015,420000,115394,Diesel,Individual,Manual,First Owner,15.2 kmpl,2179 CC,118.6 bhp,7
+Mahindra Scorpio S10,2017,494000,93352,Diesel,Individual,Manual,First Owner,15.3 kmpl,2181 CC,121.3 bhp,7
+Renault Kwid RXT,2021,293000,32174,Petrol,Dealer,Manual,First Owner,21.9 kmpl,999 CC,65.5 bhp,5
+Tata Nexon XZ Plus Petrol,2015,193000,102226,Petrol,Individual,Manual,Fourth & Above Owner,16.3 kmpl,1198 CC,116.5 bhp,5
+Audi Q3 2.0 TDI Quattro,2009,415000,228437,Diesel,Trustmark Dealer,Manual,Second Owner,15.2 kmpl,1966 CC,179.0 bhp,5
+Hyundai Venue SX 1.0 Turbo,2013,238000,118417,Petrol,Dealer,Manual,Second Owner,19.0 kmpl,996 CC,119.1 bhp,5
+Hyundai Santro Magna,2022,420000,11611,Petrol,Dealer,Manual,First Owner,20.5 kmpl,1088 CC,66.8 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2011,417000,178146,Diesel,Individual,Automatic,Fourth & Above Owner,14.1 kmpl,2753 CC,172.9 bhp,7
+BMW 3 Series 320d Luxury Line,2018,2014000,51382,Diesel,Trustmark Dealer,Manual,Second Owner,22.6 kmpl,1995 CC,190.0 bhp,5
+Toyota Etios Liva GD,2018,286000,98041,Diesel,Individual,Manual,First Owner,22.5 kmpl,1362 CC,68.3 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2019,1960000,65758,Diesel,Individual,Automatic,First Owner,14.0 kmpl,2755 CC,177.6 bhp,7
+Toyota Glanza G,2017,266000,79884,CNG,Individual,Manual,Second Owner,22.8 km/kg,1199 CC,88.4 bhp,5
+Maruti Swift Dzire VDI,2010,84000,131661,Diesel,Individual,Manual,Third Owner,27.8 kmpl,1250 CC,73.3 bhp,5
+Skoda Rapid 1.6 MPI Ambition,2019,482000,51142,Petrol,Individual,Automatic,First Owner,15.7 kmpl,1600 CC,106.3 bhp,5
+Nissan Micra Active XL,2014,116000,122563,Petrol,Individual,Manual,Second Owner,19.6 kmpl,1198 CC,65.0 bhp,5
+Maruti Alto K10 VXI,2017,163000,88128,Petrol,Individual,Manual,First Owner,23.8 kmpl,998 CC,66.9 bhp,5
+Maruti Alto K10 VXI,2014,105000,151244,Petrol,Individual,Automatic,Second Owner,23.1 kmpl,1000 CC,65.2 bhp,5
+Ford Figo 1.2 Titanium,2010,78000,125343,Petrol,Individual,Manual,Third Owner,19.3 kmpl,1196 CC,94.2 bhp,5
+Mahindra Scorpio S11,2014,428000,117843,Diesel,Dealer,Manual,First Owner,14.4 kmpl,2177 CC,138.0 bhp,7
+Mercedes-Benz C-Class C 220d,2010,655000,106680,Diesel,Individual,Automatic,Second Owner,19.9 kmpl,2145 CC,165.4 bhp,5
+Toyota Innova Crysta 2.4 VX,2021,1401000,41841,Diesel,Individual,Manual,First Owner,14.6 kmpl,2391 CC,143.7 bhp,7
+Ford EcoSport 1.5 TDCi Titanium,2016,312000,91676,Diesel,Individual,Manual,Second Owner,23.9 kmpl,1496 CC,99.2 bhp,5
+Toyota Fortuner 4x4 MT,2008,379000,137679,Diesel,Individual,Manual,Second Owner,14.4 kmpl,2753 CC,174.2 bhp,7
+Honda City i-DTEC VX,2022,978000,32252,Diesel,Individual,Manual,First Owner,25.2 kmpl,1496 CC,100.7 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2018,329000,57882,Diesel,Individual,Manual,Third Owner,23.7 kmpl,1498 CC,100.8 bhp,5
+Audi Q3 2.0 TDI Quattro,2016,1360000,60698,Diesel,Individual,Automatic,Second Owner,15.8 kmpl,1966 CC,171.2 bhp,5
+Mahindra XUV500 W11 AT,2021,1320000,31888,Diesel,Dealer,Automatic,First Owner,14.1 kmpl,2179 CC,,7
+Hyundai Grand i10 Magna,2016,201000,63741,Petrol,Individual,Manual,First Owner,18.4 kmpl,1197 CC,84.2 bhp,5
+Tata Nexon XZA Plus Diesel,2012,185000,154574,Diesel,Individual,Manual,Third Owner,22.1 kmpl,1497 CC,107.5 bhp,5
+Maruti Swift VXI,2014,166000,105494,Petrol,Individual,Manual,First Owner,23.0 kmpl,1199 CC,81.4 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2017,1052000,70851,Diesel,Dealer,Automatic,Second Owner,14.7 kmpl,2755 CC,176.5 bhp,7
+Hyundai Venue SX 1.0 Turbo,2017,376000,50257,Petrol,Dealer,Manual,Second Owner,18.9 kmpl,998 CC,115.5 bhp,5
+Hyundai Verna SX Turbo DCT,2016,502000,98962,Petrol,Individual,Automatic,Second Owner,19.3 kmpl,1482 CC,158.9 bhp,5
+Audi A6 35 TDI Matrix,2015,1403000,97335,Diesel,Individual,Manual,Second Owner,19.0 kmpl,1968 CC,193.3 bhp,5
+Hyundai i20 Sportz 1.2,2019,387000,62123,Petrol,Dealer,Manual,First Owner,19.6 kmpl,1195 CC,81.0 bhp,5
+Audi A4 2.0 TDI Premium,2016,1260000,101580,Diesel,Dealer,Manual,Second Owner,17.2 kmpl,1966 CC,174.3 bhp,5
+Toyota Fortuner 4x4 MT,2016,979000,95003,Diesel,Individual,Manual,Second Owner,14.0 kmpl,2753 CC,173.9 bhp,7
+Mahindra Scorpio S11,2019,843000,58609,Diesel,Individual,Manual,First Owner,14.7 kmpl,2181 CC,138.8 bhp,7
+Maruti Swift Dzire VDI,2022,544000,32753,Diesel,Dealer,Manual,First Owner,27.1 kmpl,1246 CC,75.8 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2019,427000,50969,Diesel,Individual,Manual,Second Owner,22.2 kmpl,1500 CC,99.7 bhp,5
+Maruti Alto 800 LXI,2014,102000,102203,Petrol,Individual,Manual,First Owner,24.0 kmpl,798 CC,47.1 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2017,403000,105311,Diesel,Dealer,Manual,First Owner,20.8 kmpl,1498 CC,105.0 bhp,5
+Maruti Vitara Brezza ZDI,2012,126000,181396,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner,25.0 kmpl,1250 CC,87.8 bhp,5
+Audi A6 35 TDI Matrix,2011,1017000,133837,Diesel,Dealer,Automatic,Second Owner,18.7 kmpl,1966 CC,187.4 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2021,623000,23510,Petrol,Dealer,Manual,First Owner,19.0 kmpl,997 CC,106.3 bhp,5
+Chevrolet Beat LT Diesel,2011,71000,115444,Diesel,Dealer,Manual,Third Owner,26.0 kmpl,938 CC,56.0 bhp,5
+Mahindra Scorpio S10,2018,538000,94008,Diesel,Individual,Manual,Second Owner,16.1 kmpl,2177 CC,,7
+Hyundai i20 Sportz 1.2,2022,557000,26771,CNG,Trustmark Dealer,Manual,Second Owner,19.2 km/kg,1197 CC,80.0 bhp,5
+Maruti Swift Dzire VDI,2009,66000,148961,Diesel,Individual,Manual,Fourth & Above Owner,,1250 CC,72.7 bhp,5
+Volkswagen Polo GT TSI,2019,560000,62392,Petrol,Trustmark Dealer,Automatic,First Owner,17.8 kmpl,1195 CC,101.1 bhp,5
+Skoda Rapid 1.6 MPI Ambition,2020,551000,41405,Petrol,Individual,Manual,First Owner,15.4 kmpl,1596 CC,105.0 bhp,5
+BMW 5 Series 520d,2018,2785000,75721,Diesel,Dealer,Automatic,Second Owner,18.4 kmpl,1997 CC,187.9 bhp,5
+Maruti Wagon R LXI CNG,2022,400000,36042,CNG,Individual,Manual,First Owner,30.2 km/kg,998 CC,56.5 bhp,5
+Maruti Wagon R ZXI 1.2,2011,93000,163137,Petrol,Individual,Manual,Third Owner,20.9 kmpl,1197 CC,80.0 bhp,5
+Mercedes-Benz C-Class C 220d,2019,2365000,52897,Diesel,Individual,Automatic,First Owner,18.8 kmpl,2143 CC,169.9 bhp,5
+Toyota Fortuner 4x4 MT,2015,930000,84790,Diesel,Individual,Manual,First Owner,13.7 kmpl,2757 CC,173.2 bhp,7
+Mercedes-Benz E-Class E 220d,2017,2714000,86421,Diesel,Dealer,Automatic,First Owner,15.8 kmpl,1952 CC,186.5 bhp,5
+Hyundai i20 Asta CRDI,2018,363000,52522,Diesel,Individual,Manual,Second Owner,22.0 kmpl,1396 CC,86.7 bhp,5
+Mahindra Scorpio S11,2020,949000,55792,Diesel,Dealer,Manual,First Owner,14.7 kmpl,2179 CC,141.7 bhp,7
+Maruti Swift VXI,2012,116000,106208,CNG,Trustmark Dealer,Manual,Second Owner,21.8 km/kg,1199 CC,80.6 bhp,5
+Skoda Octavia 2.0 TDI L&K AT,2014,767000,94353,Diesel,Dealer,Automatic,First Owner,19.6 kmpl,1966 CC,139.1 bhp,5
+Mahindra XUV500 W11 AT,2016,590000,81908,Diesel,Individual,Automatic,Second Owner,13.7 kmpl,2179 CC,153.0 bhp,7
+Maruti Wagon R LXI CNG,2006,45000,172363,CNG,Dealer,Manual,Second Owner,32.3 km/kg,996 CC,56.3 bhp,5
+Tata Nexon XZ Plus Petrol,2017,423000,73587,Petrol,Individual,Manual,First Owner,16.2 kmpl,1200 CC,115.1 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2018,322000,78434,Petrol,Individual,Manual,First Owner,17.1 kmpl,1198 CC,72.5 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2010,128000,193320,Diesel,Individual,Manual,Third Owner,20.5 kmpl,1498 CC,105.0 bhp,5
+Maruti Vitara Brezza ZDI,2017,286000,67248,Diesel,Individual,Manual,Third Owner,23.7 kmpl,1250 CC,90.2 bhp,5
+Honda Amaze 1.5 S i-DTEC,2012,141000,96493,Diesel,Individual,Manual,Third Owner,26.9 kmpl,1500 CC,98.3 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2020,530000,53911,Petrol,Individual,Automatic,First Owner,17.9 kmpl,999 CC,109.2 bhp,5
+Renault Kwid RXT,2016,143000,66810,Petrol,Dealer,Automatic,Third Owner,21.7 kmpl,1001 CC,67.4 bhp,5
+Maruti Alto 800 LXI,2016,131000,110240,Petrol,Individual,Manual,First Owner,25.5 kmpl,794 CC,48.2 bhp,5
+Maruti Ertiga VDI,2017,374000,55173,Diesel,Individual,Manual,First Owner,26.5 kmpl,1246 CC,87.8 bhp,7
+Volkswagen Vento 1.6 Highline,2019,585000,43105,Petrol,Dealer,Automatic,First Owner,16.7 kmpl,1600 CC,105.7 bhp,5
+Hyundai Venue SX 1.0 Turbo,2015,289000,105591,Petrol,Dealer,Manual,Second Owner,19.0 kmpl,996 CC,119.0 bhp,5
+Tata Nexon XZ Plus Petrol,2018,424000,57327,Petrol,Dealer,Manual,Second Owner,17.3 kmpl,1200 CC,115.4 bhp,5
+Maruti Swift Dzire VDI,2015,132000,78302,Diesel,Individual,Manual,Fourth & Above Owner,27.4 kmpl,1246 CC,72.1 bhp,5
+Audi Q3 2.0 TDI Quattro,2020,2436000,53192,Diesel,Individual,Automatic,First Owner,16.2 kmpl,1966 CC,170.8 bhp,5
+Honda City i-VTEC V,2019,542000,45248,Petrol,Trustmark Dealer,Manual,Second Owner,17.3 kmpl,1499 CC,119.3 bhp,5
+Renault Duster 110PS RXZ,2021,761000,32820,Diesel,Individual,Manual,First Owner,19.4 kmpl,1461 CC,108.5 bhp,5
+Honda Amaze 1.5 S i-DTEC,2020,420000,35724,Diesel,Individual,Manual,Second Owner,26.7 kmpl,1500 CC,100.6 bhp,5
+Hyundai Santro Magna,2014,129000,155981,Petrol,Dealer,Manual,First Owner,21.2 kmpl,1086 CC,69.6 bhp,5
+Tata Tiago XZ,2017,196000,70170,Petrol,Individual,Manual,Second Owner,24.5 kmpl,1201 CC,84.6 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2021,669000,32157,Diesel,Individual,Manual,First Owner,23.8 kmpl,1496 CC,97.2 bhp,5
+Audi A4 2.0 TDI Premium,2016,1300000,111304,Diesel,Individual,Manual,Second Owner,16.4 kmpl,1970 CC,173.9 bhp,5
+Audi A6 35 TDI Matrix,2007,437000,193684,Diesel,Individual,Automatic,Third Owner,18.8 kmpl,1970 CC,186.8 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2010,107000,169950,Diesel,Individual,Manual,Fourth & Above Owner,22.1 kmpl,1496 CC,104.3 bhp,5
+Maruti Swift Dzire VDI,2015,178000,74275,Diesel,Individual,Manual,Second Owner,26.1 kmpl,1248 CC,72.4 bhp,5
+Honda City ZX CVT,2020,866000,60656,Petrol,Individual,Automatic,First Owner,18.3 kmpl,1500 CC,121.3 bhp,5
+Maruti Alto 800 LXI,2020,178000,53397,Petrol,Individual,Manual,Second Owner,25.3 kmpl,796 CC,46.6 bhp,5
+Skoda Rapid 1.6 MPI Ambition,2020,570000,35440,Petrol,Individual,Manual,First Owner,,1598 CC,106.0 bhp,5
+Chevrolet Beat LT Diesel,2019,208000,53784,Diesel,Individual,Manual,Second Owner,24.9 kmpl,934 CC,56.5 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2014,276000,128322,Petrol,Individual,Automatic,Second Owner,15.8 kmpl,1496 CC,121.5 bhp,5
+Maruti Wagon R LXI CNG,2010,68000,179418,CNG,Dealer,Manual,Third Owner,31.8 km/kg,996 CC,56.8 bhp,5
+Maruti Baleno Alpha CVT,2011,170000,123132,Petrol,Individual,Automatic,Second Owner,19.3 kmpl,1197 CC,90.9 bhp,5
+Hyundai Verna 1.6 VTVT SX,2017,361000,77121,Petrol,Individual,Manual,Second Owner,18.4 kmpl,1591 CC,121.4 bhp,5
+Toyota Corolla Altis GL,2019,794000,48142,Petrol,Individual,Manual,First Owner,14.8 kmpl,1796 CC,137.6 bhp,5
+Maruti Ciaz Alpha Petrol,2020,625000,65176,Petrol,Individual,Manual,First Owner,21.0 kmpl,1462 CC,105.4 bhp,5
+Honda City ZX CVT,2020,795000,47015,Petrol,Individual,Automatic,Second Owner,18.5 kmpl,1496 CC,118.3 bhp,5
+Mercedes-Benz C-Class C 220d,2011,614000,182984,Diesel,Dealer,Automatic,Third Owner,19.8 kmpl,2143 CC,170.3 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2018,285000,74380,Petrol,Dealer,Manual,Second Owner,16.8 kmpl,1200 CC,74.4 bhp,5
+BMW 3 Series 320d Luxury Line,2021,3031000,21427,Diesel,Individual,Automatic,Second Owner,23.7 kmpl,1993 CC,186.0 bhp,5
+Maruti Ertiga VDI,2014,204000,126013,Diesel,Individual,Manual,Second Owner,25.6 kmpl,1246 CC,89.0 bhp,7
+Volkswagen Vento 1.6 Highline,2020,549000,42817,Petrol,Individual,Automatic,Second Owner,15.5 kmpl,1600 CC,102.0 bhp,5
+Maruti Baleno Delta,2017,235000,89450,Petrol,Individual,Manual,Second Owner,20.1 kmpl,1197 CC,81.0 bhp,5
+Mahindra XUV500 W11 AT,2016,661000,88117,Diesel,Dealer,Manual,First Owner,13.5 kmpl,2179 CC,157.2 bhp,7
+Mercedes-Benz E-Class E 220d,2011,1169000,127025,Diesel,Individual,Automatic,Second Owner,16.0 kmpl,1950 CC,195.9 bhp,5
+Hyundai Santro Magna,2020,302000,63843,Petrol,Trustmark Dealer,Manual,First Owner,19.5 kmpl,1086 CC,68.0 bhp,5
+Mahindra Bolero Power+ ZLX,2022,637000,24087,Diesel,Individual,Manual,First Owner,16.6 kmpl,1495 CC,69.9 bhp,7
+Mahindra XUV500 W8,2011,208000,126143,Diesel,Individual,Manual,Third Owner,14.8 kmpl,2177 CC,138.8 bhp,7
+Mahindra Thar CRDe 4x4,2019,392000,45348,Diesel,Individual,Automatic,Third Owner,16.9 kmpl,2500 CC,107.8 bhp,4
+BMW 5 Series 520d,2016,2077000,55116,Diesel,Dealer,Automatic,Second Owner,18.5 kmpl,1993 CC,188.9 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2012,112000,149405,Petrol,Individual,Manual,Third Owner,16.9 kmpl,1200 CC,73.1 bhp,5
+Hyundai Grand i10 Magna,2022,471000,28643,Petrol,Dealer,Manual,First Owner,19.2 kmpl,1197 CC,80.6 bhp,5
+Toyota Innova Crysta 2.4 VX,2019,978000,69643,Diesel,Individual,Manual,Second Owner,14.7 kmpl,2391 CC,150.3 bhp,7
+Hyundai Grand i10 Magna,2013,118000,122011,Petrol,Individual,Manual,Second Owner,19.6 kmpl,1199 CC,83.9 bhp,5
+Maruti Wagon R LXI CNG,2019,309000,58039,CNG,Trustmark Dealer,Manual,First Owner,30.5 km/kg,998 CC,57.4 bhp,5
+Volkswagen Vento 1.6 Highline,2017,392000,91414,Petrol,Individual,Manual,First Owner,16.8 kmpl,1596 CC,106.2 bhp,5
+Honda Jazz 1.2 V,2019,372000,60413,Petrol,Dealer,Manual,Second Owner,17.4 kmpl,1199 CC,86.7 bhp,5
+Tata Tiago XZ,2020,341000,59079,Petrol,Dealer,Manual,First Owner,24.4 kmpl,1199 CC,84.6 bhp,5
+Audi A6 35 TDI Matrix,2014,1443000,119940,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1970 CC,192.3 bhp,5
+Hyundai i20 Sportz 1.2,2016,236000,113487,Petrol,Individual,Manual,Second Owner,20.7 kmpl,1195 CC,81.5 bhp,5
+Nissan Micra Active XL,2018,251000,83564,Petrol,Dealer,Manual,First Owner,20.0 kmpl,1200 CC,65.9 bhp,5
+Maruti Baleno Alpha CVT,2021,642000,33995,Petrol,Dealer,Automatic,Second Owner,18.9 kmpl,1197 CC,90.0 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2021,846000,26002,Petrol,Trustmark Dealer,Manual,First Owner,15.9 kmpl,1498 CC,121.0 bhp,5
+BMW 3 Series 320d Luxury Line,2016,1528000,67323,Diesel,Individual,Automatic,Second Owner,23.4 kmpl,1993 CC,190.4 bhp,5
+Honda Amaze 1.2 VX,2012,126000,176443,Petrol,Individual,Manual,Third Owner,18.6 kmpl,1197 CC,91.1 bhp,5
+Maruti Swift VXI,2014,135000,98928,Petrol,Individual,Manual,Second Owner,21.7 kmpl,1195 CC,80.8 bhp,5
+Hyundai Creta SX 1.6 CRDI,2016,444000,74748,Diesel,Dealer,Manual,Second Owner,20.4 kmpl,1584 CC,123.3 bhp,5
+Toyota Innova 2.5 G4 Diesel,2013,314000,99703,Diesel,Individual,Manual,Second Owner,13.1 kmpl,2496 CC,103.1 bhp,7
+Honda Civic 1.8 V AT,2019,911000,60547,Petrol,Individual,Automatic,Second Owner,16.6 kmpl,1797 CC,135.3 bhp,5
+Audi A6 35 TDI Matrix,2012,983000,125722,Diesel,Individual,Automatic,Second Owner,17.7 kmpl,1970 CC,187.1 bhp,5
+Mahindra Scorpio S10,2016,446000,69927,Diesel,Individual,Manual,First Owner,15.5 kmpl,2177 CC,121.8 bhp,7
+Volkswagen Vento 1.5 TDI Highline AT,2019,693000,54139,Diesel,Dealer,Manual,First Owner,20.7 kmpl,1498 CC,106.5 bhp,5
+Mahindra Scorpio S10,2015,406000,136242,Diesel,Individual,Manual,First Owner,14.8 kmpl,2181 CC,,7
+Hyundai Creta SX 1.6 CRDI,2012,255000,144691,Diesel,Individual,Manual,Second Owner,19.5 kmpl,1580 CC,129.8 bhp,5
+Mahindra Scorpio S11,2017,554000,98733,Diesel,Individual,Manual,Second Owner,14.3 kmpl,2181 CC,142.2 bhp,7
+Maruti Swift Dzire VDI,2013,128000,81367,Diesel,Dealer,Manual,Third Owner,26.2 kmpl,1246 CC,75.1 bhp,5
+Honda Civic 1.8 V AT,2019,929000,63634,Petrol,Individual,Automatic,Second Owner,16.7 kmpl,1801 CC,137.5 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2013,212000,155652,Petrol,Individual,Manual,First Owner,18.9 kmpl,1001 CC,111.5 bhp,5
+Mahindra Scorpio S11,2017,653000,57973,Diesel,Dealer,Manual,First Owner,14.7 kmpl,2179 CC,139.2 bhp,7
+Audi A6 35 TDI Matrix,2016,1569000,114040,Diesel,Dealer,Automatic,Third Owner,18.3 kmpl,1970 CC,186.7 bhp,5
+Tata Nexon XZA Plus Diesel,2013,332000,101137,Diesel,Dealer,Automatic,First Owner,20.5 kmpl,1499 CC,110.6 bhp,5
+Maruti Alto 800 LXI,2021,223000,27734,Petrol,Individual,Manual,Second Owner,23.9 kmpl,794 CC,46.5 bhp,5
+Nissan Micra Active XL,2021,331000,39795,Petrol,Individual,Manual,First Owner,19.2 kmpl,1198 CC,67.1 bhp,
+BMW 5 Series 520d,2021,4505000,30682,Diesel,Dealer,Automatic,First Owner,18.3 kmpl,1993 CC,186.2 bhp,5
+Toyota Innova 2.5 G4 Diesel,2019,819000,39205,Diesel,Dealer,Manual,First Owner,12.6 kmpl,2492 CC,99.6 bhp,7
+Chevrolet Beat LT Diesel,2017,172000,109157,Diesel,Trustmark Dealer,Manual,Second Owner,26.0 kmpl,936 CC,56.2 bhp,5
+Hyundai Verna 1.6 VTVT SX,2019,588000,56030,Petrol,Individual,Manual,First Owner,16.9 kmpl,1589 CC,123.8 bhp,5
+Maruti Alto K10 VXI,2019,241000,51395,Petrol,Dealer,Manual,First Owner,22.8 kmpl,1000 CC,66.8 bhp,5
+Nissan Micra Active XL,2018,222000,37984,Petrol,Individual,Manual,Second Owner,18.6 kmpl,1200 CC,68.9 bhp,5
+Mahindra XUV500 W8,2020,951000,58682,Diesel,Individual,Automatic,First Owner,14.9 kmpl,2181 CC,137.9 bhp,7
+Maruti Ertiga VDI,2015,258000,102974,Diesel,Individual,Manual,Second Owner,26.3 kmpl,1246 CC,89.3 bhp,7
+Maruti Ciaz Alpha Petrol,2016,363000,91309,Petrol,Individual,Automatic,Second Owner,20.3 kmpl,1462 CC,104.1 bhp,5
+Hyundai i20 Sportz 1.2,2021,560000,39981,Petrol,Dealer,Manual,First Owner,19.0 kmpl,1197 CC,79.8 bhp,5
+Audi Q3 2.0 TDI Quattro,2017,1740000,51760,Diesel,Trustmark Dealer,Automatic,First Owner,16.4 kmpl,1970 CC,177.7 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2017,998000,105457,Diesel,Individual,Automatic,Second Owner,14.3 kmpl,2757 CC,173.8 bhp,7
+Maruti Alto K10 VXI,2011,74000,113203,Petrol,Trustmark Dealer,Manual,Third Owner,23.4 kmpl,998 CC,65.1 bhp,5
+Nissan Sunny XL D,2013,189000,134131,Diesel,Dealer,Manual,First Owner,22.1 kmpl,1463 CC,83.8 bhp,5
+Toyota Etios Liva GD,2012,104000,154015,Diesel,Individual,Manual,Second Owner,24.1 kmpl,1364 CC,66.8 bhp,5
+Maruti Ciaz Alpha Petrol,2012,186000,139903,Petrol,Individual,Automatic,Second Owner,21.3 kmpl,1464 CC,105.0 bhp,5
+Tata Safari XZA Plus 6S AT,2015,751000,72191,Diesel,Individual,Automatic,First Owner,13.5 kmpl,1956 CC,165.3 bhp,6
+Toyota Glanza G,2016,241000,85248,Petrol,Dealer,Manual,Second Owner,21.4 kmpl,1199 CC,86.9 bhp,5
+Tata Tiago XZ,2015,133000,116168,Petrol,Individual,Manual,Third Owner,22.9 kmpl,1201 CC,86.2 bhp,5
+Honda Amaze 1.5 S i-DTEC,2017,339000,67234,Diesel,Dealer,Manual,First Owner,25.4 kmpl,1500 CC,100.3 bhp,5
+Tata Tiago XZ,2015,156000,133262,Petrol,Dealer,Manual,Second Owner,24.3 kmpl,1201 CC,83.6 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2020,608000,38670,Petrol,Individual,Manual,First Owner,16.4 kmpl,1494 CC,122.3 bhp,5
+Nissan Micra Active XL,2018,232000,79862,Petrol,Individual,Manual,First Owner,20.1 kmpl,1198 CC,,5
+Maruti Ertiga VDI,2011,143000,124061,Diesel,Individual,Manual,Third Owner,26.0 kmpl,1250 CC,88.0 bhp,7
+Mahindra XUV500 W8,2011,226000,104969,Diesel,Individual,Manual,Third Owner,14.9 kmpl,2177 CC,139.5 bhp,7
+BMW 3 Series 320d Luxury Line,2012,979000,97231,Diesel,Trustmark Dealer,Automatic,Second Owner,22.3 kmpl,1997 CC,183.7 bhp,5
+Honda Jazz 1.2 V,2017,332000,79573,CNG,Individual,Manual,First Owner,16.4 km/kg,1197 CC,90.4 bhp,5
+Hyundai i20 Asta CRDI,2019,465000,44722,Diesel,Individual,Manual,First Owner,22.3 kmpl,1396 CC,87.3 bhp,5
+Mahindra XUV500 W8,2016,468000,105785,Diesel,Individual,Manual,First Owner,15.6 kmpl,2179 CC,142.1 bhp,7
+Hyundai i20 Asta CRDI,2020,486000,46718,Diesel,Individual,Manual,Second Owner,22.8 kmpl,1396 CC,88.8 bhp,
+Tata Tiago XZ,2018,251000,65633,Petrol,Dealer,Manual,Second Owner,24.0 kmpl,1199 CC,85.9 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2011,105000,122345,Petrol,Individual,Manual,Third Owner,,1196 CC,74.3 bhp,5
+Audi A6 35 TDI Matrix,2019,3086000,62101,Diesel,Individual,Automatic,First Owner,19.2 kmpl,1968 CC,189.0 bhp,5
+Nissan Sunny XL D,2011,104000,185395,Diesel,Individual,Manual,Third Owner,22.6 kmpl,1461 CC,85.9 bhp,5
+Maruti Baleno Delta,2020,381000,39795,CNG,Individual,Manual,Second Owner,21.6 km/kg,1199 CC,83.2 bhp,5
+Hyundai Grand i10 Magna,2018,278000,62185,Petrol,Dealer,Manual,First Owner,18.1 kmpl,1195 CC,84.2 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2014,827000,82376,Diesel,Individual,Automatic,Third Owner,13.8 kmpl,2753 CC,177.4 bhp,7
+Volkswagen Vento 1.5 TDI Highline AT,2020,735000,57026,Diesel,Individual,Manual,First Owner,21.6 kmpl,1496 CC,109.1 bhp,5
+Honda City i-VTEC V,2015,248000,119492,Petrol,Dealer,Manual,Fourth & Above Owner,17.2 kmpl,1499 CC,119.5 bhp,5
+Tata Safari XZA Plus 6S AT,2021,1553000,26970,Diesel,Individual,Manual,First Owner,14.2 kmpl,1954 CC,170.2 bhp,6
+Toyota Etios Liva GD,2018,291000,70248,CNG,Dealer,Manual,First Owner,24.5 km/kg,1366 CC,66.1 bhp,5
+Nissan Sunny XL D,2015,262000,61232,Diesel,Dealer,Manual,Second Owner,,1459 CC,86.3 bhp,5
+Honda Civic 1.8 V AT,2017,756000,71800,Petrol,Individual,Automatic,First Owner,16.9 kmpl,1799 CC,142.3 bhp,5
+Mahindra Bolero Power+ ZLX,2007,76000,248597,Diesel,Trustmark Dealer,Automatic,Second Owner,17.1 kmpl,1495 CC,71.7 bhp,7
+Toyota Glanza G,2010,104000,142532,CNG,Individual,Manual,Second Owner,22.7 km/kg,1199 CC,87.5 bhp,5
+Maruti Ciaz Alpha Petrol,2019,490000,37033,Petrol,Individual,Automatic,Second Owner,20.3 kmpl,1460 CC,100.2 bhp,5
+Mahindra Scorpio S11,2019,974000,51885,Diesel,Dealer,Automatic,First Owner,14.5 kmpl,2179 CC,143.2 bhp,7
+Hyundai Verna 1.6 VTVT SX,2018,465000,74963,Petrol,Individual,Manual,First Owner,17.9 kmpl,1591 CC,122.9 bhp,5
+Tata Safari XZA Plus 6S AT,2018,1140000,65862,Diesel,Dealer,Manual,First Owner,13.9 kmpl,1956 CC,166.1 bhp,6
+Toyota Fortuner 2.8 4x2 AT,2014,945000,80031,Diesel,Individual,Automatic,Second Owner,14.7 kmpl,2757 CC,169.5 bhp,7
+Honda Jazz 1.2 V,2017,278000,79399,Petrol,Individual,Manual,Second Owner,16.4 kmpl,1197 CC,88.7 bhp,5
+Maruti Vitara Brezza ZDI,2017,442000,56518,Diesel,Dealer,Automatic,First Owner,23.5 kmpl,1248 CC,88.7 bhp,5
+Maruti Vitara Brezza ZDI,2007,97000,123852,Diesel,Individual,Automatic,Third Owner,24.8 kmpl,1250 CC,87.4 bhp,5
+Mahindra Scorpio S11,2019,857000,38378,Diesel,Individual,Manual,First Owner,14.8 kmpl,2177 CC,140.3 bhp,7
+Maruti Wagon R ZXI 1.2,2014,169000,108649,CNG,Individual,Automatic,Second Owner,20.8 km/kg,1199 CC,79.8 bhp,5
+Honda City ZX CVT,2011,235000,165883,Petrol,Trustmark Dealer,Automatic,Third Owner,18.2 kmpl,1500 CC,117.6 bhp,5
+Toyota Etios Liva GD,2019,332000,35796,Diesel,Individual,Manual,First Owner,23.5 kmpl,1366 CC,67.5 bhp,5
+Maruti Wagon R LXI CNG,2017,214000,81969,CNG,Individual,Manual,First Owner,30.3 km/kg,,58.6 bhp,5
+Maruti Swift VXI,2009,69000,206437,Petrol,Individual,Manual,Second Owner,22.9 kmpl,1195 CC,82.3 bhp,5
+Mahindra Scorpio S10,2013,281000,108002,Diesel,Dealer,Manual,Second Owner,16.0 kmpl,2177 CC,120.0 bhp,7
+BMW X1 sDrive20d xLine,2022,3127000,37767,Diesel,Individual,Automatic,First Owner,19.5 kmpl,1995 CC,183.0 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2017,433000,69371,Petrol,Individual,Automatic,Second Owner,16.0 kmpl,1494 CC,122.4 bhp,5
+Hyundai Venue SX 1.0 Turbo,2006,75000,182245,Petrol,Dealer,Manual,Fourth & Above Owner,18.5 kmpl,998 CC,114.8 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2011,625000,150224,Diesel,Trustmark Dealer,Automatic,Second Owner,11.4 kmpl,3198 CC,192.2 bhp,7
+BMW X1 sDrive20d xLine,2016,1258000,121893,Diesel,Individual,Automatic,Second Owner,18.8 kmpl,1997 CC,,5
+Mahindra XUV500 W8,2018,684000,51178,Diesel,Dealer,Manual,First Owner,15.0 kmpl,2181 CC,138.5 bhp,7
+Honda Amaze 1.5 S i-DTEC,2011,111000,171587,Diesel,Individual,Manual,Third Owner,26.5 kmpl,1500 CC,97.8 bhp,5
+Renault Kwid RXT,2014,109000,77782,Petrol,Dealer,Manual,Second Owner,22.8 kmpl,997 CC,65.9 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2022,2913000,32317,Diesel,Dealer,Automatic,First Owner,14.3 kmpl,2755 CC,178.2 bhp,7
+Hyundai i20 Sportz 1.2,2016,297000,108260,Petrol,Dealer,Automatic,First Owner,19.5 kmpl,1195 CC,83.6 bhp,5
+Maruti Ertiga VDI,2018,507000,52177,Diesel,Dealer,Automatic,First Owner,26.3 kmpl,1246 CC,86.3 bhp,7
+Hyundai Creta SX 1.6 CRDI,2009,156000,158299,Diesel,Dealer,Manual,Third Owner,19.5 kmpl,1580 CC,125.3 bhp,5
+Honda City i-DTEC VX,2014,320000,106400,Diesel,Individual,Manual,First Owner,25.5 kmpl,1498 CC,100.9 bhp,5
+Tata Nexon XZA Plus Diesel,2011,178000,115393,Diesel,Dealer,Automatic,Fourth & Above Owner,21.6 kmpl,1499 CC,107.6 bhp,5
+BMW 3 Series 320d Luxury Line,2015,1173000,83827,Diesel,Individual,Automatic,Third Owner,23.8 kmpl,1995 CC,182.7 bhp,5
+Toyota Innova Crysta 2.4 VX,2022,1766000,18761,Diesel,Dealer,Manual,First Owner,15.8 kmpl,2391 CC,149.8 bhp,7
+Tata Nexon XZA Plus Diesel,2015,385000,125558,Diesel,Dealer,Automatic,Second Owner,21.9 kmpl,1499 CC,105.4 bhp,5
+Hyundai Verna SX Turbo DCT,2017,589000,70923,Petrol,Individual,Automatic,First Owner,18.6 kmpl,1484 CC,154.8 bhp,5
+Honda Amaze 1.5 S i-DTEC,2020,463000,39979,Diesel,Individual,Manual,First Owner,24.9 kmpl,1500 CC,99.8 bhp,5
+Audi A4 2.0 TDI Premium,2020,2673000,56848,Diesel,Individual,Automatic,First Owner,17.9 kmpl,1968 CC,172.4 bhp,5
+Mahindra XUV500 W8,2020,801000,70440,Diesel,Trustmark Dealer,Manual,Second Owner,14.7 kmpl,2181 CC,142.4 bhp,7
+Honda City ZX CVT,2015,379000,121758,Petrol,Dealer,Automatic,Third Owner,18.9 kmpl,1498 CC,121.8 bhp,5
+Honda City i-DTEC VX,2018,571000,89508,Diesel,Individual,Automatic,First Owner,26.8 kmpl,1496 CC,97.0 bhp,5
+Maruti Ciaz Alpha Petrol,2020,559000,55953,Petrol,Individual,Manual,First Owner,21.1 kmpl,1462 CC,105.0 bhp,5
+Mahindra XUV500 W11 AT,2019,1010000,75140,Diesel,Individual,Automatic,First Owner,14.4 kmpl,2177 CC,155.8 bhp,7
+Toyota Innova 2.5 G4 Diesel,2012,277000,87330,Diesel,Trustmark Dealer,Manual,Second Owner,12.4 kmpl,2492 CC,102.9 bhp,7
+Maruti Ciaz Alpha Petrol,2015,271000,119052,Petrol,Dealer,Manual,Second Owner,19.8 kmpl,1462 CC,101.1 bhp,5
+Honda Amaze 1.2 VX,2016,234000,96004,Petrol,Individual,Manual,Second Owner,18.0 kmpl,1201 CC,90.3 bhp,5
+Mahindra Scorpio S11,2010,231000,203225,Diesel,Individual,Automatic,Second Owner,14.4 kmpl,2177 CC,139.8 bhp,7
+Renault Duster 110PS RXZ,2017,406000,90588,Diesel,Individual,Manual,Second Owner,18.7 kmpl,1461 CC,106.5 bhp,5
+Toyota Corolla Altis GL,2013,315000,98219,Petrol,Individual,Manual,Second Owner,14.6 kmpl,1800 CC,137.3 bhp,5
+Maruti Wagon R LXI CNG,2020,262000,63533,CNG,Dealer,Manual,Second Owner,31.4 km/kg,1000 CC,59.3 bhp,5
+Maruti Baleno Alpha CVT,2017,405000,112567,Petrol,Individual,Automatic,First Owner,20.4 kmpl,1197 CC,86.8 bhp,5
+Honda Amaze 1.2 VX,2011,128000,133651,Petrol,Trustmark Dealer,Manual,Third Owner,19.4 kmpl,1201 CC,87.2 bhp,5
+Maruti Wagon R ZXI 1.2,2010,68000,169818,Petrol,Individual,Manual,Fourth & Above Owner,20.8 kmpl,1195 CC,83.4 bhp,5
+Mahindra Scorpio S10,2011,233000,106781,Diesel,Trustmark Dealer,Manual,Second Owner,14.8 kmpl,2177 CC,120.5 bhp,7
+Audi A6 35 TDI Matrix,2021,3773000,51037,Diesel,Individual,Automatic,First Owner,17.8 kmpl,1966 CC,185.2 bhp,5
+Tata Harrier XZ Plus,2009,231000,220167,Diesel,Individual,Automatic,Second Owner,16.8 kmpl,1956 CC,162.8 bhp,5
+Toyota Glanza G,2020,400000,54338,Petrol,Individual,Manual,Second Owner,22.1 kmpl,1197 CC,87.3 bhp,5
+Honda Amaze 1.2 VX,2016,220000,124198,Petrol,Dealer,Manual,Third Owner,17.8 kmpl,1201 CC,90.0 bhp,5
+Tata Harrier XZ Plus,2011,305000,177597,Diesel,Individual,Manual,Second Owner,17.0 kmpl,1954 CC,167.2 bhp,5
+Toyota Glanza G,2015,256000,108769,Petrol,Dealer,Manual,First Owner,21.6 kmpl,1197 CC,89.0 bhp,5
+Mercedes-Benz C-Class C 220d,2015,1245000,78526,Diesel,Individual,Automatic,Second Owner,19.7 kmpl,2141 CC,171.2 bhp,5
+Toyota Innova 2.5 G4 Diesel,2018,567000,77080,Diesel,Individual,Manual,Second Owner,13.3 kmpl,2496 CC,97.6 bhp,7
+Maruti Swift ZXI Plus,2013,148000,136822,Petrol,Individual,Automatic,Third Owner,21.9 kmpl,1197 CC,88.3 bhp,5
+BMW X1 sDrive20d xLine,2020,2325000,39364,Diesel,Trustmark Dealer,Automatic,Second Owner,19.8 kmpl,1997 CC,189.4 bhp,5
+Hyundai i20 Asta CRDI,2017,339000,72337,Diesel,Individual,Manual,Second Owner,21.7 kmpl,1398 CC,87.6 bhp,5
+Maruti Wagon R LXI CNG,2020,295000,62529,CNG,Dealer,Manual,Second Owner,30.9 km/kg,1000 CC,58.0 bhp,5
+Tata Harrier XZ Plus,2015,581000,66824,Diesel,Dealer,Manual,Second Owner,16.6 kmpl,1956 CC,171.7 bhp,5
+Honda City i-VTEC V,2020,620000,57655,Petrol,Dealer,Manual,Second Owner,17.2 kmpl,1499 CC,119.2 bhp,5
+Volkswagen Polo GT TSI,2018,451000,59561,Petrol,Individual,Automatic,Second Owner,16.8 kmpl,1197 CC,102.0 bhp,5
+Renault Duster 110PS RXZ,2009,132000,180273,Diesel,Individual,Manual,Third Owner,18.7 kmpl,1463 CC,107.2 bhp,5
+Hyundai Verna 1.6 VTVT SX,2022,872000,28022,Petrol,Trustmark Dealer,Manual,First Owner,17.0 kmpl,1593 CC,119.0 bhp,5
+Honda City ZX CVT,2014,381000,69904,Petrol,Dealer,Automatic,Second Owner,18.9 kmpl,1496 CC,119.2 bhp,5
+Mahindra XUV500 W8,2018,683000,70882,Diesel,Individual,Manual,First Owner,15.7 kmpl,2179 CC,143.8 bhp,7
+Audi A4 2.0 TDI Premium,2012,719000,145651,Diesel,Dealer,Automatic,Third Owner,17.1 kmpl,1966 CC,170.1 bhp,5
+Maruti Wagon R ZXI 1.2,2020,403000,42297,Petrol,Individual,Manual,First Owner,20.2 kmpl,1199 CC,84.4 bhp,5
+Skoda Rapid 1.6 MPI Ambition,2019,495000,49968,Petrol,Trustmark Dealer,Manual,First Owner,14.9 kmpl,1596 CC,104.1 bhp,5
+Maruti Baleno Alpha CVT,2015,309000,113586,Petrol,Individual,Automatic,First Owner,,1195 CC,89.3 bhp,5
+Mahindra Scorpio S10,2016,443000,67377,Diesel,Dealer,Manual,Second Owner,14.8 kmpl,2179 CC,119.4 bhp,7
+Hyundai Verna 1.6 VTVT SX,2016,313000,113325,Petrol,Individual,Manual,Second Owner,17.2 kmpl,1591 CC,119.1 bhp,5
+BMW X1 sDrive20d xLine,2022,3056000,28290,Diesel,Individual,Manual,First Owner,18.6 kmpl,1995 CC,185.8 bhp,5
+Hyundai Grand i10 Magna,2020,302000,61110,Petrol,Individual,Automatic,Second Owner,19.2 kmpl,1195 CC,83.8 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2014,289000,72370,Petrol,Dealer,Automatic,Second Owner,16.3 kmpl,1498 CC,119.3 bhp,5
+Maruti Alto 800 LXI,2007,38000,138848,Petrol,Trustmark Dealer,Manual,Second Owner,25.5 kmpl,798 CC,,5
+Tata Harrier XZ Plus,2016,565000,89819,Diesel,Individual,Manual,Second Owner,16.6 kmpl,1954 CC,163.7 bhp,5
+Hyundai Santro Magna,2011,67000,198848,Petrol,Individual,Manual,Third Owner,21.0 kmpl,1086 CC,68.5 bhp,5
+Hyundai Creta SX(O) Diesel AT,2017,666000,75686,Diesel,Individual,Automatic,Second Owner,18.8 kmpl,1491 CC,114.8 bhp,5
+Toyota Innova 2.5 G4 Diesel,2022,1094000,31059,Diesel,Individual,Manual,First Owner,12.6 kmpl,2496 CC,99.1 bhp,7
+Tata Nexon XZA Plus Diesel,2012,204000,162028,Diesel,Individual,Automatic,Third Owner,20.6 kmpl,1497 CC,110.9 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2015,675000,80151,Diesel,Individual,Automatic,Third Owner,14.7 kmpl,2753 CC,171.1 bhp,7
+Chevrolet Beat LT Diesel,2016,188000,75073,Diesel,Individual,Automatic,First Owner,24.4 kmpl,938 CC,54.6 bhp,5
+Ford Figo 1.2 Titanium,2021,434000,36596,Petrol,Individual,Manual,First Owner,18.2 kmpl,1192 CC,96.9 bhp,5
+Renault Duster 110PS RXZ,2019,614000,59708,Diesel,Individual,Manual,First Owner,19.2 kmpl,1463 CC,111.5 bhp,5
+Hyundai i20 Asta CRDI,2009,130000,136295,Diesel,Dealer,Manual,Second Owner,21.6 kmpl,1398 CC,87.1 bhp,5
+Honda Civic 1.8 V AT,2016,491000,108452,Petrol,Individual,Manual,Third Owner,16.9 kmpl,1801 CC,139.7 bhp,5
+BMW 3 Series 320d Luxury Line,2011,608000,139260,Diesel,Dealer,Manual,Fourth & Above Owner,23.3 kmpl,1995 CC,192.5 bhp,
+Honda City ZX CVT,2019,881000,38648,Petrol,Dealer,Automatic,First Owner,18.6 kmpl,1498 CC,118.7 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2014,847000,155164,Diesel,Individual,Automatic,Second Owner,14.2 kmpl,2757 CC,178.5 bhp,7
+Mercedes-Benz C-Class C 220d,2020,2908000,53445,Diesel,Individual,Automatic,First Owner,19.6 kmpl,2145 CC,163.9 bhp,5
+Honda City ZX CVT,2017,635000,94372,Petrol,Individual,Automatic,First Owner,18.7 kmpl,1500 CC,120.8 bhp,5
+Audi A6 35 TDI Matrix,2014,1497000,148250,Diesel,Individual,Automatic,First Owner,18.1 kmpl,1970 CC,182.7 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2019,567000,38027,Diesel,Dealer,Manual,First Owner,23.8 kmpl,1498 CC,96.2 bhp,5
+Toyota Innova 2.5 G4 Diesel,2019,747000,65728,Diesel,Dealer,Manual,First Owner,12.6 kmpl,2496 CC,97.9 bhp,7
+Volkswagen Polo 1.2 MPI Highline,2022,608000,10304,Petrol,Dealer,Manual,First Owner,17.1 kmpl,1198 CC,75.5 bhp,5
+Skoda Octavia 2.0 TDI L&K AT,2019,1418000,58822,Diesel,Individual,Automatic,First Owner,20.2 kmpl,1970 CC,137.4 bhp,5
+Hyundai Creta SX 1.6 CRDI,2015,431000,98735,Diesel,Individual,Automatic,First Owner,20.5 kmpl,1582 CC,125.9 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2018,351000,84890,Petrol,Individual,Manual,Second Owner,19.0 kmpl,999 CC,108.8 bhp,5
+BMW 3 Series 320d Luxury Line,2012,768000,145595,Diesel,Individual,Automatic,Third Owner,23.7 kmpl,1995 CC,185.4 bhp,5
+Renault Duster 110PS RXZ,2022,958000,22782,Diesel,Individual,Manual,First Owner,18.7 kmpl,1463 CC,106.8 bhp,5
+Tata Nexon XZ Plus Petrol,2021,661000,42938,Petrol,Individual,Manual,First Owner,17.0 kmpl,1198 CC,118.4 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2021,668000,31227,Petrol,Individual,Automatic,Second Owner,16.1 kmpl,1498 CC,,5
+Honda Civic 1.8 V AT,2020,1140000,40305,Petrol,Dealer,Automatic,Second Owner,17.2 kmpl,1799 CC,140.2 bhp,5
+Hyundai Venue SX 1.0 Turbo,2008,111000,211821,Petrol,Individual,Automatic,Second Owner,17.7 kmpl,996 CC,118.8 bhp,5
+Tata Nexon XZA Plus Diesel,2016,467000,91693,Diesel,Individual,Automatic,First Owner,22.1 kmpl,1499 CC,109.3 bhp,5
+Maruti Vitara Brezza ZDI,2015,274000,98548,Diesel,Individual,Manual,First Owner,25.1 kmpl,1248 CC,87.9 bhp,5
+Hyundai Santro Magna,2017,183000,64631,Petrol,Individual,Manual,Second Owner,21.1 kmpl,1086 CC,68.7 bhp,5
+Skoda Octavia 2.0 TDI L&K AT,2022,2016000,13814,Diesel,Individual,Manual,First Owner,19.8 kmpl,1966 CC,139.3 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2013,310000,170393,Diesel,Individual,Automatic,First Owner,22.1 kmpl,1496 CC,106.5 bhp,5
+Mercedes-Benz C-Class C 220d,2016,1362000,89412,Diesel,Individual,Manual,Second Owner,18.9 kmpl,2143 CC,172.1 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2011,388000,154262,Diesel,Individual,Automatic,Third Owner,13.8 kmpl,2755 CC,173.5 bhp,7
+Volkswagen Polo 1.2 MPI Highline,2022,610000,11920,Petrol,Dealer,Manual,First Owner,15.8 kmpl,1198 CC,75.5 bhp,5
+Nissan Micra Active XL,2016,196000,84513,Petrol,Individual,Automatic,First Owner,18.8 kmpl,1198 CC,68.4 bhp,5
+Toyota Corolla Altis GL,2019,700000,58170,Petrol,Dealer,Manual,Second Owner,14.6 kmpl,1800 CC,138.7 bhp,5
+Maruti Baleno Alpha CVT,2017,318000,90633,Petrol,Individual,Manual,Second Owner,19.1 kmpl,1199 CC,89.7 bhp,5
+BMW 5 Series 520d,2010,731000,151175,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner,18.5 kmpl,1997 CC,183.9 bhp,5
+Honda City ZX CVT,2017,589000,81235,Petrol,Individual,Automatic,First Owner,18.0 kmpl,1498 CC,117.4 bhp,5
+Honda Jazz 1.2 V,2017,323000,101218,Petrol,Dealer,Manual,First Owner,17.4 kmpl,1201 CC,87.8 bhp,5
+Toyota Glanza G,2020,424000,37324,Petrol,Individual,Manual,Second Owner,22.0 kmpl,1195 CC,88.6 bhp,5
+BMW X1 sDrive20d xLine,2016,1259000,115858,Diesel,Individual,Automatic,Second Owner,19.1 kmpl,1993 CC,187.0 bhp,5
+Toyota Glanza G,2013,187000,93997,Petrol,Individual,Manual,First Owner,,1197 CC,89.7 bhp,
+Honda Jazz 1.2 V,2018,363000,82276,CNG,Individual,Automatic,First Owner,,1201 CC,88.8 bhp,5
+Honda City i-VTEC V,2014,328000,96669,Petrol,Individual,Manual,First Owner,18.4 kmpl,1499 CC,118.9 bhp,5
+Honda Civic 1.8 V AT,2016,583000,97671,Petrol,Individual,Automatic,Second Owner,16.5 kmpl,1797 CC,140.0 bhp,5
+Volkswagen Vento 1.6 Highline,2021,660000,32913,Petrol,Individual,Manual,First Owner,16.5 kmpl,1600 CC,104.6 bhp,5
+Honda City ZX CVT,2016,589000,92567,Petrol,Dealer,Automatic,First Owner,18.6 kmpl,1500 CC,116.7 bhp,5
+Mahindra XUV500 W8,2017,655000,66661,Diesel,Dealer,Manual,First Owner,15.6 kmpl,2179 CC,138.7 bhp,7
+Hyundai i20 Sportz 1.2,2016,241000,83314,Petrol,Individual,Manual,Second Owner,19.2 kmpl,1199 CC,81.6 bhp,5
+Maruti Swift VXI,2018,277000,43025,Petrol,Dealer,Manual,First Owner,22.3 kmpl,1195 CC,80.3 bhp,5
+Audi A6 35 TDI Matrix,2016,1763000,83989,Diesel,Individual,Automatic,Second Owner,18.3 kmpl,1970 CC,187.5 bhp,5
+Toyota Fortuner 4x4 MT,2022,2473000,29747,Diesel,Individual,Manual,First Owner,14.1 kmpl,2753 CC,177.1 bhp,7
+Hyundai Santro Magna,2011,64000,153257,Petrol,Individual,Manual,Third Owner,21.2 kmpl,1084 CC,66.6 bhp,5
+Maruti Ciaz Alpha Petrol,2020,536000,52718,Petrol,Individual,Manual,Second Owner,21.6 kmpl,1464 CC,102.5 bhp,5
+BMW X1 sDrive20d xLine,2014,956000,145812,Diesel,Individual,Automatic,Second Owner,20.4 kmpl,1993 CC,191.6 bhp,5
+Honda Amaze 1.2 VX,2008,76000,202305,Petrol,Individual,Manual,Second Owner,19.5 kmpl,1197 CC,89.3 bhp,5
+Toyota Glanza G,2020,399000,47516,Petrol,Individual,Manual,Second Owner,22.8 kmpl,1195 CC,88.8 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2015,331000,127180,Diesel,Individual,Automatic,Second Owner,21.3 kmpl,1496 CC,107.0 bhp,5
+Maruti Vitara Brezza ZDI,2017,351000,67329,Diesel,Dealer,Manual,Second Owner,24.2 kmpl,1250 CC,87.2 bhp,5
+Nissan Micra Active XL,2019,256000,72155,Petrol,Individual,Manual,First Owner,19.0 kmpl,1196 CC,66.9 bhp,5
+Toyota Innova 2.5 G4 Diesel,2019,663000,49760,Diesel,Individual,Manual,Second Owner,12.3 kmpl,2494 CC,99.1 bhp,7
+Volkswagen Vento 1.6 Highline,2010,131000,205654,Petrol,Dealer,Manual,Second Owner,16.7 kmpl,1600 CC,104.6 bhp,5
+Honda Amaze 1.5 S i-DTEC,2013,165000,102498,Diesel,Individual,Manual,Second Owner,24.8 kmpl,1496 CC,100.3 bhp,5
+Chevrolet Beat LT Diesel,2018,204000,75944,Diesel,Individual,Manual,Second Owner,25.4 kmpl,938 CC,57.5 bhp,5
+BMW 5 Series 520d,2014,1598000,87392,Diesel,Individual,Automatic,Second Owner,19.2 kmpl,1997 CC,186.0 bhp,5
+Mahindra Bolero Power+ ZLX,2022,628000,37420,Diesel,Individual,Manual,First Owner,16.3 kmpl,1495 CC,68.3 bhp,7
+Honda City i-DTEC VX,2017,499000,66421,Diesel,Individual,Manual,First Owner,26.2 kmpl,1496 CC,98.1 bhp,5
+Tata Harrier XZ Plus,2014,484000,84027,Diesel,Dealer,Manual,Second Owner,16.9 kmpl,1954 CC,168.2 bhp,5
+Hyundai Venue SX 1.0 Turbo,2016,373000,57419,Petrol,Dealer,Automatic,Second Owner,18.7 kmpl,1000 CC,119.9 bhp,5
+Mercedes-Benz E-Class E 220d,2020,3877000,37614,Diesel,Individual,Automatic,First Owner,16.5 kmpl,1952 CC,187.1 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2017,364000,105875,Diesel,Individual,Manual,Second Owner,21.3 kmpl,1500 CC,101.6 bhp,5
+Honda City ZX CVT,2022,1260000,25298,Petrol,Dealer,Automatic,First Owner,18.0 kmpl,1496 CC,118.4 bhp,5
+Hyundai Verna SX Turbo DCT,2020,787000,55043,Petrol,Individual,Automatic,Second Owner,18.1 kmpl,1480 CC,154.3 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2019,599000,67753,Petrol,Dealer,Automatic,First Owner,15.8 kmpl,1498 CC,120.9 bhp,5
+Maruti Swift Dzire VDI,2011,107000,119231,Diesel,Individual,Manual,Second Owner,27.7 kmpl,1246 CC,72.2 bhp,5
+Maruti Alto K10 VXI,2008,35000,161759,Petrol,Individual,Manual,Fourth & Above Owner,23.3 kmpl,998 CC,66.2 bhp,5
+Hyundai Creta SX(O) Diesel AT,2011,271000,180887,Diesel,Dealer,Automatic,Third Owner,19.2 kmpl,1493 CC,113.2 bhp,5
+Mercedes-Benz C-Class C 220d,2016,1247000,120337,Diesel,Dealer,Automatic,Third Owner,19.5 kmpl,2143 CC,167.8 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2017,522000,59954,Diesel,Individual,Automatic,First Owner,22.1 kmpl,1496 CC,108.8 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2016,314000,67663,Diesel,Individual,Manual,Second Owner,23.7 kmpl,1498 CC,99.2 bhp,5
+Honda Amaze 1.2 VX,2016,253000,102059,Petrol,Dealer,Manual,Second Owner,17.8 kmpl,1199 CC,87.0 bhp,5
+BMW X1 sDrive20d xLine,2019,2287000,76178,Diesel,Dealer,Automatic,First Owner,19.2 kmpl,1993 CC,184.1 bhp,5
+Mahindra Thar CRDe 4x4,2014,217000,132131,Diesel,Individual,Automatic,Second Owner,16.1 kmpl,2496 CC,108.0 bhp,4
+Mahindra XUV500 W11 AT,2019,1084000,42490,Diesel,Individual,Automatic,First Owner,13.9 kmpl,2179 CC,157.4 bhp,7
+Volkswagen Polo GT TSI,2010,124000,183859,CNG,Individual,Automatic,Third Owner,16.8 km/kg,1195 CC,106.0 bhp,5
+Maruti Swift ZXI Plus,2011,100000,175953,Petrol,Individual,Automatic,Fourth & Above Owner,23.1 kmpl,1195 CC,88.3 bhp,5
+Honda Jazz 1.2 V,2016,256000,105883,Petrol,Dealer,Manual,Second Owner,16.7 kmpl,1201 CC,88.8 bhp,5
+Honda Amaze 1.5 S i-DTEC,2015,254000,68970,Diesel,Individual,Manual,First Owner,25.5 kmpl,1498 CC,99.1 bhp,5
+Maruti Alto 800 LXI,2018,179000,86521,Petrol,Dealer,Manual,First Owner,25.0 kmpl,796 CC,46.1 bhp,5
+Maruti Wagon R LXI CNG,2009,66000,184243,CNG,Dealer,Manual,Second Owner,31.7 km/kg,996 CC,57.4 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2020,812000,43695,Diesel,Dealer,Automatic,First Owner,21.4 kmpl,1496 CC,108.5 bhp,5
+Nissan Sunny XL D,2012,143000,108728,Diesel,Dealer,Manual,Third Owner,22.8 kmpl,1463 CC,83.1 bhp,5
+Toyota Corolla Altis GL,2017,548000,70056,Petrol,Dealer,Manual,Second Owner,14.6 kmpl,1800 CC,,5
+Maruti Wagon R ZXI 1.2,2018,287000,76187,Petrol,Dealer,Manual,First Owner,20.8 kmpl,1197 CC,81.1 bhp,5
+BMW X1 sDrive20d xLine,2018,1878000,43400,Diesel,Individual,Manual,First Owner,20.3 kmpl,1993 CC,188.5 bhp,5
+Audi A4 2.0 TDI Premium,2018,2202000,74396,Diesel,Dealer,Automatic,First Owner,17.8 kmpl,1966 CC,175.9 bhp,5
+Renault Kwid RXT,2020,265000,36814,Petrol,Individual,Manual,First Owner,22.3 kmpl,1001 CC,65.2 bhp,5
+Maruti Vitara Brezza ZDI,2020,656000,32626,Diesel,Dealer,Automatic,First Owner,24.7 kmpl,1246 CC,86.9 bhp,5
+Honda City ZX CVT,2017,508000,89608,Petrol,Individual,Automatic,Second Owner,19.1 kmpl,1500 CC,120.5 bhp,5
+Honda City i-DTEC VX,2017,459000,83997,Diesel,Individual,Manual,Second Owner,26.9 kmpl,1498 CC,98.9 bhp,5
+Tata Safari XZA Plus 6S AT,2019,1117000,58233,Diesel,Individual,Automatic,Second Owner,14.6 kmpl,1958 CC,165.1 bhp,6
+Tata Tiago XZ,2006,49000,135415,Petrol,Trustmark Dealer,Manual,Third Owner,23.1 kmpl,1199 CC,86.2 bhp,5
+Toyota Glanza G,2021,500000,33633,CNG,Individual,Manual,First Owner,21.8 km/kg,1199 CC,87.2 bhp,5
+Tata Harrier XZ Plus,2017,665000,58996,Diesel,Individual,Manual,Second Owner,16.8 kmpl,1958 CC,169.6 bhp,5
+Ford Figo 1.2 Titanium,2008,65000,225438,CNG,Dealer,Automatic,Third Owner,19.2 km/kg,1194 CC,94.4 bhp,5
+Toyota Innova Crysta 2.4 VX,2019,1107000,65164,Diesel,Individual,Manual,First Owner,14.6 kmpl,2393 CC,147.9 bhp,
+Toyota Innova 2.5 G4 Diesel,2012,234000,158089,Diesel,Individual,Manual,Second Owner,12.7 kmpl,2494 CC,99.3 bhp,7
+Maruti Ertiga VDI,2016,282000,101455,Diesel,Individual,Manual,Second Owner,24.5 kmpl,1250 CC,86.5 bhp,7
+Nissan Sunny XL D,2016,303000,94865,Diesel,Individual,Manual,First Owner,22.3 kmpl,,86.2 bhp,5
+Maruti Ciaz Alpha Petrol,2011,151000,143922,Petrol,Individual,Manual,Third Owner,20.3 kmpl,1462 CC,101.2 bhp,5
+Mahindra XUV500 W11 AT,2018,892000,60118,Diesel,Dealer,Automatic,First Owner,,2181 CC,156.0 bhp,7
+Hyundai Verna SX Turbo DCT,2020,876000,59298,Petrol,Individual,Automatic,First Owner,19.0 kmpl,1480 CC,155.9 bhp,5
+Audi Q3 2.0 TDI Quattro,2017,1392000,74653,Diesel,Dealer,Automatic,Second Owner,16.0 kmpl,1968 CC,175.2 bhp,5
+Honda City i-VTEC V,2009,125000,133549,Petrol,Individual,Manual,Third Owner,18.5 kmpl,1497 CC,118.4 bhp,5
+Hyundai i20 Asta CRDI,2007,80000,247450,Diesel,Trustmark Dealer,Manual,Second Owner,22.7 kmpl,1396 CC,,5
+Honda Amaze 1.5 S i-DTEC,2017,325000,70961,Diesel,Individual,Manual,First Owner,25.4 kmpl,1500 CC,96.6 bhp,5
+Ford Figo 1.2 Titanium,2013,115000,126205,Petrol,Dealer,Manual,Third Owner,19.3 kmpl,1192 CC,97.4 bhp,5
+Volkswagen Vento 1.6 Highline,2021,706000,36640,Petrol,Trustmark Dealer,Manual,First Owner,15.9 kmpl,1600 CC,104.7 bhp,5
+Mahindra Scorpio S11,2022,1324000,34694,Diesel,Dealer,Automatic,First Owner,15.5 kmpl,2181 CC,142.5 bhp,7
+Audi A4 2.0 TDI Premium,2021,2928000,31325,Diesel,Individual,Automatic,First Owner,16.4 kmpl,1970 CC,179.0 bhp,5
+Hyundai Verna SX Turbo DCT,2019,830000,71792,Petrol,Individual,Automatic,First Owner,18.2 kmpl,1484 CC,161.6 bhp,5
+Hyundai i20 Asta CRDI,2011,157000,97526,Diesel,Individual,Manual,Second Owner,22.9 kmpl,1394 CC,88.0 bhp,5
+BMW 3 Series 320d Luxury Line,2020,2610000,50613,Diesel,Individual,Automatic,First Owner,23.3 kmpl,1993 CC,182.4 bhp,5
+Toyota Etios Liva GD,2022,476000,19292,Diesel,Dealer,Automatic,Second Owner,23.1 kmpl,1366 CC,67.0 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2016,1176000,103234,Diesel,Dealer,Automatic,Second Owner,14.3 kmpl,2757 CC,175.3 bhp,7
+Maruti Baleno Alpha CVT,2017,389000,84864,Petrol,Trustmark Dealer,Manual,First Owner,18.6 kmpl,1197 CC,91.1 bhp,5
+Maruti Alto K10 VXI,2012,78000,135242,Petrol,Individual,Manual,Second Owner,22.8 kmpl,998 CC,67.5 bhp,5
+Hyundai Verna SX Turbo DCT,2016,460000,108137,Petrol,Individual,Automatic,Second Owner,18.4 kmpl,1484 CC,157.9 bhp,5
+Maruti Baleno Delta,2012,117000,143636,Petrol,Individual,Automatic,Third Owner,21.5 kmpl,1199 CC,83.5 bhp,5
+Hyundai Grand i10 Magna,2019,227000,67862,CNG,Dealer,Manual,Third Owner,18.7 km/kg,1199 CC,84.0 bhp,5
+Honda City i-VTEC V,2021,852000,34814,Petrol,Dealer,Automatic,First Owner,18.3 kmpl,1497 CC,116.0 bhp,5
+Honda City i-DTEC VX,2011,197000,106648,Diesel,Individual,Manual,Third Owner,24.3 kmpl,1498 CC,98.9 bhp,
+Toyota Innova Crysta 2.8 ZX AT,2013,658000,147010,Diesel,Individual,Automatic,First Owner,14.5 kmpl,2757 CC,169.2 bhp,7
+Honda Jazz 1.2 V,2009,98000,120014,Petrol,Dealer,Automatic,Third Owner,17.8 kmpl,1201 CC,87.6 bhp,5
+Mahindra Scorpio S10,2022,999000,20960,Diesel,Individual,Manual,First Owner,15.8 kmpl,2177 CC,123.4 bhp,7
+Maruti Baleno Alpha CVT,2010,120000,137892,Petrol,Individual,Automatic,Third Owner,19.4 kmpl,1199 CC,86.2 bhp,5
+Toyota Glanza G,2015,214000,95377,Petrol,Individual,Manual,Second Owner,21.4 kmpl,,88.7 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2016,263000,116930,Diesel,Individual,Manual,Third Owner,23.0 kmpl,1500 CC,99.0 bhp,5
+Chevrolet Beat LT Diesel,2020,268000,59577,Diesel,Individual,Manual,First Owner,26.0 kmpl,938 CC,57.3 bhp,5
+Mahindra Scorpio S10,2016,454000,84329,Diesel,Individual,Manual,First Owner,14.7 kmpl,2179 CC,118.2 bhp,7
+Mercedes-Benz C-Class C 220d,2015,1456000,62180,Diesel,Dealer,Automatic,Second Owner,18.6 kmpl,2141 CC,170.9 bhp,5
+Nissan Micra Active XL,2021,359000,36758,Petrol,Individual,Manual,First Owner,19.4 kmpl,1200 CC,68.6 bhp,5
+Maruti Wagon R LXI CNG,2020,303000,43146,CNG,Individual,Manual,First Owner,32.7 km/kg,998 CC,59.0 bhp,5
+Hyundai Venue SX 1.0 Turbo,2014,285000,78663,Petrol,Dealer,Manual,Second Owner,17.5 kmpl,998 CC,116.1 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2019,1681000,43916,Diesel,Dealer,Manual,First Owner,10.7 kmpl,3198 CC,193.6 bhp,7
+Maruti Baleno Alpha CVT,2019,495000,70444,Petrol,Individual,Manual,First Owner,19.5 kmpl,1195 CC,87.7 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2019,2030000,39084,Diesel,Dealer,Automatic,First Owner,10.8 kmpl,3200 CC,191.5 bhp,7
+Hyundai Grand i10 Magna,2006,37000,259908,Petrol,Individual,Manual,Third Owner,,1195 CC,79.9 bhp,5
+Maruti Swift Dzire VDI,2018,286000,59218,Diesel,Individual,Manual,First Owner,25.9 kmpl,1248 CC,74.8 bhp,5
+Hyundai Grand i10 Magna,2007,47000,217595,Petrol,Individual,Manual,Second Owner,19.0 kmpl,1199 CC,83.3 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2018,1464000,68181,Diesel,Dealer,Manual,First Owner,10.8 kmpl,3198 CC,191.7 bhp,7
+Mahindra Thar CRDe 4x4,2018,462000,63243,Diesel,Dealer,Manual,First Owner,15.8 kmpl,2498 CC,105.4 bhp,4
+Renault Kwid RXT,2010,50000,143838,Petrol,Individual,Manual,Fourth & Above Owner,21.8 kmpl,999 CC,68.7 bhp,5
+Volkswagen Polo GT TSI,2020,557000,62553,Petrol,Individual,Manual,First Owner,16.8 kmpl,1197 CC,105.6 bhp,5
+Hyundai Creta SX(O) Diesel AT,2017,743000,70766,Diesel,Dealer,Automatic,First Owner,18.0 kmpl,1493 CC,114.0 bhp,5
+Hyundai Santro Magna,2022,390000,17452,Petrol,Individual,Manual,First Owner,20.0 kmpl,1086 CC,68.3 bhp,5
+Honda City ZX CVT,2018,667000,56773,Petrol,Individual,Automatic,First Owner,19.2 kmpl,1498 CC,117.0 bhp,5
+Hyundai i20 Asta CRDI,2019,482000,66841,Diesel,Individual,Manual,First Owner,23.4 kmpl,1394 CC,90.8 bhp,5
+Maruti Swift VXI,2019,303000,61954,Petrol,Individual,Manual,First Owner,,1195 CC,82.9 bhp,5
+Ford Figo 1.2 Titanium,2021,419000,53264,Petrol,Trustmark Dealer,Manual,First Owner,18.3 kmpl,1196 CC,97.7 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2009,148000,212455,Petrol,Trustmark Dealer,Automatic,Second Owner,15.5 kmpl,1496 CC,123.3 bhp,5
+Tata Tiago XZ,2018,274000,84523,Petrol,Individual,Manual,First Owner,23.5 kmpl,1197 CC,82.2 bhp,5
+Mahindra Scorpio S10,2012,208000,168901,Diesel,Individual,Automatic,Third Owner,16.1 kmpl,2179 CC,121.1 bhp,7
+Hyundai Verna 1.6 VTVT SX,2018,450000,72379,Petrol,Dealer,Manual,Second Owner,17.8 kmpl,1591 CC,121.4 bhp,5
+Skoda Rapid 1.6 MPI Ambition,2013,176000,110512,Petrol,Individual,Manual,Second Owner,15.5 kmpl,1598 CC,106.1 bhp,5
+Maruti Baleno Alpha CVT,2017,422000,96495,Petrol,Dealer,Automatic,First Owner,20.2 kmpl,1199 CC,88.6 bhp,5
+Toyota Glanza G,2016,250000,59018,Petrol,Dealer,Manual,Second Owner,23.0 kmpl,1199 CC,89.2 bhp,5
+Maruti Alto K10 VXI,2021,284000,29499,Petrol,Individual,Manual,First Owner,25.0 kmpl,998 CC,66.4 bhp,5
+Honda City i-VTEC V,2008,94000,237923,Petrol,Individual,Manual,Third Owner,18.1 kmpl,1495 CC,117.8 bhp,5
+Maruti Baleno Delta,2014,211000,75905,Petrol,Individual,Manual,First Owner,20.5 kmpl,1197 CC,80.9 bhp,5
+Honda City ZX CVT,2021,1083000,39111,Petrol,Individual,Automatic,First Owner,19.0 kmpl,1496 CC,119.2 bhp,5
+Volkswagen Vento 1.6 Highline,2022,764000,29601,Petrol,Dealer,Manual,First Owner,15.6 kmpl,1598 CC,105.2 bhp,5
+Honda City i-VTEC V,2013,277000,149472,Petrol,Dealer,Manual,First Owner,17.4 kmpl,1497 CC,116.6 bhp,5
+Audi A6 35 TDI Matrix,2013,1254000,146370,Diesel,Dealer,Manual,First Owner,18.2 kmpl,1968 CC,186.4 bhp,5
+Maruti Alto 800 LXI,2010,39000,165522,Petrol,Dealer,Manual,Fourth & Above Owner,25.4 kmpl,796 CC,46.6 bhp,5
+Tata Tiago XZ,2016,186000,103171,Petrol,Individual,Manual,First Owner,23.4 kmpl,1201 CC,86.3 bhp,5
+Maruti Swift ZXI Plus,2020,476000,36863,CNG,Individual,Manual,First Owner,21.5 km/kg,1197 CC,87.2 bhp,5
+Maruti Wagon R LXI CNG,2021,343000,39238,CNG,Individual,Manual,First Owner,31.8 km/kg,996 CC,56.6 bhp,5
+Honda City i-DTEC VX,2021,903000,39131,Diesel,Dealer,Manual,First Owner,26.1 kmpl,1498 CC,100.2 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2014,170000,131374,Petrol,Individual,Automatic,Fourth & Above Owner,17.8 kmpl,999 CC,111.6 bhp,5
+Nissan Sunny XL D,2022,625000,25151,Diesel,Individual,Manual,First Owner,21.8 kmpl,1459 CC,85.4 bhp,5
+Toyota Corolla Altis GL,2011,188000,96068,Petrol,Individual,Manual,Fourth & Above Owner,13.5 kmpl,1796 CC,139.3 bhp,5
+Tata Nexon XZA Plus Diesel,2014,278000,133147,Diesel,Individual,Automatic,Third Owner,21.3 kmpl,1497 CC,108.4 bhp,5
+Maruti Wagon R ZXI 1.2,2017,247000,56785,Petrol,Individual,Manual,First Owner,20.1 kmpl,1197 CC,81.2 bhp,5
+Maruti Ciaz Alpha Petrol,2015,284000,132053,Petrol,Dealer,Manual,Second Owner,21.6 kmpl,1460 CC,103.5 bhp,5
+Ford Figo 1.2 Titanium,2019,260000,70213,Petrol,Individual,Manual,Second Owner,17.6 kmpl,1196 CC,93.1 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2017,966000,57695,Diesel,Dealer,Automatic,Third Owner,13.7 kmpl,2753 CC,166.7 bhp,7
+Maruti Alto 800 LXI,2016,107000,79891,Petrol,Individual,Manual,Second Owner,23.6 kmpl,794 CC,48.5 bhp,5
+Maruti Swift Dzire VDI,2016,198000,112660,Diesel,Individual,Manual,Second Owner,,1248 CC,75.4 bhp,5
+Maruti Wagon R ZXI 1.2,2020,352000,30225,Petrol,Individual,Manual,Second Owner,21.2 kmpl,1197 CC,81.2 bhp,5
+Tata Harrier XZ Plus,2015,544000,134446,Diesel,Individual,Manual,First Owner,15.7 kmpl,1954 CC,165.9 bhp,5
+Mahindra Scorpio S10,2012,229000,120766,Diesel,Individual,Manual,Second Owner,15.8 kmpl,2181 CC,120.8 bhp,7
+Nissan Sunny XL D,2010,128000,99705,Diesel,Individual,Manual,Second Owner,23.3 kmpl,1463 CC,86.4 bhp,5
+Honda Jazz 1.2 V,2012,138000,120387,Petrol,Individual,Manual,Second Owner,17.3 kmpl,1197 CC,89.9 bhp,5
+Ford Figo 1.2 Titanium,2015,193000,66054,Petrol,Trustmark Dealer,Manual,Second Owner,18.4 kmpl,1196 CC,94.9 bhp,5
+Honda Jazz 1.2 V,2014,197000,84552,Petrol,Trustmark Dealer,Manual,Second Owner,17.8 kmpl,1197 CC,86.9 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2014,285000,108837,Diesel,Dealer,Manual,First Owner,21.2 kmpl,1500 CC,100.7 bhp,5
+Maruti Baleno Delta,2017,287000,52971,Petrol,Individual,Manual,First Owner,21.8 kmpl,1195 CC,83.2 bhp,5
+Hyundai Grand i10 Magna,2015,174000,72996,Petrol,Individual,Manual,First Owner,18.1 kmpl,1197 CC,82.2 bhp,5
+Honda Civic 1.8 V AT,2021,1351000,33015,Petrol,Dealer,Manual,First Owner,15.9 kmpl,1799 CC,136.5 bhp,5
+Maruti Wagon R LXI CNG,2014,148000,89354,CNG,Individual,Manual,First Owner,32.4 km/kg,998 CC,58.4 bhp,5
+Honda City i-VTEC V,2018,370000,71694,Petrol,Individual,Manual,Third Owner,17.7 kmpl,1499 CC,117.1 bhp,5
+Mahindra Scorpio S11,2019,863000,48220,Diesel,Dealer,Manual,First Owner,15.6 kmpl,2177 CC,143.5 bhp,7
+Maruti Alto 800 LXI,2009,39000,174347,CNG,Individual,Manual,Third Owner,24.1 km/kg,794 CC,47.2 bhp,5
+Maruti Swift ZXI Plus,2019,438000,53798,Petrol,Individual,Automatic,First Owner,21.7 kmpl,1197 CC,89.4 bhp,5
+Maruti Baleno Delta,2022,594000,21140,Petrol,Dealer,Manual,First Owner,20.0 kmpl,1197 CC,83.0 bhp,5
+Tata Nexon XZA Plus Diesel,2021,890000,25252,Diesel,Dealer,Automatic,First Owner,22.1 kmpl,1499 CC,110.4 bhp,5
+Volkswagen Polo GT TSI,2019,573000,49111,Petrol,Dealer,Automatic,First Owner,16.4 kmpl,1197 CC,103.3 bhp,5
+Mercedes-Benz E-Class E 220d,2019,3251000,59673,Diesel,Individual,Automatic,Second Owner,16.2 kmpl,1952 CC,196.8 bhp,5
+Honda Jazz 1.2 V,2019,404000,68552,Petrol,Individual,Manual,First Owner,16.8 kmpl,1197 CC,86.4 bhp,5
+Audi A4 2.0 TDI Premium,2020,2280000,47980,Diesel,Dealer,Automatic,Second Owner,17.8 kmpl,1966 CC,171.0 bhp,5
+Tata Tiago XZ,2021,404000,25607,Petrol,Dealer,Manual,First Owner,24.1 kmpl,1197 CC,83.9 bhp,5
+Audi Q3 2.0 TDI Quattro,2021,2853000,39006,Diesel,Individual,Automatic,First Owner,15.3 kmpl,1966 CC,178.2 bhp,5
+Volkswagen Polo GT TSI,2016,343000,84156,Petrol,Individual,Automatic,Second Owner,16.6 kmpl,1197 CC,102.3 bhp,5
+Honda City i-VTEC V,2020,738000,46295,Petrol,Dealer,Manual,First Owner,17.2 kmpl,1497 CC,117.0 bhp,5
+Audi A6 35 TDI Matrix,2014,1522000,150466,Diesel,Dealer,Automatic,First Owner,19.4 kmpl,1966 CC,183.4 bhp,5
+Mahindra XUV500 W11 AT,2014,511000,86832,Diesel,Individual,Manual,First Owner,14.7 kmpl,2179 CC,152.3 bhp,7
+Hyundai Creta SX 1.6 CRDI,2021,990000,42306,Diesel,Dealer,Manual,First Owner,19.6 kmpl,1584 CC,126.5 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2016,417000,74811,Petrol,Dealer,Automatic,First Owner,16.5 kmpl,,122.4 bhp,5
+Mercedes-Benz C-Class C 220d,2011,672000,101799,Diesel,Individual,Automatic,Third Owner,19.4 kmpl,2145 CC,169.0 bhp,5
+Toyota Glanza G,2013,189000,94120,Petrol,Trustmark Dealer,Manual,Second Owner,22.5 kmpl,1197 CC,87.5 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2016,325000,111932,Diesel,Individual,Manual,Second Owner,20.2 kmpl,1498 CC,105.8 bhp,5
+Mahindra XUV500 W11 AT,2019,1034000,61519,Diesel,Trustmark Dealer,Automatic,First Owner,14.1 kmpl,2179 CC,149.5 bhp,7
+Honda Jazz 1.2 V,2014,203000,147050,CNG,Dealer,Manual,First Owner,16.7 km/kg,1199 CC,89.4 bhp,5
+Renault Kwid RXT,2019,228000,65416,Petrol,Individual,Manual,First Owner,21.6 kmpl,999 CC,68.3 bhp,5
+Renault Kwid RXT,2013,88000,143371,Petrol,Individual,Manual,Second Owner,22.9 kmpl,997 CC,67.6 bhp,5
+Nissan Sunny XL D,2021,489000,39865,Diesel,Individual,Manual,Second Owner,22.9 kmpl,1463 CC,86.0 bhp,5
+Toyota Corolla Altis GL,2018,734000,64312,Petrol,Individual,Manual,First Owner,13.9 kmpl,1800 CC,134.3 bhp,5
+Hyundai Verna 1.6 VTVT SX,2015,375000,70831,Petrol,Trustmark Dealer,Manual,First Owner,18.5 kmpl,1591 CC,121.5 bhp,5
+Honda City i-DTEC VX,2019,587000,60001,Diesel,Dealer,Manual,Second Owner,,1498 CC,97.2 bhp,5
+Audi A6 35 TDI Matrix,2018,2416000,82173,Diesel,Individual,Automatic,First Owner,17.9 kmpl,1968 CC,192.4 bhp,5
+BMW 3 Series 320d Luxury Line,2013,1150000,92707,Diesel,Individual,Automatic,First Owner,22.3 kmpl,1993 CC,187.5 bhp,5
+Mahindra XUV500 W11 AT,2021,1329000,41893,Diesel,Dealer,Automatic,First Owner,13.5 kmpl,2177 CC,156.1 bhp,7
+Hyundai Creta SX(O) Diesel AT,2013,410000,92993,Diesel,Individual,Automatic,Second Owner,17.8 kmpl,1493 CC,110.3 bhp,5
+BMW 5 Series 520d,2018,2552000,63948,Diesel,Individual,Manual,First Owner,19.3 kmpl,1993 CC,190.9 bhp,5
+Honda Amaze 1.5 S i-DTEC,2012,130000,114506,Diesel,Dealer,Manual,Fourth & Above Owner,26.7 kmpl,1498 CC,97.7 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2017,936000,51160,Diesel,Individual,Automatic,Second Owner,14.7 kmpl,2755 CC,168.1 bhp,7
+Hyundai i20 Sportz 1.2,2021,508000,55141,Petrol,Dealer,Manual,First Owner,19.2 kmpl,1199 CC,84.3 bhp,5
+Tata Nexon XZ Plus Petrol,2016,314000,92152,Petrol,Individual,Manual,Second Owner,17.4 kmpl,1200 CC,115.7 bhp,5
+Mercedes-Benz E-Class E 220d,2019,3140000,44116,Diesel,Individual,Automatic,Second Owner,16.0 kmpl,1952 CC,197.2 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2022,830000,22196,Petrol,Dealer,Automatic,Second Owner,16.7 kmpl,1496 CC,118.4 bhp,5
+Hyundai i20 Asta CRDI,2016,217000,88033,Diesel,Dealer,Manual,Fourth & Above Owner,23.6 kmpl,1398 CC,91.0 bhp,5
+Honda Amaze 1.5 S i-DTEC,2015,269000,115104,Diesel,Dealer,Manual,First Owner,26.0 kmpl,1500 CC,100.2 bhp,5
+Tata Harrier XZ Plus,2015,524000,120401,Diesel,Individual,Manual,Second Owner,16.3 kmpl,1954 CC,165.1 bhp,5
+Hyundai Verna 1.6 VTVT SX,2008,113000,205435,Petrol,Individual,Manual,Second Owner,17.1 kmpl,1593 CC,122.6 bhp,5
+Hyundai i20 Sportz 1.2,2019,403000,73203,Petrol,Dealer,Manual,First Owner,20.4 kmpl,1197 CC,82.2 bhp,5
+Maruti Swift Dzire VDI,2022,545000,23619,Diesel,Individual,Automatic,First Owner,25.3 kmpl,1248 CC,73.8 bhp,5
+Ford Figo 1.2 Titanium,2021,429000,36136,Petrol,Individual,Manual,First Owner,18.8 kmpl,1196 CC,95.9 bhp,5
+Renault Duster 110PS RXZ,2016,265000,112105,Diesel,Individual,Manual,Fourth & Above Owner,20.1 kmpl,1463 CC,109.6 bhp,5
+Maruti Wagon R LXI CNG,2008,53000,117104,CNG,Individual,Manual,Third Owner,31.9 km/kg,996 CC,58.9 bhp,5
+Mahindra Scorpio S11,2015,452000,97841,Diesel,Individual,Manual,Second Owner,15.3 kmpl,2181 CC,136.5 bhp,7
+Hyundai Grand i10 Magna,2015,157000,70135,CNG,Individual,Manual,Second Owner,19.3 km/kg,1197 CC,80.7 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2015,201000,97338,Petrol,Individual,Manual,Second Owner,16.9 kmpl,1198 CC,74.0 bhp,5
+Honda City i-VTEC V,2018,536000,69142,Petrol,Trustmark Dealer,Manual,First Owner,17.4 kmpl,1499 CC,115.3 bhp,5
+Tata Harrier XZ Plus,2020,1108000,46477,Diesel,Individual,Manual,First Owner,16.3 kmpl,1958 CC,170.6 bhp,5
+Maruti Vitara Brezza ZDI,2018,444000,68368,Diesel,Individual,Manual,First Owner,24.3 kmpl,1248 CC,87.2 bhp,5
+Mercedes-Benz C-Class C 220d,2012,702000,97739,Diesel,Individual,Automatic,Fourth & Above Owner,18.8 kmpl,2145 CC,172.0 bhp,5
+Mahindra XUV500 W8,2021,966000,35818,Diesel,Individual,Manual,First Owner,15.6 kmpl,2181 CC,142.2 bhp,7
+Maruti Wagon R ZXI 1.2,2018,238000,92094,Petrol,Individual,Manual,Second Owner,19.7 kmpl,1195 CC,81.5 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2020,1818000,48381,Diesel,Individual,Automatic,Second Owner,,2753 CC,170.9 bhp,7
+Toyota Glanza G,2018,294000,47029,Petrol,Individual,Manual,Second Owner,21.8 kmpl,1195 CC,87.5 bhp,5
+Tata Safari XZA Plus 6S AT,2021,1751000,35465,Diesel,Dealer,Automatic,First Owner,14.6 kmpl,1958 CC,170.0 bhp,6
+Audi A4 2.0 TDI Premium,2014,1154000,140417,Diesel,Dealer,Manual,First Owner,17.6 kmpl,1970 CC,176.8 bhp,5
+Mahindra Scorpio S11,2013,325000,87364,Diesel,Individual,Manual,Third Owner,14.8 kmpl,2177 CC,139.9 bhp,7
+Volkswagen Polo 1.2 MPI Highline,2017,309000,79302,Petrol,Dealer,Manual,First Owner,16.1 kmpl,1200 CC,73.4 bhp,5
+Maruti Baleno Alpha CVT,2020,622000,46487,Petrol,Individual,Automatic,First Owner,19.9 kmpl,1197 CC,89.2 bhp,5
+Hyundai Creta SX 1.6 CRDI,2017,451000,72048,Diesel,Individual,Manual,Third Owner,20.5 kmpl,1582 CC,124.7 bhp,5
+Ford Figo 1.2 Titanium,2013,121000,157462,Petrol,Dealer,Manual,Second Owner,18.1 kmpl,1194 CC,96.5 bhp,5
+Nissan Sunny XL D,2016,234000,88958,Diesel,Dealer,Manual,Third Owner,21.7 kmpl,1463 CC,83.6 bhp,5
+Mercedes-Benz C-Class C 220d,2019,2483000,49461,Diesel,Individual,Automatic,First Owner,19.0 kmpl,2145 CC,163.9 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2018,325000,47613,Petrol,Dealer,Manual,Second Owner,16.7 kmpl,1196 CC,75.5 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2016,223000,112614,Petrol,Dealer,Manual,Second Owner,16.2 kmpl,1196 CC,72.2 bhp,5
+Tata Nexon XZ Plus Petrol,2021,683000,45087,Petrol,Individual,Automatic,First Owner,17.8 kmpl,1196 CC,121.2 bhp,5
+Honda City i-VTEC V,2009,153000,189984,Petrol,Trustmark Dealer,Automatic,Second Owner,18.2 kmpl,1499 CC,114.6 bhp,5
+Mahindra Bolero Power+ ZLX,2020,412000,43075,Diesel,Dealer,Manual,Second Owner,16.5 kmpl,1493 CC,69.1 bhp,7
+Honda Jazz 1.2 V,2018,315000,86772,Petrol,Individual,Manual,Second Owner,,1197 CC,87.6 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2015,793000,123458,Diesel,Dealer,Automatic,Fourth & Above Owner,14.5 kmpl,2755 CC,176.5 bhp,7
+Toyota Fortuner 4x4 MT,2010,394000,158793,Diesel,Individual,Manual,Third Owner,14.9 kmpl,2757 CC,179.1 bhp,7
+Maruti Alto 800 LXI,2006,35000,207876,Petrol,Individual,Manual,Fourth & Above Owner,23.9 kmpl,798 CC,46.0 bhp,5
+Chevrolet Beat LT Diesel,2021,317000,52911,Diesel,Individual,Manual,First Owner,26.6 kmpl,934 CC,55.7 bhp,5
+Toyota Glanza G,2019,321000,82028,Petrol,Individual,Manual,Second Owner,22.2 kmpl,1197 CC,88.6 bhp,5
+Nissan Sunny XL D,2019,440000,50612,Diesel,Individual,Automatic,First Owner,22.6 kmpl,1461 CC,83.1 bhp,5
+Chevrolet Beat LT Diesel,2009,64000,159699,Diesel,Dealer,Automatic,Second Owner,26.3 kmpl,936 CC,54.9 bhp,5
+Honda City i-VTEC V,2019,440000,72628,Petrol,Individual,Manual,Third Owner,17.9 kmpl,1495 CC,117.5 bhp,5
+Maruti Vitara Brezza ZDI,2013,213000,119970,Diesel,Dealer,Automatic,Second Owner,25.3 kmpl,1248 CC,87.8 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2012,123000,102048,Petrol,Individual,Manual,Fourth & Above Owner,17.9 kmpl,1001 CC,109.6 bhp,5
+Mahindra Thar CRDe 4x4,2015,304000,116165,Diesel,Individual,Automatic,First Owner,16.6 kmpl,2496 CC,106.5 bhp,4
+Maruti Ciaz Alpha Petrol,2016,293000,70530,Petrol,Individual,Manual,Third Owner,20.4 kmpl,1460 CC,102.5 bhp,5
+Hyundai Venue SX 1.0 Turbo,2011,155000,152440,Petrol,Dealer,Manual,Third Owner,18.8 kmpl,998 CC,119.5 bhp,5
+Nissan Sunny XL D,2016,250000,92043,Diesel,Individual,Manual,Second Owner,22.6 kmpl,1461 CC,85.4 bhp,5
+Maruti Alto 800 LXI,2017,123000,114999,Petrol,Dealer,Manual,Second Owner,24.8 kmpl,798 CC,47.7 bhp,5
+Mahindra XUV500 W8,2010,165000,200574,Diesel,Dealer,Manual,Third Owner,14.8 kmpl,2177 CC,140.2 bhp,7
+Maruti Vitara Brezza ZDI,2021,668000,32141,Diesel,Individual,Manual,First Owner,24.5 kmpl,1248 CC,87.7 bhp,5
+Maruti Swift Dzire VDI,2011,99000,171614,Diesel,Individual,Manual,Second Owner,26.7 kmpl,1250 CC,73.1 bhp,5
+Mahindra Thar CRDe 4x4,2018,434000,61210,Diesel,Individual,Manual,First Owner,16.1 kmpl,2500 CC,108.0 bhp,4
+Mahindra XUV500 W8,2017,525000,57270,Diesel,Individual,Manual,Second Owner,15.3 kmpl,2181 CC,143.9 bhp,7
+Skoda Rapid 1.5 TDI Elegance,2019,533000,82393,Diesel,Individual,Automatic,First Owner,20.4 kmpl,1496 CC,104.7 bhp,5
+Nissan Micra Active XL,2018,239000,76854,Petrol,Dealer,Manual,First Owner,18.8 kmpl,1198 CC,,5
+Hyundai Grand i10 Magna,2012,95000,108566,Petrol,Dealer,Manual,Third Owner,19.5 kmpl,1195 CC,80.8 bhp,5
+Volkswagen Polo GT TSI,2006,76000,228100,Petrol,Dealer,Automatic,Third Owner,16.4 kmpl,1199 CC,106.6 bhp,5
+BMW 5 Series 520d,2018,2565000,83041,Diesel,Individual,Manual,First Owner,19.2 kmpl,1997 CC,182.8 bhp,5
+Renault Duster 110PS RXZ,2011,156000,163675,Diesel,Individual,Manual,Third Owner,19.1 kmpl,1461 CC,107.5 bhp,5
+Volkswagen Vento 1.6 Highline,2021,584000,52323,Petrol,Dealer,Manual,Second Owner,15.8 kmpl,1600 CC,104.4 bhp,5
+Hyundai Santro Magna,2018,216000,53702,Petrol,Individual,Automatic,Second Owner,21.2 kmpl,1084 CC,69.2 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2013,721000,76829,Diesel,Dealer,Automatic,First Owner,13.7 kmpl,2757 CC,166.7 bhp,7
+Toyota Innova Crysta 2.4 VX,2011,363000,125792,Diesel,Individual,Manual,Second Owner,14.6 kmpl,2395 CC,145.4 bhp,7
+BMW 5 Series 520d,2018,2635000,43770,Diesel,Individual,Automatic,Second Owner,19.0 kmpl,1993 CC,193.0 bhp,5
+Hyundai i20 Asta CRDI,2020,526000,40995,Diesel,Dealer,Manual,Second Owner,23.0 kmpl,1394 CC,89.9 bhp,5
+Chevrolet Beat LT Diesel,2019,209000,39120,Diesel,Individual,Manual,Second Owner,26.1 kmpl,936 CC,57.9 bhp,5
+Renault Duster 110PS RXZ,2015,337000,100844,Diesel,Dealer,Manual,Second Owner,20.1 kmpl,1463 CC,106.8 bhp,5
+Toyota Innova Crysta 2.4 VX,2011,312000,145202,Diesel,Trustmark Dealer,Manual,Third Owner,14.4 kmpl,2395 CC,146.3 bhp,7
+Maruti Swift ZXI Plus,2019,504000,53470,CNG,Trustmark Dealer,Automatic,First Owner,21.5 km/kg,1195 CC,87.9 bhp,5
+Hyundai Venue SX 1.0 Turbo,2021,700000,27109,Petrol,Dealer,Manual,First Owner,18.9 kmpl,1000 CC,120.0 bhp,5
+Toyota Glanza G,2021,541000,35812,Petrol,Individual,Manual,First Owner,22.7 kmpl,1199 CC,89.3 bhp,5
+Tata Harrier XZ Plus,2019,836000,75960,Diesel,Individual,Manual,Second Owner,16.4 kmpl,1954 CC,167.8 bhp,5
+BMW 5 Series 520d,2017,2129000,85054,Diesel,Individual,Automatic,Second Owner,19.1 kmpl,1997 CC,185.0 bhp,5
+Mahindra Scorpio S11,2022,1245000,12772,Diesel,Individual,Manual,First Owner,14.9 kmpl,2181 CC,143.7 bhp,7
+Maruti Swift VXI,2016,199000,74134,Petrol,Dealer,Manual,Second Owner,21.7 kmpl,1199 CC,80.2 bhp,5
+Hyundai i20 Asta CRDI,2015,261000,107239,Diesel,Individual,Manual,Second Owner,21.5 kmpl,1396 CC,86.5 bhp,5
+Renault Duster 110PS RXZ,2013,275000,91130,Diesel,Individual,Manual,Second Owner,19.9 kmpl,1461 CC,109.0 bhp,5
+Nissan Sunny XL D,2019,500000,52411,Diesel,Dealer,Automatic,First Owner,22.8 kmpl,1463 CC,,5
+Mahindra Bolero Power+ ZLX,2016,251000,105059,Diesel,Trustmark Dealer,Manual,Second Owner,16.3 kmpl,1493 CC,68.4 bhp,7
+BMW X1 sDrive20d xLine,2012,731000,125507,Diesel,Individual,Automatic,Third Owner,19.4 kmpl,1993 CC,190.9 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2021,2378000,27297,Diesel,Individual,Automatic,First Owner,11.0 kmpl,3196 CC,196.0 bhp,7
+Volkswagen Vento 1.6 Highline,2020,538000,42923,Petrol,Individual,Manual,First Owner,16.4 kmpl,1598 CC,101.3 bhp,5
+Tata Safari XZA Plus 6S AT,2015,634000,137322,Diesel,Dealer,Manual,Second Owner,14.5 kmpl,1956 CC,169.1 bhp,6
+Ford Endeavour 3.2 Titanium 4x4,2017,1430000,53888,Diesel,Individual,Automatic,First Owner,11.2 kmpl,3200 CC,197.3 bhp,7
+Maruti Swift Dzire VDI,2011,76000,191586,Diesel,Individual,Manual,Fourth & Above Owner,27.3 kmpl,1250 CC,73.8 bhp,5
+Tata Harrier XZ Plus,2018,847000,61918,Diesel,Individual,Manual,First Owner,15.7 kmpl,1956 CC,,5
+Honda City i-VTEC V,2014,277000,88334,Petrol,Trustmark Dealer,Manual,Second Owner,17.5 kmpl,1495 CC,118.1 bhp,5
+Maruti Wagon R LXI CNG,2014,168000,83567,CNG,Dealer,Automatic,First Owner,30.7 km/kg,996 CC,56.4 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2017,1006000,103669,Diesel,Individual,Manual,First Owner,13.6 kmpl,2755 CC,167.0 bhp,
+Maruti Swift Dzire VDI,2014,175000,147246,Diesel,Dealer,Manual,First Owner,27.4 kmpl,1248 CC,73.8 bhp,5
+Hyundai Verna SX Turbo DCT,2015,467000,78426,Petrol,Dealer,Automatic,Second Owner,19.5 kmpl,1480 CC,160.5 bhp,5
+Honda City i-VTEC V,2006,64000,274446,Petrol,Dealer,Manual,Fourth & Above Owner,18.4 kmpl,1499 CC,115.3 bhp,5
+Hyundai Santro Magna,2019,245000,55351,Petrol,Individual,Manual,First Owner,21.1 kmpl,1088 CC,70.0 bhp,5
+BMW 3 Series 320d Luxury Line,2022,3810000,25441,Diesel,Dealer,Automatic,First Owner,22.3 kmpl,1997 CC,193.1 bhp,5
+Volkswagen Polo GT TSI,2007,70000,214720,Petrol,Individual,Manual,Fourth & Above Owner,17.3 kmpl,1199 CC,101.5 bhp,5
+Nissan Sunny XL D,2019,456000,54699,Diesel,Individual,Manual,First Owner,21.8 kmpl,1463 CC,84.5 bhp,5
+Tata Nexon XZ Plus Petrol,2020,573000,47401,Petrol,Dealer,Manual,First Owner,16.5 kmpl,,117.4 bhp,5
+Maruti Swift Dzire VDI,2019,287000,69600,Diesel,Individual,Manual,Second Owner,26.5 kmpl,1246 CC,72.8 bhp,5
+Toyota Glanza G,2017,302000,91220,CNG,Individual,Manual,First Owner,22.3 km/kg,1197 CC,88.9 bhp,5
+Honda City ZX CVT,2010,191000,109831,Petrol,Dealer,Automatic,Fourth & Above Owner,17.8 kmpl,1500 CC,121.3 bhp,5
+Audi A6 35 TDI Matrix,2018,2242000,85330,Diesel,Dealer,Automatic,Second Owner,19.4 kmpl,1968 CC,186.9 bhp,5
+BMW X1 sDrive20d xLine,2016,1453000,91637,Diesel,Individual,Automatic,First Owner,19.2 kmpl,1995 CC,188.1 bhp,5
+Volkswagen Polo GT TSI,2010,112000,159407,Petrol,Dealer,Automatic,Fourth & Above Owner,16.9 kmpl,1195 CC,101.6 bhp,5
+Hyundai i20 Sportz 1.2,2008,86000,164395,Petrol,Individual,Manual,Second Owner,20.7 kmpl,1195 CC,81.9 bhp,5
+Volkswagen Polo GT TSI,2017,425000,59962,Petrol,Dealer,Automatic,Second Owner,18.0 kmpl,1199 CC,101.2 bhp,5
+Tata Nexon XZ Plus Petrol,2014,300000,136570,Petrol,Dealer,Automatic,First Owner,16.3 kmpl,1200 CC,119.2 bhp,5
+Mercedes-Benz E-Class E 220d,2009,583000,216929,Diesel,Individual,Automatic,Fourth & Above Owner,16.0 kmpl,1952 CC,193.1 bhp,5
+Mahindra Scorpio S11,2021,1045000,34534,Diesel,Dealer,Manual,First Owner,14.4 kmpl,2179 CC,140.7 bhp,7
+Maruti Wagon R ZXI 1.2,2018,298000,84666,Petrol,Individual,Automatic,First Owner,20.4 kmpl,1197 CC,83.1 bhp,5
+Maruti Alto 800 LXI,2009,39000,152576,Petrol,Individual,Manual,Third Owner,23.8 kmpl,,48.1 bhp,5
+Volkswagen Vento 1.6 Highline,2014,237000,144744,Petrol,Individual,Manual,First Owner,15.9 kmpl,1600 CC,105.7 bhp,5
+Honda Amaze 1.5 S i-DTEC,2018,317000,49129,Diesel,Dealer,Manual,Third Owner,26.7 kmpl,1500 CC,99.7 bhp,5
+Volkswagen Polo GT TSI,2018,521000,68342,Petrol,Dealer,Automatic,First Owner,17.4 kmpl,1195 CC,106.1 bhp,5
+Renault Kwid RXT,2018,165000,64501,Petrol,Individual,Manual,Second Owner,22.7 kmpl,997 CC,66.6 bhp,5
+Maruti Swift ZXI Plus,2010,94000,100204,Petrol,Individual,Automatic,Fourth & Above Owner,21.4 kmpl,1197 CC,86.1 bhp,5
+Honda City ZX CVT,2013,383000,101316,Petrol,Individual,Automatic,First Owner,,1498 CC,122.2 bhp,5
+Tata Nexon XZ Plus Petrol,2018,472000,84136,Petrol,Individual,Manual,First Owner,17.7 kmpl,1198 CC,119.4 bhp,
+Mahindra XUV500 W8,2021,1035000,21487,Diesel,Dealer,Manual,First Owner,14.8 kmpl,2179 CC,141.6 bhp,7
+Toyota Fortuner 2.8 4x2 AT,2021,2545000,40949,Diesel,Individual,Automatic,First Owner,14.7 kmpl,2757 CC,177.6 bhp,7
+Nissan Sunny XL D,2013,178000,94748,Diesel,Individual,Manual,Second Owner,22.4 kmpl,1463 CC,86.1 bhp,5
+Honda City ZX CVT,2015,438000,101394,Petrol,Individual,Automatic,Second Owner,17.9 kmpl,1500 CC,120.4 bhp,5
+Mahindra Thar CRDe 4x4,2020,499000,43134,Diesel,Individual,Manual,Second Owner,15.8 kmpl,2498 CC,103.5 bhp,4
+Ford EcoSport 1.5 Ti-VCT AT,2016,364000,81582,Petrol,Individual,Automatic,Second Owner,15.7 kmpl,1496 CC,120.2 bhp,5
+Toyota Etios Liva GD,2015,203000,85712,Diesel,Individual,Manual,First Owner,23.8 kmpl,1366 CC,67.1 bhp,5
+Toyota Innova Crysta 2.4 VX,2011,338000,105396,Diesel,Individual,Manual,Third Owner,15.5 kmpl,2393 CC,149.7 bhp,7
+Honda Amaze 1.2 VX,2019,395000,44201,Petrol,Dealer,Manual,Second Owner,19.2 kmpl,1199 CC,90.9 bhp,5
+Maruti Swift ZXI Plus,2016,322000,89483,Petrol,Dealer,Automatic,First Owner,23.1 kmpl,1195 CC,88.6 bhp,5
+Renault Kwid RXT,2015,127000,74585,Petrol,Dealer,Manual,Second Owner,22.1 kmpl,999 CC,66.8 bhp,5
+Hyundai Creta SX(O) Diesel AT,2014,499000,125757,Diesel,Individual,Automatic,First Owner,,1493 CC,114.7 bhp,5
+Audi A6 35 TDI Matrix,2014,1007000,113841,Diesel,Individual,Manual,Fourth & Above Owner,19.1 kmpl,1968 CC,188.5 bhp,5
+Tata Tiago XZ,2022,425000,25144,CNG,Individual,Manual,First Owner,23.3 km/kg,1199 CC,84.5 bhp,5
+Mercedes-Benz C-Class C 220d,2012,696000,176250,Diesel,Dealer,Automatic,Third Owner,19.5 kmpl,2141 CC,164.9 bhp,5
+Maruti Wagon R LXI CNG,2015,161000,64440,CNG,Dealer,Manual,Second Owner,31.2 km/kg,996 CC,56.7 bhp,5
+Tata Nexon XZA Plus Diesel,2022,979000,29947,Diesel,Individual,Automatic,First Owner,21.7 kmpl,1497 CC,106.3 bhp,5
+Honda Amaze 1.5 S i-DTEC,2017,337000,98309,Diesel,Individual,Automatic,First Owner,25.1 kmpl,1498 CC,99.2 bhp,5
+Nissan Sunny XL D,2016,262000,90032,Diesel,Dealer,Manual,Second Owner,23.4 kmpl,1463 CC,86.5 bhp,5
+Honda City ZX CVT,2016,508000,76926,Petrol,Individual,Automatic,Second Owner,17.6 kmpl,1498 CC,120.7 bhp,5
+Hyundai Santro Magna,2014,109000,126014,Petrol,Dealer,Automatic,Third Owner,20.8 kmpl,1086 CC,67.6 bhp,5
+Skoda Octavia 2.0 TDI L&K AT,2010,397000,121582,Diesel,Individual,Automatic,Second Owner,18.4 kmpl,1970 CC,137.1 bhp,5
+Renault Kwid RXT,2015,131000,126075,Petrol,Individual,Manual,First Owner,22.5 kmpl,997 CC,66.3 bhp,5
+Maruti Wagon R ZXI 1.2,2010,82000,176287,Petrol,Individual,Manual,Second Owner,19.5 kmpl,1195 CC,80.4 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2011,166000,177756,Petrol,Individual,Automatic,Second Owner,15.4 kmpl,1496 CC,119.7 bhp,5
+Audi A6 35 TDI Matrix,2013,1075000,136341,Diesel,Individual,Automatic,Second Owner,18.1 kmpl,1966 CC,186.5 bhp,5
+Maruti Swift VXI,2009,76000,152975,Petrol,Individual,Manual,Second Owner,20.9 kmpl,1197 CC,79.7 bhp,5
+Maruti Wagon R ZXI 1.2,2013,141000,154662,Petrol,Individual,Manual,First Owner,21.1 kmpl,1197 CC,82.1 bhp,5
+Honda Amaze 1.2 VX,2018,345000,95869,Petrol,Individual,Automatic,First Owner,18.9 kmpl,1197 CC,85.9 bhp,5
+Honda Civic 1.8 V AT,2016,776000,64444,Petrol,Individual,Automatic,First Owner,16.5 kmpl,1799 CC,141.2 bhp,5
+Audi A6 35 TDI Matrix,2020,2741000,58834,Diesel,Individual,Manual,Second Owner,19.4 kmpl,1968 CC,189.7 bhp,5
+Volkswagen Polo GT TSI,2012,191000,164287,Petrol,Individual,Automatic,Second Owner,17.2 kmpl,1199 CC,103.2 bhp,5
+BMW 3 Series 320d Luxury Line,2018,2096000,45270,Diesel,Individual,Automatic,First Owner,23.0 kmpl,1995 CC,,5
+Skoda Octavia 2.0 TDI L&K AT,2017,925000,60547,Diesel,Individual,Automatic,Second Owner,19.0 kmpl,1968 CC,143.0 bhp,5
+Maruti Alto 800 LXI,2017,155000,77238,Petrol,Dealer,Manual,First Owner,25.7 kmpl,794 CC,47.4 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2020,2260000,53101,Diesel,Individual,Automatic,First Owner,14.2 kmpl,2753 CC,169.9 bhp,7
+Maruti Alto K10 VXI,2018,182000,50645,Petrol,Individual,Manual,Second Owner,22.9 kmpl,996 CC,65.9 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2012,579000,106441,Diesel,Individual,Automatic,Third Owner,11.3 kmpl,3200 CC,193.5 bhp,7
+Skoda Rapid 1.5 TDI Elegance,2016,364000,77416,Diesel,Dealer,Manual,Second Owner,20.8 kmpl,1498 CC,100.5 bhp,5
+Ford Figo 1.2 Titanium,2018,298000,50263,Petrol,Individual,Manual,First Owner,18.2 kmpl,1196 CC,94.8 bhp,5
+Honda Amaze 1.5 S i-DTEC,2012,144000,97772,Diesel,Dealer,Manual,Third Owner,27.0 kmpl,1498 CC,101.2 bhp,5
+Nissan Sunny XL D,2014,234000,115524,Diesel,Dealer,Automatic,Second Owner,23.3 kmpl,1463 CC,83.1 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2017,483000,84078,Diesel,Dealer,Automatic,Second Owner,22.4 kmpl,1496 CC,108.5 bhp,5
+Maruti Baleno Delta,2019,373000,61275,Petrol,Dealer,Manual,First Owner,21.3 kmpl,1199 CC,82.4 bhp,5
+Hyundai Grand i10 Magna,2019,293000,68984,Petrol,Dealer,Manual,First Owner,18.3 kmpl,1195 CC,83.6 bhp,5
+Ford Figo 1.2 Titanium,2017,236000,87112,Petrol,Dealer,Manual,Second Owner,18.6 kmpl,1192 CC,92.7 bhp,5
+Hyundai Verna SX Turbo DCT,2014,354000,95200,Petrol,Individual,Manual,Second Owner,19.0 kmpl,1480 CC,153.4 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2019,496000,42765,Diesel,Individual,Manual,First Owner,23.7 kmpl,1496 CC,98.3 bhp,5
+Maruti Wagon R LXI CNG,2019,285000,69427,CNG,Dealer,Manual,First Owner,30.3 km/kg,1000 CC,59.4 bhp,5
+Maruti Ertiga VDI,2014,215000,100025,Diesel,Individual,Manual,Second Owner,24.2 kmpl,1250 CC,89.9 bhp,7
+Maruti Swift VXI,2018,225000,77161,CNG,Individual,Manual,Second Owner,21.9 km/kg,1197 CC,84.1 bhp,5
+Mahindra Scorpio S11,2015,461000,119506,Diesel,Dealer,Manual,Second Owner,15.7 kmpl,2179 CC,140.9 bhp,7
+Hyundai i20 Sportz 1.2,2006,51000,262524,Petrol,Individual,Manual,Third Owner,20.2 kmpl,1199 CC,80.9 bhp,5
+Skoda Octavia 2.0 TDI L&K AT,2016,743000,111539,Diesel,Individual,Automatic,Second Owner,19.0 kmpl,1968 CC,136.9 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2019,490000,55442,Petrol,Individual,Manual,First Owner,18.8 kmpl,999 CC,111.8 bhp,5
+Tata Nexon XZA Plus Diesel,2014,331000,85671,Diesel,Dealer,Automatic,Second Owner,22.1 kmpl,1495 CC,106.1 bhp,5
+Mercedes-Benz C-Class C 220d,2022,3661000,22154,Diesel,Individual,Automatic,First Owner,19.7 kmpl,2141 CC,164.7 bhp,5
+Maruti Ciaz Alpha Petrol,2011,157000,163176,Petrol,Dealer,Manual,Third Owner,20.9 kmpl,1460 CC,104.6 bhp,5
+Hyundai Creta SX 1.6 CRDI,2018,591000,98474,Diesel,Dealer,Manual,Second Owner,19.3 kmpl,1584 CC,122.9 bhp,5
+Tata Nexon XZ Plus Petrol,2018,420000,89904,Petrol,Individual,Manual,First Owner,17.2 kmpl,1196 CC,117.2 bhp,5
+Hyundai Grand i10 Magna,2018,253000,53526,Petrol,Individual,Manual,First Owner,18.7 kmpl,1199 CC,80.3 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2020,640000,57738,Diesel,Individual,Manual,First Owner,20.7 kmpl,1500 CC,105.7 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2020,632000,54311,Petrol,Dealer,Automatic,Second Owner,15.6 kmpl,1498 CC,117.3 bhp,5
+Hyundai Creta SX 1.6 CRDI,2014,251000,150112,Diesel,Individual,Manual,Fourth & Above Owner,19.3 kmpl,1580 CC,129.8 bhp,5
+Honda Jazz 1.2 V,2020,544000,60991,Petrol,Dealer,Automatic,First Owner,16.8 kmpl,1199 CC,89.9 bhp,5
+Hyundai Santro Magna,2022,391000,30830,Petrol,Trustmark Dealer,Manual,First Owner,20.8 kmpl,1086 CC,66.3 bhp,5
+Honda Amaze 1.2 VX,2019,369000,65348,Petrol,Dealer,Manual,Second Owner,19.0 kmpl,1197 CC,90.4 bhp,5
+Hyundai Santro Magna,2018,221000,74522,Petrol,Individual,Automatic,Second Owner,20.0 kmpl,1088 CC,68.6 bhp,5
+Hyundai i20 Asta CRDI,2019,472000,69996,Diesel,Dealer,Manual,First Owner,23.6 kmpl,1394 CC,86.6 bhp,5
+Maruti Alto K10 VXI,2011,59000,151977,Petrol,Individual,Manual,Third Owner,23.7 kmpl,996 CC,65.5 bhp,5
+Honda City ZX CVT,2018,704000,58386,Petrol,Dealer,Automatic,First Owner,17.5 kmpl,1500 CC,118.9 bhp,5
+Hyundai Creta SX 1.6 CRDI,2017,555000,99049,Diesel,Trustmark Dealer,Manual,First Owner,20.2 kmpl,1584 CC,128.1 bhp,5
+Nissan Micra Active XL,2022,390000,34722,Petrol,Individual,Automatic,First Owner,20.1 kmpl,1200 CC,65.7 bhp,5
+Mercedes-Benz E-Class E 220d,2020,3632000,64681,Diesel,Individual,Automatic,Second Owner,16.5 kmpl,,187.4 bhp,5
+Hyundai Creta SX 1.6 CRDI,2012,250000,143780,Diesel,Individual,Manual,Second Owner,18.9 kmpl,1584 CC,124.0 bhp,5
+Maruti Baleno Alpha CVT,2010,120000,123879,Petrol,Individual,Automatic,Fourth & Above Owner,19.1 kmpl,1199 CC,85.8 bhp,5
+BMW X1 sDrive20d xLine,2021,2909000,37788,Diesel,Individual,Automatic,First Owner,19.6 kmpl,1995 CC,188.9 bhp,5
+Maruti Alto 800 LXI,2013,87000,93582,Petrol,Trustmark Dealer,Manual,Second Owner,24.2 kmpl,794 CC,47.6 bhp,5
+Mahindra Scorpio S11,2010,218000,130773,Diesel,Individual,Manual,Second Owner,15.7 kmpl,2179 CC,141.5 bhp,7
+Honda Jazz 1.2 V,2010,89000,185855,Petrol,Individual,Manual,Third Owner,17.1 kmpl,1201 CC,89.5 bhp,5
+Hyundai Venue SX 1.0 Turbo,2014,254000,143739,Petrol,Individual,Manual,First Owner,18.3 kmpl,1000 CC,115.5 bhp,5
+Maruti Ciaz Alpha Petrol,2015,337000,91541,Petrol,Individual,Manual,First Owner,19.8 kmpl,1460 CC,102.4 bhp,5
+Honda City ZX CVT,2017,602000,104249,Petrol,Individual,Automatic,First Owner,18.5 kmpl,1500 CC,121.9 bhp,5
+Maruti Alto K10 VXI,2012,67000,184801,Petrol,Dealer,Manual,Third Owner,24.7 kmpl,1000 CC,67.4 bhp,5
+Hyundai Creta SX(O) Diesel AT,2014,443000,138078,Diesel,Individual,Automatic,Second Owner,18.9 kmpl,1493 CC,110.4 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2019,2023000,62130,Diesel,Dealer,Automatic,First Owner,14.2 kmpl,2755 CC,179.2 bhp,7
+Toyota Innova Crysta 2.4 VX,2014,527000,138128,Diesel,Individual,Manual,First Owner,14.7 kmpl,2391 CC,143.8 bhp,7
+Maruti Wagon R LXI CNG,2010,57000,141923,CNG,Individual,Manual,Fourth & Above Owner,32.2 km/kg,1000 CC,58.0 bhp,5
+BMW 5 Series 520d,2019,2927000,61805,Diesel,Dealer,Automatic,Second Owner,18.6 kmpl,1997 CC,186.9 bhp,5
+Audi A4 2.0 TDI Premium,2019,2326000,46431,Diesel,Dealer,Automatic,First Owner,16.9 kmpl,1966 CC,170.9 bhp,5
+Skoda Rapid 1.6 MPI Ambition,2022,712000,32160,Petrol,Individual,Manual,First Owner,15.9 kmpl,1596 CC,105.6 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2014,322000,97715,Petrol,Individual,Automatic,First Owner,16.6 kmpl,1496 CC,123.8 bhp,5
+Maruti Baleno Alpha CVT,2021,580000,53932,CNG,Individual,Manual,First Owner,20.3 km/kg,1195 CC,85.9 bhp,5
+Skoda Rapid 1.6 MPI Ambition,2007,75000,190116,Petrol,Dealer,Manual,Third Owner,15.8 kmpl,1598 CC,100.4 bhp,5
+Renault Duster 110PS RXZ,2016,417000,82551,Diesel,Dealer,Manual,First Owner,19.5 kmpl,1461 CC,109.5 bhp,5
+Mahindra XUV500 W8,2006,92000,257787,Diesel,Individual,Manual,Third Owner,14.6 kmpl,2179 CC,143.4 bhp,7
+Nissan Micra Active XL,2022,410000,17246,Petrol,Dealer,Manual,First Owner,20.0 kmpl,1198 CC,68.0 bhp,5
+Tata Nexon XZA Plus Diesel,2011,178000,191519,Diesel,Individual,Manual,Second Owner,21.9 kmpl,1499 CC,106.8 bhp,5
+Maruti Swift ZXI Plus,2016,284000,79215,Petrol,Individual,Automatic,First Owner,22.0 kmpl,1199 CC,86.8 bhp,5
+Toyota Corolla Altis GL,2022,1284000,27114,Petrol,Dealer,Manual,First Owner,13.8 kmpl,1800 CC,138.9 bhp,5
+Hyundai Venue SX 1.0 Turbo,2013,234000,97062,Petrol,Dealer,Manual,Second Owner,18.9 kmpl,1000 CC,,5
+Audi A4 2.0 TDI Premium,2014,1002000,124463,Diesel,Individual,Automatic,Second Owner,16.7 kmpl,1966 CC,172.3 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2019,653000,50595,Diesel,Individual,Automatic,Second Owner,21.4 kmpl,1498 CC,106.7 bhp,5
+Hyundai i20 Sportz 1.2,2016,260000,83626,Petrol,Individual,Manual,First Owner,19.1 kmpl,1199 CC,83.3 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2019,511000,66296,Diesel,Individual,Manual,First Owner,21.6 kmpl,1496 CC,101.2 bhp,5
+Honda Amaze 1.2 VX,2013,156000,115393,Petrol,Individual,Manual,Second Owner,18.0 kmpl,1197 CC,88.7 bhp,5
+Mahindra Scorpio S10,2017,526000,69857,Diesel,Dealer,Manual,Second Owner,15.4 kmpl,2177 CC,119.9 bhp,7
+Maruti Swift Dzire VDI,2012,97000,110164,Diesel,Individual,Manual,Fourth & Above Owner,26.2 kmpl,1246 CC,75.1 bhp,5
+BMW 5 Series 520d,2022,5098000,26054,Diesel,Dealer,Automatic,First Owner,17.6 kmpl,1995 CC,184.4 bhp,5
+Maruti Swift ZXI Plus,2021,527000,52231,Petrol,Individual,Automatic,First Owner,22.0 kmpl,1195 CC,87.4 bhp,5
+Toyota Innova 2.5 G4 Diesel,2009,167000,138828,Diesel,Dealer,Automatic,Fourth & Above Owner,12.2 kmpl,2494 CC,102.9 bhp,7
+Honda Jazz 1.2 V,2017,303000,55462,Petrol,Individual,Manual,Second Owner,16.5 kmpl,1201 CC,87.4 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2015,424000,62562,Petrol,Trustmark Dealer,Automatic,First Owner,16.7 kmpl,,121.0 bhp,5
+Hyundai i20 Asta CRDI,2019,400000,70701,Diesel,Individual,Manual,Second Owner,21.9 kmpl,1394 CC,90.4 bhp,5
+Tata Tiago XZ,2012,110000,115994,Petrol,Individual,Manual,Second Owner,23.0 kmpl,1197 CC,85.4 bhp,5
+Honda City i-DTEC VX,2018,512000,48195,Diesel,Individual,Manual,Second Owner,25.4 kmpl,1496 CC,96.5 bhp,5
+Tata Harrier XZ Plus,2011,288000,146593,Diesel,Individual,Manual,Third Owner,15.5 kmpl,1954 CC,163.7 bhp,5
+Maruti Alto 800 LXI,2011,51000,170743,Petrol,Individual,Manual,Third Owner,23.7 kmpl,794 CC,48.6 bhp,5
+Volkswagen Vento 1.6 Highline,2020,502000,32413,Petrol,Dealer,Manual,Second Owner,15.4 kmpl,1598 CC,102.5 bhp,5
+Toyota Etios Liva GD,2018,294000,43742,Diesel,Individual,Automatic,First Owner,24.5 kmpl,1364 CC,65.6 bhp,5
+Mahindra Scorpio S11,2015,369000,93445,Diesel,Individual,Manual,Third Owner,15.7 kmpl,2177 CC,139.9 bhp,7
+Ford EcoSport 1.5 TDCi Titanium,2015,237000,114322,Diesel,Dealer,Manual,Third Owner,22.8 kmpl,1500 CC,96.5 bhp,5
+Honda City i-DTEC VX,2019,723000,46031,Diesel,Dealer,Manual,First Owner,26.7 kmpl,1498 CC,99.6 bhp,5
+Maruti Vitara Brezza ZDI,2020,594000,56106,Diesel,Individual,Automatic,First Owner,23.4 kmpl,1248 CC,90.2 bhp,5
+Toyota Glanza G,2012,129000,114931,Petrol,Individual,Manual,Third Owner,22.5 kmpl,1199 CC,91.0 bhp,5
+Hyundai Verna 1.6 VTVT SX,2020,642000,52485,Petrol,Individual,Manual,First Owner,17.5 kmpl,1593 CC,123.6 bhp,5
+Mahindra Scorpio S10,2017,382000,95714,Diesel,Individual,Manual,Third Owner,15.4 kmpl,2177 CC,119.0 bhp,7
+Hyundai Grand i10 Magna,2009,76000,154739,Petrol,Dealer,Manual,Second Owner,19.0 kmpl,1195 CC,83.4 bhp,5
+Mahindra Scorpio S10,2013,303000,153950,Diesel,Trustmark Dealer,Automatic,Second Owner,15.7 kmpl,2179 CC,121.7 bhp,7
+Maruti Alto K10 VXI,2019,225000,59562,Petrol,Individual,Manual,First Owner,22.9 kmpl,996 CC,65.3 bhp,5
+Mahindra Scorpio S10,2012,266000,112321,Diesel,Dealer,Manual,Second Owner,15.3 kmpl,2179 CC,121.6 bhp,7
+Maruti Swift ZXI Plus,2014,216000,79736,Petrol,Dealer,Manual,Second Owner,22.3 kmpl,1195 CC,87.9 bhp,5
+Mahindra Bolero Power+ ZLX,2017,317000,100020,Diesel,Dealer,Manual,First Owner,15.8 kmpl,1491 CC,69.0 bhp,7
+Hyundai Creta SX(O) Diesel AT,2019,976000,48234,Diesel,Dealer,Automatic,First Owner,18.4 kmpl,1491 CC,115.6 bhp,5
+Tata Harrier XZ Plus,2020,1152000,30191,Diesel,Individual,Manual,First Owner,16.8 kmpl,1954 CC,166.2 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2014,751000,112848,Diesel,Dealer,Automatic,First Owner,14.9 kmpl,2757 CC,168.4 bhp,7
+Maruti Ertiga VDI,2022,690000,19722,Diesel,Individual,Manual,First Owner,25.0 kmpl,1248 CC,85.9 bhp,7
+Tata Tiago XZ,2017,245000,74832,Petrol,Dealer,Manual,First Owner,23.8 kmpl,1199 CC,85.8 bhp,5
+Hyundai Venue SX 1.0 Turbo,2008,99000,223857,Petrol,Individual,Manual,Second Owner,18.9 kmpl,1000 CC,118.0 bhp,5
+Toyota Innova Crysta 2.4 VX,2021,1616000,40457,Diesel,Trustmark Dealer,Manual,First Owner,15.1 kmpl,2395 CC,148.5 bhp,7
+Mahindra Thar CRDe 4x4,2020,489000,43638,Diesel,Individual,Manual,Second Owner,16.0 kmpl,,,4
+Maruti Vitara Brezza ZDI,2022,780000,34590,Diesel,Dealer,Automatic,First Owner,24.2 kmpl,1246 CC,88.5 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2012,186000,118433,Petrol,Dealer,Manual,Third Owner,16.3 kmpl,1496 CC,124.2 bhp,5
+Hyundai Verna 1.6 VTVT SX,2021,745000,55879,Petrol,Individual,Manual,First Owner,17.5 kmpl,1593 CC,118.6 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2015,207000,121831,Petrol,Dealer,Manual,Second Owner,15.7 kmpl,1200 CC,76.1 bhp,5
+Mercedes-Benz E-Class E 220d,2006,495000,250234,Diesel,Individual,Automatic,Second Owner,16.4 kmpl,1950 CC,196.0 bhp,5
+Renault Kwid RXT,2018,147000,96470,Petrol,Individual,Manual,Third Owner,21.3 kmpl,999 CC,68.1 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2015,194000,118484,Petrol,Individual,Manual,Second Owner,16.4 kmpl,1200 CC,72.5 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2017,247000,90929,CNG,Dealer,Manual,Third Owner,17.0 km/kg,1196 CC,72.0 bhp,5
+Mahindra Scorpio S11,2014,435000,122840,Diesel,Individual,Automatic,First Owner,14.9 kmpl,2181 CC,,7
+Toyota Corolla Altis GL,2012,318000,87309,Petrol,Trustmark Dealer,Manual,Second Owner,14.1 kmpl,1796 CC,136.8 bhp,5
+Hyundai Santro Magna,2022,398000,27778,Petrol,Dealer,Manual,First Owner,20.8 kmpl,1088 CC,66.8 bhp,5
+Hyundai Verna SX Turbo DCT,2015,423000,129085,Petrol,Dealer,Automatic,Second Owner,19.5 kmpl,1482 CC,153.8 bhp,5
+BMW X1 sDrive20d xLine,2019,2218000,52569,Diesel,Individual,Automatic,First Owner,19.4 kmpl,1997 CC,193.1 bhp,5
+Honda City i-VTEC V,2018,447000,59026,Petrol,Dealer,Manual,Third Owner,16.9 kmpl,1497 CC,119.5 bhp,5
+BMW 3 Series 320d Luxury Line,2020,2761000,43439,Diesel,Individual,Automatic,First Owner,23.8 kmpl,1997 CC,186.9 bhp,5
+Honda City ZX CVT,2016,528000,81244,Petrol,Individual,Automatic,First Owner,18.3 kmpl,,120.6 bhp,5
+Hyundai i20 Sportz 1.2,2022,616000,25605,CNG,Dealer,Automatic,First Owner,20.6 km/kg,,83.2 bhp,5
+Mahindra XUV500 W11 AT,2017,678000,91276,Diesel,Individual,Automatic,Second Owner,13.6 kmpl,2181 CC,151.7 bhp,7
+Hyundai Creta SX 1.6 CRDI,2015,377000,131720,Diesel,Dealer,Manual,Second Owner,20.2 kmpl,1580 CC,129.5 bhp,5
+Toyota Etios Liva GD,2021,437000,32570,Diesel,Individual,Manual,First Owner,22.4 kmpl,1364 CC,65.1 bhp,5
+BMW X1 sDrive20d xLine,2020,2795000,53058,Diesel,Trustmark Dealer,Automatic,First Owner,19.9 kmpl,1995 CC,184.2 bhp,5
+Mahindra Scorpio S11,2011,216000,166549,Diesel,Dealer,Manual,Third Owner,15.3 kmpl,2179 CC,137.7 bhp,7
+Hyundai Creta SX 1.6 CRDI,2018,608000,88389,Diesel,Individual,Manual,First Owner,18.8 kmpl,1582 CC,124.0 bhp,5
+Hyundai Venue SX 1.0 Turbo,2008,92000,202317,Petrol,Dealer,Automatic,Fourth & Above Owner,17.9 kmpl,1000 CC,119.2 bhp,5
+Toyota Innova 2.5 G4 Diesel,2014,382000,116896,Diesel,Individual,Manual,First Owner,13.4 kmpl,2492 CC,99.2 bhp,7
+Hyundai i20 Asta CRDI,2011,139000,188755,Diesel,Dealer,Manual,Second Owner,23.4 kmpl,1396 CC,90.5 bhp,5
+Hyundai i20 Sportz 1.2,2017,269000,58810,CNG,Individual,Manual,Second Owner,20.1 km/kg,1197 CC,83.9 bhp,5
+Hyundai Santro Magna,2012,102000,85850,Petrol,Dealer,Manual,Second Owner,20.3 kmpl,1086 CC,70.0 bhp,5
+Audi Q3 2.0 TDI Quattro,2006,319000,206271,Diesel,Individual,Automatic,Second Owner,15.3 kmpl,1970 CC,177.0 bhp,5
+Honda Civic 1.8 V AT,2008,231000,132361,Petrol,Individual,Automatic,Second Owner,16.3 kmpl,1797 CC,142.8 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2016,400000,120262,Petrol,Dealer,Automatic,First Owner,16.5 kmpl,1494 CC,122.1 bhp,5
+Tata Tiago XZ,2011,85000,180671,Petrol,Dealer,Manual,Third Owner,24.4 kmpl,1199 CC,83.4 bhp,5
+Hyundai i20 Asta CRDI,2018,407000,64640,Diesel,Individual,Manual,First Owner,23.5 kmpl,,90.8 bhp,5
+Tata Safari XZA Plus 6S AT,2014,555000,144262,Diesel,Dealer,Manual,Second Owner,13.4 kmpl,1954 CC,166.2 bhp,6
+Skoda Octavia 2.0 TDI L&K AT,2012,526000,113907,Diesel,Dealer,Automatic,Second Owner,20.1 kmpl,1970 CC,143.5 bhp,5
+Tata Nexon XZA Plus Diesel,2014,283000,89505,Diesel,Individual,Automatic,Third Owner,22.3 kmpl,1499 CC,105.7 bhp,5
+Mahindra XUV500 W8,2014,275000,97712,Diesel,Individual,Manual,Fourth & Above Owner,15.0 kmpl,2179 CC,136.8 bhp,7
+Tata Nexon XZA Plus Diesel,2013,325000,83254,Diesel,Individual,Automatic,First Owner,22.2 kmpl,1497 CC,107.1 bhp,5
+Audi A6 35 TDI Matrix,2021,3466000,28015,Diesel,Individual,Manual,First Owner,18.2 kmpl,1970 CC,185.5 bhp,5
+Maruti Ertiga VDI,2017,380000,78136,Diesel,Dealer,Manual,First Owner,24.4 kmpl,1250 CC,91.0 bhp,7
+Hyundai i20 Asta CRDI,2008,107000,113596,Diesel,Dealer,Manual,Third Owner,21.8 kmpl,1394 CC,86.9 bhp,5
+Skoda Octavia 2.0 TDI L&K AT,2020,1343000,40773,Diesel,Individual,Automatic,Second Owner,18.9 kmpl,1966 CC,137.2 bhp,5
+Tata Nexon XZ Plus Petrol,2014,296000,83464,Petrol,Individual,Automatic,First Owner,17.8 kmpl,1200 CC,,5
+Mahindra Thar CRDe 4x4,2018,469000,70525,Diesel,Trustmark Dealer,Manual,First Owner,15.8 kmpl,2500 CC,104.9 bhp,4
+Maruti Ertiga VDI,2015,262000,127538,Diesel,Individual,Manual,First Owner,24.2 kmpl,1248 CC,86.2 bhp,7
+Tata Nexon XZA Plus Diesel,2012,204000,100427,Diesel,Individual,Automatic,Fourth & Above Owner,21.8 kmpl,1497 CC,109.9 bhp,5
+Hyundai i20 Asta CRDI,2021,593000,33291,Diesel,Individual,Manual,First Owner,22.0 kmpl,1396 CC,87.0 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2022,2863000,21800,Diesel,Dealer,Automatic,First Owner,10.4 kmpl,3198 CC,193.3 bhp,7
+Mahindra Thar CRDe 4x4,2015,245000,69475,Diesel,Individual,Manual,Second Owner,16.1 kmpl,2498 CC,102.2 bhp,4
+Tata Nexon XZ Plus Petrol,2019,485000,53659,Petrol,Individual,Manual,First Owner,16.3 kmpl,1198 CC,118.4 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2022,2674000,16370,Diesel,Individual,Manual,First Owner,14.7 kmpl,2753 CC,172.1 bhp,7
+Tata Harrier XZ Plus,2015,632000,72666,Diesel,Individual,Manual,First Owner,16.0 kmpl,1954 CC,166.1 bhp,5
+Maruti Swift VXI,2010,89000,166330,Petrol,Dealer,Manual,Second Owner,21.3 kmpl,1199 CC,79.9 bhp,5
+Hyundai Verna SX Turbo DCT,2022,1203000,35463,Petrol,Trustmark Dealer,Manual,First Owner,19.3 kmpl,1480 CC,159.2 bhp,5
+Renault Duster 110PS RXZ,2018,487000,69110,Diesel,Individual,Automatic,Second Owner,19.6 kmpl,1461 CC,110.7 bhp,5
+Hyundai Verna SX Turbo DCT,2019,812000,44076,Petrol,Individual,Automatic,First Owner,18.6 kmpl,1484 CC,155.2 bhp,5
+Maruti Swift ZXI Plus,2020,464000,43799,Petrol,Dealer,Automatic,Second Owner,22.0 kmpl,1199 CC,88.4 bhp,5
+Maruti Swift Dzire VDI,2012,124000,126549,Diesel,Individual,Automatic,Second Owner,26.3 kmpl,1250 CC,74.9 bhp,5
+Maruti Ciaz Alpha Petrol,2013,199000,170410,Petrol,Dealer,Manual,Second Owner,21.4 kmpl,1462 CC,106.2 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2021,891000,39282,Diesel,Individual,Automatic,First Owner,21.7 kmpl,1500 CC,107.6 bhp,5
+Mahindra Bolero Power+ ZLX,2017,262000,100814,Diesel,Individual,Manual,Second Owner,16.5 kmpl,1493 CC,70.8 bhp,7
+Mercedes-Benz E-Class E 220d,2018,3052000,67874,Diesel,Individual,Automatic,First Owner,15.5 kmpl,1950 CC,195.4 bhp,5
+Maruti Swift VXI,2016,192000,94285,CNG,Dealer,Automatic,Second Owner,22.6 km/kg,1199 CC,82.8 bhp,5
+Maruti Ciaz Alpha Petrol,2019,532000,42286,Petrol,Individual,Manual,First Owner,21.0 kmpl,1462 CC,101.6 bhp,5
+Tata Harrier XZ Plus,2022,1566000,19166,Diesel,Individual,Manual,First Owner,15.7 kmpl,1956 CC,170.7 bhp,5
+Toyota Fortuner 4x4 MT,2011,500000,151557,Diesel,Individual,Automatic,Third Owner,14.6 kmpl,2757 CC,171.2 bhp,7
+Hyundai i20 Sportz 1.2,2011,99000,143324,Petrol,Individual,Manual,Third Owner,19.6 kmpl,1197 CC,81.6 bhp,5
+Mercedes-Benz E-Class E 220d,2008,581000,221288,Diesel,Dealer,Manual,Third Owner,15.5 kmpl,1952 CC,191.8 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2009,110000,216711,Petrol,Individual,Automatic,Third Owner,15.2 kmpl,1498 CC,120.4 bhp,5
+Hyundai i20 Asta CRDI,2015,289000,74694,Diesel,Dealer,Manual,First Owner,23.0 kmpl,1398 CC,89.6 bhp,5
+Honda Jazz 1.2 V,2017,289000,92458,Petrol,Individual,Manual,First Owner,17.9 kmpl,1201 CC,87.7 bhp,5
+Nissan Sunny XL D,2018,421000,50622,Diesel,Dealer,Manual,First Owner,22.6 kmpl,1459 CC,83.3 bhp,5
+Mahindra XUV500 W11 AT,2015,576000,130265,Diesel,Individual,Automatic,First Owner,14.2 kmpl,2181 CC,150.6 bhp,7
+Hyundai Creta SX 1.6 CRDI,2016,505000,93397,Diesel,Dealer,Manual,First Owner,19.0 kmpl,1584 CC,127.7 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2018,419000,100289,Petrol,Individual,Automatic,Second Owner,15.8 kmpl,,120.1 bhp,5
+Mahindra Bolero Power+ ZLX,2011,138000,127831,Diesel,Dealer,Automatic,Third Owner,17.2 kmpl,1493 CC,68.1 bhp,7
+Renault Kwid RXT,2021,292000,36335,CNG,Individual,Manual,First Owner,22.5 km/kg,997 CC,66.4 bhp,
+Maruti Wagon R ZXI 1.2,2012,91000,105409,Petrol,Individual,Manual,Fourth & Above Owner,21.0 kmpl,1195 CC,80.9 bhp,5
+Tata Tiago XZ,2010,66000,205101,Petrol,Dealer,Manual,Third Owner,23.9 kmpl,1201 CC,85.2 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2018,379000,76948,Petrol,Individual,Manual,First Owner,17.5 kmpl,1001 CC,106.4 bhp,5
+Renault Duster 110PS RXZ,2015,332000,82817,Diesel,Dealer,Manual,Second Owner,18.7 kmpl,1461 CC,111.2 bhp,5
+Maruti Baleno Alpha CVT,2020,520000,39856,Petrol,Dealer,Automatic,Second Owner,19.4 kmpl,1197 CC,,5
+Mercedes-Benz E-Class E 220d,2013,1630000,110840,Diesel,Individual,Automatic,First Owner,15.6 kmpl,1952 CC,195.3 bhp,5
+Hyundai i20 Sportz 1.2,2013,160000,149590,Petrol,Individual,Manual,Second Owner,20.2 kmpl,1195 CC,81.2 bhp,5
+Audi A4 2.0 TDI Premium,2017,1507000,98531,Diesel,Individual,Automatic,Second Owner,17.6 kmpl,1970 CC,178.0 bhp,5
+Tata Nexon XZ Plus Petrol,2021,645000,32546,Petrol,Individual,Manual,First Owner,16.7 kmpl,1196 CC,119.0 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2021,676000,34970,Petrol,Dealer,Manual,Second Owner,15.5 kmpl,1494 CC,120.9 bhp,5
+BMW 3 Series 320d Luxury Line,2014,982000,117526,Diesel,Individual,Automatic,Third Owner,21.6 kmpl,1995 CC,189.4 bhp,5
+Honda Amaze 1.5 S i-DTEC,2015,202000,116322,Diesel,Dealer,Manual,Third Owner,24.7 kmpl,1500 CC,101.0 bhp,5
+Maruti Baleno Alpha CVT,2015,260000,76850,Petrol,Individual,Automatic,Second Owner,18.6 kmpl,1195 CC,87.3 bhp,5
+BMW 3 Series 320d Luxury Line,2013,1139000,117698,Diesel,Dealer,Automatic,First Owner,23.3 kmpl,1993 CC,182.4 bhp,5
+Tata Nexon XZ Plus Petrol,2019,484000,60817,Petrol,Dealer,Automatic,Second Owner,17.1 kmpl,1198 CC,119.7 bhp,5
+Hyundai Creta SX 1.6 CRDI,2021,993000,50252,Diesel,Dealer,Manual,First Owner,19.1 kmpl,1580 CC,126.9 bhp,5
+Audi A6 35 TDI Matrix,2017,2168000,90464,Diesel,Individual,Automatic,First Owner,17.7 kmpl,1968 CC,184.1 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2022,2690000,24159,Diesel,Individual,Manual,First Owner,14.5 kmpl,2757 CC,171.4 bhp,7
+Toyota Innova 2.5 G4 Diesel,2016,433000,82855,Diesel,Dealer,Manual,Second Owner,12.9 kmpl,2494 CC,99.5 bhp,7
+Volkswagen Vento 1.5 TDI Highline AT,2021,740000,49269,Diesel,Individual,Automatic,Second Owner,21.6 kmpl,1496 CC,107.3 bhp,5
+Hyundai Verna SX Turbo DCT,2008,150000,152227,Petrol,Individual,Automatic,Third Owner,18.8 kmpl,1480 CC,155.3 bhp,5
+Maruti Ertiga VDI,2009,105000,217580,Diesel,Individual,Manual,Second Owner,25.8 kmpl,1246 CC,87.9 bhp,7
+Ford Endeavour 3.2 Titanium 4x4,2008,335000,218396,Diesel,Dealer,Automatic,Third Owner,11.0 kmpl,3198 CC,,7
+Volkswagen Vento 1.6 Highline,2019,481000,69678,Petrol,Dealer,Manual,Second Owner,16.7 kmpl,1596 CC,103.8 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2020,571000,68920,Diesel,Dealer,Manual,First Owner,24.1 kmpl,1498 CC,98.4 bhp,5
+Maruti Swift ZXI Plus,2014,215000,129901,CNG,Individual,Automatic,First Owner,22.0 km/kg,1197 CC,86.0 bhp,5
+Toyota Fortuner 4x4 MT,2020,1730000,49952,Diesel,Individual,Manual,First Owner,13.5 kmpl,2753 CC,173.9 bhp,7
+Maruti Baleno Alpha CVT,2022,730000,24004,Petrol,Individual,Automatic,First Owner,18.6 kmpl,1199 CC,87.5 bhp,5
+Toyota Glanza G,2014,195000,109708,Petrol,Dealer,Manual,Second Owner,21.3 kmpl,1195 CC,86.5 bhp,5
+Mahindra XUV500 W11 AT,2018,928000,46527,Diesel,Individual,Automatic,First Owner,14.5 kmpl,2181 CC,156.0 bhp,7
+Maruti Alto 800 LXI,2018,171000,57761,CNG,Individual,Manual,First Owner,25.5 km/kg,796 CC,47.5 bhp,5
+Maruti Vitara Brezza ZDI,2018,470000,89320,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1248 CC,90.6 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2018,584000,56946,Petrol,Dealer,Automatic,First Owner,15.6 kmpl,1498 CC,118.6 bhp,5
+BMW 5 Series 520d,2020,3029000,57629,Diesel,Individual,Automatic,Second Owner,19.4 kmpl,1993 CC,186.4 bhp,5
+Maruti Vitara Brezza ZDI,2022,715000,29176,Diesel,Dealer,Manual,First Owner,24.4 kmpl,1246 CC,90.3 bhp,5
+Renault Duster 110PS RXZ,2018,459000,77023,Diesel,Individual,Manual,Second Owner,20.1 kmpl,1461 CC,106.8 bhp,5
+Mahindra Bolero Power+ ZLX,2014,204000,148431,Diesel,Trustmark Dealer,Manual,Second Owner,16.5 kmpl,1491 CC,69.4 bhp,7
+Nissan Micra Active XL,2018,222000,72786,Petrol,Trustmark Dealer,Manual,Second Owner,19.3 kmpl,1196 CC,68.1 bhp,5
+Hyundai Verna 1.6 VTVT SX,2018,540000,85514,Petrol,Individual,Automatic,First Owner,17.9 kmpl,1589 CC,121.9 bhp,5
+Honda City i-DTEC VX,2021,790000,21845,Diesel,Individual,Manual,Second Owner,26.5 kmpl,1500 CC,96.2 bhp,5
+Maruti Baleno Delta,2019,395000,37327,Petrol,Individual,Manual,First Owner,21.1 kmpl,1195 CC,81.5 bhp,5
+Hyundai Creta SX 1.6 CRDI,2015,466000,129835,Diesel,Trustmark Dealer,Manual,First Owner,20.5 kmpl,1584 CC,129.4 bhp,5
+Mahindra Thar CRDe 4x4,2019,416000,57324,Diesel,Dealer,Manual,Second Owner,17.2 kmpl,2500 CC,107.6 bhp,4
+Maruti Swift VXI,2018,247000,70041,Petrol,Individual,Manual,First Owner,22.0 kmpl,1195 CC,80.7 bhp,5
+BMW X1 sDrive20d xLine,2021,2977000,46900,Diesel,Individual,Automatic,First Owner,18.7 kmpl,1993 CC,192.8 bhp,5
+Honda Jazz 1.2 V,2016,299000,79533,CNG,Individual,Manual,First Owner,16.5 km/kg,1199 CC,87.2 bhp,5
+Toyota Corolla Altis GL,2022,1234000,24821,Petrol,Individual,Manual,First Owner,13.5 kmpl,1800 CC,140.1 bhp,5
+Audi Q3 2.0 TDI Quattro,2017,1564000,55404,Diesel,Individual,Automatic,First Owner,15.6 kmpl,1970 CC,173.5 bhp,5
+Mahindra Bolero Power+ ZLX,2014,171000,77900,Diesel,Individual,Manual,Third Owner,15.9 kmpl,1493 CC,71.0 bhp,7
+Maruti Ertiga VDI,2019,441000,41546,Diesel,Individual,Manual,Second Owner,24.3 kmpl,1250 CC,89.4 bhp,7
+Maruti Baleno Alpha CVT,2016,312000,122500,Petrol,Dealer,Automatic,Second Owner,19.0 kmpl,1199 CC,89.2 bhp,5
+Toyota Innova 2.5 G4 Diesel,2018,675000,65442,Diesel,Dealer,Manual,First Owner,12.3 kmpl,2492 CC,101.4 bhp,7
+Honda Civic 1.8 V AT,2006,152000,146996,Petrol,Individual,Automatic,Third Owner,,1799 CC,139.9 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2017,480000,87567,Diesel,Dealer,Automatic,Second Owner,21.3 kmpl,1498 CC,110.5 bhp,5
+Nissan Micra Active XL,2014,125000,86612,Petrol,Dealer,Manual,Second Owner,19.8 kmpl,1198 CC,66.3 bhp,5
+Renault Kwid RXT,2022,316000,23542,Petrol,Individual,Manual,First Owner,22.4 kmpl,999 CC,67.4 bhp,5
+Toyota Etios Liva GD,2017,231000,108425,CNG,Individual,Manual,First Owner,23.3 km/kg,1364 CC,68.2 bhp,5
+Maruti Alto K10 VXI,2014,103000,131824,Petrol,Individual,Manual,Second Owner,24.0 kmpl,1000 CC,68.5 bhp,5
+Hyundai Grand i10 Magna,2021,421000,41875,Petrol,Trustmark Dealer,Manual,First Owner,19.3 kmpl,1197 CC,79.8 bhp,5
+Mercedes-Benz C-Class C 220d,2009,528000,123040,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner,18.7 kmpl,2143 CC,171.2 bhp,5
+Skoda Octavia 2.0 TDI L&K AT,2015,565000,82043,Diesel,Individual,Manual,Third Owner,19.9 kmpl,1966 CC,141.0 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2014,243000,91943,Diesel,Dealer,Manual,Second Owner,23.6 kmpl,1498 CC,96.4 bhp,5
+Maruti Ertiga VDI,2010,94000,164459,Diesel,Individual,Manual,Fourth & Above Owner,26.1 kmpl,1246 CC,89.8 bhp,7
+Ford Endeavour 3.2 Titanium 4x4,2020,2009000,53716,Diesel,Individual,Automatic,First Owner,10.8 kmpl,3200 CC,197.9 bhp,7
+Toyota Innova 2.5 G4 Diesel,2022,1140000,27317,Diesel,Individual,Manual,First Owner,13.1 kmpl,2492 CC,103.6 bhp,7
+Audi Q3 2.0 TDI Quattro,2019,1977000,55862,Diesel,Dealer,Manual,First Owner,15.9 kmpl,1968 CC,175.0 bhp,5
+Maruti Ertiga VDI,2010,142000,119209,Diesel,Individual,Manual,Second Owner,25.5 kmpl,1250 CC,90.3 bhp,7
+Toyota Innova Crysta 2.4 VX,2009,257000,168888,Diesel,Dealer,Manual,Second Owner,15.0 kmpl,2395 CC,148.1 bhp,7
+Honda Jazz 1.2 V,2019,434000,78564,Petrol,Dealer,Manual,First Owner,17.2 kmpl,1201 CC,88.6 bhp,5
+Maruti Ertiga VDI,2021,592000,29000,Diesel,Individual,Manual,First Owner,26.3 kmpl,1246 CC,86.9 bhp,7
+Mahindra Scorpio S11,2017,655000,95867,Diesel,Individual,Manual,First Owner,14.7 kmpl,2177 CC,139.5 bhp,7
+Toyota Etios Liva GD,2017,218000,91443,Diesel,Individual,Manual,Second Owner,23.2 kmpl,1366 CC,68.8 bhp,5
+Renault Duster 110PS RXZ,2016,405000,123171,Diesel,Dealer,Manual,First Owner,,1463 CC,109.9 bhp,5
+Honda City ZX CVT,2012,282000,85771,Petrol,Dealer,Automatic,Third Owner,18.6 kmpl,1498 CC,116.4 bhp,5
+Maruti Wagon R ZXI 1.2,2015,215000,106626,Petrol,Individual,Automatic,First Owner,20.1 kmpl,1197 CC,82.4 bhp,5
+Tata Harrier XZ Plus,2021,1385000,36426,Diesel,Dealer,Manual,First Owner,15.7 kmpl,1956 CC,168.2 bhp,5
+Tata Nexon XZA Plus Diesel,2015,327000,124000,Diesel,Individual,Automatic,Third Owner,22.1 kmpl,1495 CC,106.3 bhp,5
+Maruti Ciaz Alpha Petrol,2021,681000,35911,Petrol,Individual,Manual,First Owner,21.2 kmpl,1460 CC,101.0 bhp,5
+Renault Duster 110PS RXZ,2015,338000,98734,Diesel,Dealer,Manual,Second Owner,19.6 kmpl,1461 CC,107.3 bhp,5
+Honda Civic 1.8 V AT,2022,1505000,33590,Petrol,Individual,Automatic,First Owner,16.6 kmpl,1799 CC,140.5 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2012,216000,176122,Diesel,Individual,Automatic,Third Owner,22.6 kmpl,1500 CC,109.0 bhp,5
+Tata Nexon XZ Plus Petrol,2015,250000,127145,Petrol,Individual,Manual,Second Owner,16.8 kmpl,1198 CC,115.4 bhp,5
+Maruti Swift ZXI Plus,2018,392000,47653,Petrol,Trustmark Dealer,Automatic,Second Owner,23.6 kmpl,1197 CC,89.2 bhp,5
+Renault Duster 110PS RXZ,2022,993000,34250,Diesel,Dealer,Manual,First Owner,18.7 kmpl,1459 CC,105.5 bhp,5
+Hyundai Venue SX 1.0 Turbo,2019,561000,41558,Petrol,Individual,Manual,First Owner,17.5 kmpl,1000 CC,115.2 bhp,5
+Honda Amaze 1.2 VX,2018,347000,73792,Petrol,Dealer,Manual,Second Owner,18.8 kmpl,1197 CC,90.7 bhp,5
+BMW X1 sDrive20d xLine,2007,359000,219742,Diesel,Individual,Automatic,Second Owner,19.1 kmpl,1997 CC,183.7 bhp,5
+Maruti Alto 800 LXI,2014,79000,97833,Petrol,Dealer,Manual,Third Owner,24.3 kmpl,796 CC,46.7 bhp,5
+Maruti Ciaz Alpha Petrol,2017,445000,73432,Petrol,Dealer,Automatic,First Owner,19.6 kmpl,,104.0 bhp,5
+Maruti Swift ZXI Plus,2013,161000,120832,CNG,Individual,Automatic,Third Owner,23.3 km/kg,1199 CC,90.9 bhp,5
+Hyundai Creta SX(O) Diesel AT,2014,488000,105476,Diesel,Individual,Manual,First Owner,17.9 kmpl,1491 CC,111.9 bhp,5
+Toyota Corolla Altis GL,2019,675000,43863,Petrol,Individual,Manual,Second Owner,14.5 kmpl,1798 CC,140.7 bhp,5
+Tata Nexon XZA Plus Diesel,2012,211000,141798,Diesel,Individual,Automatic,Third Owner,21.9 kmpl,1497 CC,106.6 bhp,5
+Toyota Etios Liva GD,2010,82000,188594,Diesel,Individual,Manual,Second Owner,23.4 kmpl,1366 CC,67.5 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2015,240000,86964,Petrol,Individual,Automatic,Third Owner,17.9 kmpl,997 CC,108.1 bhp,5
+Hyundai i20 Sportz 1.2,2012,128000,124220,Petrol,Dealer,Manual,Third Owner,20.0 kmpl,1199 CC,81.8 bhp,5
+Tata Harrier XZ Plus,2016,637000,75236,Diesel,Individual,Manual,Second Owner,16.9 kmpl,1954 CC,172.3 bhp,5
+BMW 3 Series 320d Luxury Line,2011,720000,140170,Diesel,Individual,Automatic,Third Owner,23.8 kmpl,1995 CC,192.1 bhp,5
+Honda Amaze 1.5 S i-DTEC,2022,587000,22876,Diesel,Trustmark Dealer,Manual,Second Owner,24.9 kmpl,1498 CC,100.3 bhp,5
+Tata Tiago XZ,2012,108000,83904,Petrol,Individual,Manual,Second Owner,24.3 kmpl,1197 CC,83.5 bhp,5
+Mercedes-Benz E-Class E 220d,2020,3479000,35422,Diesel,Individual,Automatic,Second Owner,16.1 kmpl,1952 CC,188.4 bhp,5
+Renault Kwid RXT,2019,246000,64389,Petrol,Dealer,Manual,First Owner,22.7 kmpl,999 CC,68.6 bhp,5
+Mahindra Scorpio S11,2018,766000,65598,Diesel,Trustmark Dealer,Manual,First Owner,14.6 kmpl,2181 CC,137.3 bhp,7
+BMW 3 Series 320d Luxury Line,2020,2736000,56051,Diesel,Individual,Automatic,First Owner,21.8 kmpl,1993 CC,185.5 bhp,5
+Honda City i-DTEC VX,2016,303000,79865,Diesel,Individual,Manual,Fourth & Above Owner,25.3 kmpl,1498 CC,96.7 bhp,5
+Hyundai i20 Asta CRDI,2016,295000,67755,Diesel,Dealer,Automatic,Third Owner,21.7 kmpl,,86.9 bhp,5
+Mahindra Bolero Power+ ZLX,2007,67000,218215,Diesel,Individual,Automatic,Third Owner,17.0 kmpl,1491 CC,70.4 bhp,7
+Skoda Octavia 2.0 TDI L&K AT,2020,1584000,57307,Diesel,Individual,Automatic,First Owner,19.1 kmpl,1968 CC,141.3 bhp,5
+Hyundai Venue SX 1.0 Turbo,2006,75000,269254,Petrol,Dealer,Manual,Third Owner,17.4 kmpl,996 CC,118.0 bhp,5
+Mahindra Bolero Power+ ZLX,2015,179000,135657,Diesel,Individual,Manual,Third Owner,16.2 kmpl,1495 CC,69.0 bhp,7
+Mahindra Thar CRDe 4x4,2015,235000,106048,Diesel,Individual,Manual,Second Owner,,2496 CC,103.0 bhp,4
+Hyundai Verna SX Turbo DCT,2018,589000,67187,Petrol,Individual,Automatic,Second Owner,18.7 kmpl,1484 CC,160.5 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2015,212000,72131,Petrol,Individual,Manual,Third Owner,18.0 kmpl,1001 CC,107.3 bhp,5
+Toyota Fortuner 4x4 MT,2019,1635000,63017,Diesel,Individual,Manual,First Owner,14.4 kmpl,2755 CC,179.7 bhp,7
+Toyota Fortuner 2.8 4x2 AT,2019,2057000,44262,Diesel,Dealer,Automatic,First Owner,13.9 kmpl,2757 CC,177.4 bhp,7
+Tata Harrier XZ Plus,2021,1358000,42001,Diesel,Individual,Manual,First Owner,,1954 CC,165.3 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2010,96000,119366,Petrol,Individual,Manual,Third Owner,16.5 kmpl,1200 CC,75.5 bhp,5
+Volkswagen Polo GT TSI,2017,429000,71683,Petrol,Dealer,Automatic,First Owner,17.3 kmpl,1199 CC,103.5 bhp,5
+Tata Nexon XZA Plus Diesel,2014,367000,70215,Diesel,Individual,Automatic,First Owner,21.1 kmpl,1499 CC,107.6 bhp,5
+Renault Kwid RXT,2008,39000,194351,Petrol,Individual,Manual,Third Owner,22.0 kmpl,999 CC,67.2 bhp,5
+Audi A6 35 TDI Matrix,2011,904000,154695,Diesel,Trustmark Dealer,Automatic,Third Owner,19.0 kmpl,1966 CC,191.8 bhp,5
+Tata Harrier XZ Plus,2017,803000,71316,Diesel,Individual,Manual,First Owner,16.6 kmpl,1954 CC,169.3 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2017,295000,87384,Petrol,Dealer,Manual,First Owner,17.0 kmpl,1198 CC,72.5 bhp,5
+Maruti Swift VXI,2017,237000,78357,Petrol,Individual,Manual,First Owner,21.8 kmpl,1197 CC,84.3 bhp,5
+Toyota Innova 2.5 G4 Diesel,2011,178000,168508,Diesel,Dealer,Manual,Fourth & Above Owner,12.4 kmpl,2494 CC,101.3 bhp,7
+Maruti Ciaz Alpha Petrol,2022,823000,22129,Petrol,Dealer,Manual,First Owner,20.1 kmpl,1462 CC,104.6 bhp,5
+Honda Amaze 1.5 S i-DTEC,2015,247000,81723,Diesel,Individual,Manual,First Owner,25.1 kmpl,1500 CC,98.3 bhp,5
+Renault Kwid RXT,2017,163000,61224,Petrol,Individual,Manual,Second Owner,21.0 kmpl,997 CC,65.0 bhp,5
+BMW X1 sDrive20d xLine,2022,3412000,35750,Diesel,Individual,Automatic,First Owner,19.8 kmpl,1993 CC,190.1 bhp,5
+Maruti Baleno Delta,2016,232000,107199,Petrol,Dealer,Manual,Second Owner,21.9 kmpl,1197 CC,81.5 bhp,5
+Mahindra XUV500 W11 AT,2016,676000,62523,Diesel,Dealer,Automatic,Second Owner,13.8 kmpl,2177 CC,154.8 bhp,7
+Hyundai Verna SX Turbo DCT,2021,927000,51364,Petrol,Individual,Manual,First Owner,18.1 kmpl,1484 CC,157.4 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2019,561000,58297,Petrol,Individual,Automatic,Second Owner,15.1 kmpl,1494 CC,120.9 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2019,485000,47747,Diesel,Dealer,Manual,Second Owner,21.5 kmpl,,105.0 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2020,734000,38896,Petrol,Individual,Automatic,First Owner,15.9 kmpl,1496 CC,119.7 bhp,5
+BMW X1 sDrive20d xLine,2016,1286000,97111,Diesel,Individual,Automatic,Second Owner,20.3 kmpl,1997 CC,186.3 bhp,5
+Honda City i-VTEC V,2020,677000,44539,Petrol,Dealer,Manual,First Owner,17.3 kmpl,1495 CC,116.0 bhp,5
+Hyundai Creta SX 1.6 CRDI,2018,569000,70864,Diesel,Dealer,Manual,Second Owner,20.1 kmpl,1584 CC,129.2 bhp,5
+Maruti Baleno Alpha CVT,2016,284000,68269,Petrol,Trustmark Dealer,Automatic,Third Owner,20.4 kmpl,1199 CC,90.5 bhp,5
+BMW X1 sDrive20d xLine,2013,874000,101053,Diesel,Individual,Automatic,Second Owner,20.5 kmpl,1995 CC,184.1 bhp,5
+Toyota Glanza G,2010,121000,116870,Petrol,Individual,Automatic,Second Owner,22.5 kmpl,1195 CC,89.0 bhp,5
+Audi A6 35 TDI Matrix,2021,3403000,27702,Diesel,Individual,Manual,First Owner,18.6 kmpl,1968 CC,184.3 bhp,5
+Nissan Sunny XL D,2014,239000,79862,Diesel,Dealer,Automatic,Second Owner,23.0 kmpl,1459 CC,85.3 bhp,5
+Maruti Swift VXI,2014,134000,107221,Petrol,Individual,Manual,Second Owner,22.8 kmpl,1199 CC,81.0 bhp,5
+Toyota Glanza G,2019,444000,60723,Petrol,Dealer,Automatic,First Owner,23.4 kmpl,1195 CC,87.5 bhp,5
+Hyundai Santro Magna,2012,89000,167904,Petrol,Dealer,Automatic,Third Owner,19.7 kmpl,1088 CC,68.2 bhp,5
+Toyota Innova Crysta 2.4 VX,2013,493000,127216,Diesel,Individual,Manual,First Owner,15.4 kmpl,2395 CC,144.9 bhp,7
+Honda Amaze 1.2 VX,2019,324000,67813,Petrol,Individual,Manual,Third Owner,19.1 kmpl,1199 CC,89.3 bhp,5
+Toyota Etios Liva GD,2013,148000,111148,Diesel,Individual,Manual,First Owner,24.1 kmpl,1366 CC,66.4 bhp,5
+Mahindra Scorpio S11,2017,637000,101397,Diesel,Individual,Manual,First Owner,,2181 CC,142.6 bhp,7
+Maruti Swift Dzire VDI,2020,413000,36459,Diesel,Dealer,Manual,First Owner,26.0 kmpl,1248 CC,75.3 bhp,5
+Honda Amaze 1.5 S i-DTEC,2020,476000,59716,Diesel,Individual,Manual,First Owner,26.4 kmpl,1500 CC,98.5 bhp,5
+Maruti Alto 800 LXI,2020,208000,51739,Petrol,Individual,Manual,First Owner,24.1 kmpl,794 CC,47.7 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2011,168000,102724,Diesel,Individual,Manual,Second Owner,23.2 kmpl,1496 CC,99.1 bhp,5
+Mahindra XUV500 W11 AT,2013,498000,132144,Diesel,Dealer,Automatic,First Owner,14.3 kmpl,2177 CC,156.2 bhp,7
+Skoda Rapid 1.5 TDI Elegance,2021,720000,33994,Diesel,Individual,Manual,First Owner,20.6 kmpl,1500 CC,106.4 bhp,5
+Maruti Swift Dzire VDI,2012,87000,155592,Diesel,Dealer,Manual,Fourth & Above Owner,26.5 kmpl,1246 CC,75.8 bhp,5
+Mahindra XUV500 W8,2022,1102000,41246,Diesel,Individual,Manual,First Owner,15.5 kmpl,2179 CC,141.1 bhp,7
+Mercedes-Benz E-Class E 220d,2020,3286000,45608,Diesel,Individual,Automatic,Second Owner,15.6 kmpl,1952 CC,193.4 bhp,5
+Mahindra XUV500 W8,2020,855000,53047,Diesel,Individual,Manual,First Owner,14.9 kmpl,2177 CC,141.2 bhp,7
+Mahindra XUV500 W8,2021,990000,35491,Diesel,Individual,Manual,First Owner,15.6 kmpl,2179 CC,137.1 bhp,7
+Volkswagen Polo 1.0 TSI Highline Plus,2017,297000,88042,Petrol,Individual,Manual,Second Owner,18.7 kmpl,1001 CC,106.3 bhp,5
+Honda City i-DTEC VX,2011,183000,144089,Diesel,Trustmark Dealer,Manual,Third Owner,26.0 kmpl,1498 CC,101.1 bhp,5
+Hyundai Santro Magna,2016,164000,76394,Petrol,Individual,Manual,First Owner,21.2 kmpl,1086 CC,66.5 bhp,5
+Honda Jazz 1.2 V,2015,191000,105310,Petrol,Individual,Manual,Third Owner,17.1 kmpl,1197 CC,91.2 bhp,5
+BMW X1 sDrive20d xLine,2011,539000,173443,Diesel,Individual,Automatic,Third Owner,19.0 kmpl,1995 CC,186.7 bhp,5
+BMW 3 Series 320d Luxury Line,2015,1130000,93489,Diesel,Individual,Automatic,Third Owner,21.8 kmpl,1995 CC,192.9 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2020,1951000,47077,Diesel,Dealer,Automatic,Second Owner,11.4 kmpl,3198 CC,191.3 bhp,7
+Volkswagen Polo 1.0 TSI Highline Plus,2009,114000,212289,Petrol,Individual,Automatic,Second Owner,17.4 kmpl,999 CC,110.3 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2015,343000,93742,Petrol,Individual,Automatic,First Owner,16.5 kmpl,1498 CC,118.4 bhp,5
+Hyundai Santro Magna,2008,54000,143765,Petrol,Dealer,Manual,Third Owner,20.0 kmpl,1084 CC,69.2 bhp,5
+Maruti Baleno Alpha CVT,2019,502000,49268,CNG,Individual,Automatic,First Owner,19.2 km/kg,1195 CC,86.4 bhp,5
+Mahindra Scorpio S10,2022,1059000,26427,Diesel,Dealer,Manual,First Owner,14.6 kmpl,2181 CC,122.2 bhp,7
+Toyota Fortuner 4x4 MT,2011,409000,167880,Diesel,Individual,Manual,Third Owner,13.8 kmpl,2757 CC,171.3 bhp,7
+Hyundai Verna SX Turbo DCT,2013,382000,82509,Petrol,Individual,Automatic,First Owner,18.9 kmpl,1482 CC,154.5 bhp,5
+Renault Kwid RXT,2018,215000,79491,Petrol,Dealer,Manual,First Owner,21.2 kmpl,999 CC,66.5 bhp,5
+Maruti Baleno Alpha CVT,2019,519000,75371,Petrol,Trustmark Dealer,Automatic,First Owner,20.1 kmpl,,86.0 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2007,68000,196800,Petrol,Dealer,Manual,Fourth & Above Owner,17.7 kmpl,999 CC,108.3 bhp,5
+Audi Q3 2.0 TDI Quattro,2016,928000,108968,Diesel,Individual,Automatic,Fourth & Above Owner,16.2 kmpl,1966 CC,171.7 bhp,5
+Mercedes-Benz C-Class C 220d,2016,1491000,68538,Diesel,Dealer,Automatic,Second Owner,18.5 kmpl,2141 CC,172.3 bhp,5
+Mahindra Bolero Power+ ZLX,2020,453000,36629,Diesel,Individual,Manual,First Owner,17.3 kmpl,1491 CC,72.0 bhp,7
+BMW 5 Series 520d,2013,1225000,154960,Diesel,Dealer,Automatic,Second Owner,18.6 kmpl,1993 CC,188.4 bhp,5
+Audi A6 35 TDI Matrix,2015,1492000,80447,Diesel,Individual,Manual,Second Owner,19.3 kmpl,1970 CC,184.6 bhp,5
+Audi Q3 2.0 TDI Quattro,2021,2505000,44876,Diesel,Trustmark Dealer,Automatic,Second Owner,15.7 kmpl,1968 CC,173.1 bhp,5
+Renault Duster 110PS RXZ,2016,399000,69750,Diesel,Individual,Manual,First Owner,20.5 kmpl,1463 CC,109.2 bhp,5
+Tata Safari XZA Plus 6S AT,2012,466000,131519,Diesel,Trustmark Dealer,Automatic,Second Owner,13.8 kmpl,1954 CC,169.1 bhp,6
+Volkswagen Vento 1.5 TDI Highline AT,2010,164000,212525,Diesel,Dealer,Automatic,Third Owner,21.4 kmpl,1500 CC,106.3 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2007,93000,140516,Petrol,Individual,Manual,Second Owner,17.5 kmpl,999 CC,107.3 bhp,5
+Mahindra Bolero Power+ ZLX,2012,106000,176706,Diesel,Individual,Manual,Fourth & Above Owner,16.4 kmpl,1493 CC,68.4 bhp,7
+Nissan Sunny XL D,2019,432000,42576,Diesel,Trustmark Dealer,Manual,Second Owner,23.1 kmpl,1459 CC,86.7 bhp,5
+Mahindra XUV500 W8,2016,543000,96254,Diesel,Dealer,Manual,First Owner,14.8 kmpl,2179 CC,141.2 bhp,7
+Toyota Fortuner 4x4 MT,2022,2634000,10783,Diesel,Individual,Manual,First Owner,13.9 kmpl,2757 CC,173.8 bhp,7
+Nissan Sunny XL D,2017,354000,104334,Diesel,Dealer,Manual,First Owner,23.4 kmpl,1459 CC,85.3 bhp,5
+Hyundai i20 Sportz 1.2,2011,109000,175172,Petrol,Dealer,Manual,Third Owner,18.9 kmpl,1197 CC,83.1 bhp,5
+Mahindra XUV500 W11 AT,2020,983000,43005,Diesel,Individual,Automatic,Second Owner,13.6 kmpl,2181 CC,156.5 bhp,7
+Volkswagen Polo GT TSI,2011,158000,197551,Petrol,Dealer,Automatic,Second Owner,18.0 kmpl,1199 CC,102.5 bhp,5
+Mahindra Thar CRDe 4x4,2020,556000,48646,Diesel,Dealer,Manual,First Owner,16.6 kmpl,2500 CC,106.7 bhp,4
+Tata Harrier XZ Plus,2019,858000,67622,Diesel,Individual,Manual,Second Owner,17.1 kmpl,1958 CC,170.7 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2011,534000,165845,Diesel,Individual,Automatic,Second Owner,11.3 kmpl,3198 CC,193.5 bhp,7
+Volkswagen Vento 1.6 Highline,2020,567000,64196,Petrol,Individual,Manual,First Owner,16.0 kmpl,1600 CC,102.3 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2019,636000,57874,Petrol,Individual,Automatic,First Owner,16.2 kmpl,1498 CC,123.7 bhp,5
+Hyundai Verna SX Turbo DCT,2019,615000,63413,Petrol,Individual,Automatic,Third Owner,19.5 kmpl,1482 CC,158.6 bhp,5
+Toyota Innova 2.5 G4 Diesel,2016,432000,61729,Diesel,Individual,Manual,Second Owner,12.5 kmpl,2496 CC,103.5 bhp,7
+Honda Civic 1.8 V AT,2012,327000,116156,Petrol,Individual,Automatic,Third Owner,16.6 kmpl,1801 CC,139.4 bhp,5
+BMW X1 sDrive20d xLine,2018,1904000,80512,Diesel,Trustmark Dealer,Automatic,Second Owner,19.3 kmpl,1995 CC,186.9 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2015,539000,86849,Diesel,Dealer,Manual,Fourth & Above Owner,14.4 kmpl,2753 CC,174.5 bhp,7
+BMW 3 Series 320d Luxury Line,2019,2622000,62197,Diesel,Individual,Automatic,First Owner,22.8 kmpl,1997 CC,189.3 bhp,5
+Renault Kwid RXT,2014,117000,135273,Petrol,Individual,Manual,First Owner,21.9 kmpl,997 CC,65.1 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2016,515000,102133,Diesel,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1498 CC,111.5 bhp,5
+Nissan Sunny XL D,2016,258000,105457,Diesel,Individual,Manual,Second Owner,22.1 kmpl,1463 CC,83.8 bhp,5
+BMW 5 Series 520d,2021,4326000,29847,Diesel,Individual,Automatic,First Owner,19.4 kmpl,1997 CC,183.4 bhp,5
+Audi A4 2.0 TDI Premium,2016,1735000,67937,Diesel,Dealer,Automatic,First Owner,17.8 kmpl,1966 CC,169.4 bhp,5
+Volkswagen Polo GT TSI,2010,115000,214723,Petrol,Individual,Automatic,Third Owner,17.8 kmpl,1199 CC,103.3 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2015,854000,124239,Diesel,Individual,Automatic,Second Owner,11.1 kmpl,3196 CC,195.2 bhp,7
+Mahindra Thar CRDe 4x4,2019,550000,59901,Diesel,Trustmark Dealer,Manual,First Owner,15.7 kmpl,2498 CC,102.5 bhp,4
+Maruti Swift ZXI Plus,2006,52000,187753,CNG,Individual,Automatic,Fourth & Above Owner,22.8 km/kg,1195 CC,86.8 bhp,5
+Honda Civic 1.8 V AT,2022,1618000,15656,Petrol,Dealer,Automatic,First Owner,17.0 kmpl,1797 CC,139.1 bhp,5
+Maruti Baleno Alpha CVT,2021,628000,41769,Petrol,Individual,Automatic,First Owner,18.9 kmpl,1195 CC,,5
+Honda Amaze 1.2 VX,2018,330000,78193,Petrol,Individual,Manual,First Owner,18.9 kmpl,1199 CC,90.9 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2015,905000,91730,Diesel,Individual,Automatic,Third Owner,14.8 kmpl,2755 CC,177.8 bhp,7
+Hyundai i20 Sportz 1.2,2020,448000,36483,Petrol,Dealer,Manual,First Owner,19.4 kmpl,1199 CC,82.7 bhp,5
+Honda Amaze 1.5 S i-DTEC,2014,185000,130269,Diesel,Individual,Manual,Second Owner,26.1 kmpl,1498 CC,99.0 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2019,549000,60431,Diesel,Dealer,Automatic,First Owner,23.2 kmpl,1500 CC,100.1 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2019,291000,52796,CNG,Individual,Manual,Third Owner,16.7 km/kg,1196 CC,75.4 bhp,5
+BMW 5 Series 520d,2017,2503000,70890,Diesel,Dealer,Automatic,First Owner,18.9 kmpl,1993 CC,192.1 bhp,5
+Honda Jazz 1.2 V,2017,348000,77256,CNG,Dealer,Manual,First Owner,16.7 km/kg,1199 CC,86.1 bhp,5
+Volkswagen Polo GT TSI,2022,864000,22871,Petrol,Individual,Automatic,First Owner,16.8 kmpl,1195 CC,104.3 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2013,672000,160111,Diesel,Dealer,Manual,Second Owner,10.9 kmpl,3196 CC,200.7 bhp,7
+Tata Tiago XZ,2009,64000,208977,Petrol,Individual,Manual,Second Owner,23.8 kmpl,1197 CC,85.8 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2012,155000,160148,Petrol,Dealer,Manual,Second Owner,18.3 kmpl,999 CC,107.2 bhp,5
+Hyundai Creta SX 1.6 CRDI,2016,450000,115655,Diesel,Individual,Manual,First Owner,18.8 kmpl,1580 CC,126.0 bhp,5
+Tata Nexon XZA Plus Diesel,2012,233000,156160,Diesel,Individual,Automatic,Second Owner,21.9 kmpl,1499 CC,110.3 bhp,5
+Honda Amaze 1.2 VX,2019,363000,70107,Petrol,Individual,Automatic,Second Owner,18.3 kmpl,1199 CC,90.7 bhp,5
+Maruti Wagon R LXI CNG,2015,153000,78847,CNG,Individual,Manual,Second Owner,31.3 km/kg,998 CC,58.5 bhp,5
+Maruti Wagon R ZXI 1.2,2020,409000,52142,Petrol,Trustmark Dealer,Automatic,First Owner,20.5 kmpl,1199 CC,79.9 bhp,5
+Honda City i-VTEC V,2019,636000,55311,Petrol,Dealer,Manual,First Owner,18.4 kmpl,1495 CC,117.7 bhp,5
+Hyundai Creta SX 1.6 CRDI,2020,787000,49125,Diesel,Individual,Automatic,Second Owner,19.2 kmpl,1584 CC,127.3 bhp,5
+Mahindra Thar CRDe 4x4,2021,643000,37912,Diesel,Trustmark Dealer,Manual,First Owner,17.1 kmpl,2496 CC,104.7 bhp,4
+Ford EcoSport 1.5 TDCi Titanium,2018,466000,58296,Diesel,Individual,Manual,First Owner,22.9 kmpl,1498 CC,96.5 bhp,5
+Audi Q3 2.0 TDI Quattro,2020,2664000,40276,Diesel,Dealer,Automatic,First Owner,15.6 kmpl,1968 CC,173.9 bhp,5
+Renault Kwid RXT,2015,123000,95100,Petrol,Individual,Manual,Second Owner,22.8 kmpl,1001 CC,65.8 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2021,735000,42846,Diesel,Individual,Manual,First Owner,20.7 kmpl,1500 CC,104.4 bhp,5
+Tata Safari XZA Plus 6S AT,2009,268000,137750,Diesel,Individual,Automatic,Third Owner,13.3 kmpl,1954 CC,172.1 bhp,6
+Honda City ZX CVT,2014,401000,131217,Petrol,Dealer,Automatic,First Owner,19.1 kmpl,1498 CC,119.1 bhp,5
+Nissan Sunny XL D,2014,225000,142586,Diesel,Individual,Manual,First Owner,21.8 kmpl,1459 CC,83.9 bhp,5
+Skoda Rapid 1.6 MPI Ambition,2013,230000,92542,Petrol,Individual,Automatic,First Owner,15.7 kmpl,1598 CC,103.3 bhp,5
+Hyundai i20 Sportz 1.2,2020,547000,33217,Petrol,Dealer,Automatic,First Owner,19.7 kmpl,1199 CC,82.3 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2022,2402000,24681,Diesel,Individual,Manual,First Owner,13.7 kmpl,2755 CC,,7
+Skoda Rapid 1.5 TDI Elegance,2021,806000,36331,Diesel,Individual,Automatic,First Owner,22.1 kmpl,1498 CC,105.9 bhp,5
+Maruti Wagon R ZXI 1.2,2012,86000,150177,Petrol,Individual,Manual,Fourth & Above Owner,20.8 kmpl,1199 CC,80.5 bhp,5
+Maruti Ertiga VDI,2015,272000,133143,Diesel,Individual,Manual,First Owner,24.8 kmpl,1248 CC,86.9 bhp,7
+Maruti Baleno Delta,2017,299000,101408,CNG,Individual,Manual,First Owner,20.5 km/kg,1197 CC,81.2 bhp,5
+Mahindra Bolero Power+ ZLX,2018,322000,54390,Diesel,Individual,Manual,Second Owner,16.0 kmpl,1491 CC,69.2 bhp,7
+Tata Nexon XZA Plus Diesel,2008,117000,203920,Diesel,Dealer,Automatic,Fourth & Above Owner,21.2 kmpl,1497 CC,107.9 bhp,5
+Toyota Corolla Altis GL,2017,672000,81256,Petrol,Dealer,Manual,First Owner,14.7 kmpl,1800 CC,141.4 bhp,5
+Maruti Swift Dzire VDI,2020,356000,52923,Diesel,Individual,Manual,First Owner,27.5 kmpl,1246 CC,75.2 bhp,5
+Maruti Swift ZXI Plus,2019,442000,46276,Petrol,Dealer,Automatic,First Owner,21.6 kmpl,1197 CC,90.0 bhp,5
+Hyundai Verna 1.6 VTVT SX,2013,206000,141880,Petrol,Individual,Manual,Second Owner,16.9 kmpl,1593 CC,119.4 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2018,379000,62067,Petrol,Individual,Manual,Second Owner,18.5 kmpl,999 CC,107.2 bhp,5
+Maruti Wagon R LXI CNG,2016,203000,84470,CNG,Trustmark Dealer,Automatic,First Owner,30.5 km/kg,1000 CC,58.3 bhp,5
+Maruti Vitara Brezza ZDI,2012,123000,172943,Diesel,Individual,Manual,Fourth & Above Owner,24.3 kmpl,1248 CC,89.0 bhp,5
+Mahindra Scorpio S11,2014,457000,101129,Diesel,Trustmark Dealer,Manual,First Owner,14.3 kmpl,2177 CC,136.3 bhp,7
+Maruti Wagon R LXI CNG,2018,224000,91281,CNG,Dealer,Automatic,Second Owner,32.0 km/kg,996 CC,59.7 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2019,545000,56958,Diesel,Individual,Manual,First Owner,20.7 kmpl,1498 CC,102.7 bhp,5
+Audi Q3 2.0 TDI Quattro,2022,3040000,19590,Diesel,Individual,Manual,First Owner,16.2 kmpl,1968 CC,172.5 bhp,5
+Tata Harrier XZ Plus,2016,640000,125137,Diesel,Dealer,Automatic,Second Owner,16.8 kmpl,1954 CC,171.4 bhp,5
+Hyundai Venue SX 1.0 Turbo,2016,334000,66145,Petrol,Individual,Manual,Second Owner,17.3 kmpl,996 CC,116.3 bhp,5
+Toyota Etios Liva GD,2015,188000,75889,Diesel,Trustmark Dealer,Manual,Second Owner,23.8 kmpl,1362 CC,65.8 bhp,5
+Mahindra XUV500 W8,2021,1084000,35896,Diesel,Trustmark Dealer,Automatic,First Owner,15.3 kmpl,2179 CC,141.7 bhp,7
+BMW X1 sDrive20d xLine,2021,2649000,42840,Diesel,Individual,Manual,First Owner,19.8 kmpl,1997 CC,185.6 bhp,5
+Hyundai Creta SX(O) Diesel AT,2017,549000,75792,Diesel,Individual,Automatic,Third Owner,18.3 kmpl,1491 CC,110.1 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2019,431000,77516,Petrol,Individual,Manual,First Owner,17.9 kmpl,999 CC,109.1 bhp,5
+Hyundai Creta SX(O) Diesel AT,2022,1458000,29305,Diesel,Dealer,Automatic,First Owner,17.6 kmpl,1495 CC,113.2 bhp,5
+Hyundai i20 Sportz 1.2,2015,193000,79474,CNG,Individual,Manual,Third Owner,19.7 km/kg,1199 CC,80.8 bhp,5
+Toyota Glanza G,2019,388000,46834,Petrol,Individual,Manual,First Owner,21.5 kmpl,1199 CC,88.4 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2017,333000,68566,Petrol,Trustmark Dealer,Manual,First Owner,15.7 kmpl,1196 CC,73.1 bhp,5
+Audi A4 2.0 TDI Premium,2020,2593000,40385,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1968 CC,171.2 bhp,5
+Mahindra Scorpio S10,2010,160000,151149,Diesel,Individual,Manual,Third Owner,15.1 kmpl,2179 CC,117.2 bhp,7
+Mahindra Bolero Power+ ZLX,2014,236000,117251,Diesel,Individual,Automatic,First Owner,16.2 kmpl,1493 CC,69.4 bhp,7
+Mercedes-Benz C-Class C 220d,2008,492000,174525,Diesel,Dealer,Automatic,Second Owner,19.7 kmpl,2143 CC,165.8 bhp,5
+BMW 5 Series 520d,2009,764000,192446,Diesel,Individual,Automatic,Second Owner,18.0 kmpl,1993 CC,192.7 bhp,5
+Skoda Rapid 1.6 MPI Ambition,2015,243000,99678,Petrol,Individual,Manual,Second Owner,15.7 kmpl,1600 CC,105.3 bhp,5
+Maruti Ciaz Alpha Petrol,2020,619000,42908,Petrol,Individual,Manual,First Owner,19.6 kmpl,1464 CC,104.3 bhp,5
+Toyota Innova 2.5 G4 Diesel,2016,565000,60936,Diesel,Trustmark Dealer,Manual,First Owner,13.1 kmpl,2494 CC,99.5 bhp,7
+Maruti Swift Dzire VDI,2017,264000,76733,Diesel,Individual,Manual,First Owner,25.7 kmpl,1246 CC,74.4 bhp,5
+Maruti Swift VXI,2015,179000,76002,Petrol,Individual,Manual,First Owner,22.5 kmpl,1195 CC,84.0 bhp,5
+Mercedes-Benz E-Class E 220d,2015,2073000,91867,Diesel,Individual,Automatic,First Owner,16.3 kmpl,1950 CC,190.5 bhp,5
+Mahindra Thar CRDe 4x4,2018,393000,85786,Diesel,Individual,Manual,First Owner,17.1 kmpl,2496 CC,106.5 bhp,4
+Ford Figo 1.2 Titanium,2020,382000,52115,Petrol,Individual,Manual,First Owner,19.2 kmpl,1196 CC,93.4 bhp,5
+Honda Civic 1.8 V AT,2017,873000,62171,Petrol,Individual,Automatic,First Owner,16.2 kmpl,1801 CC,138.1 bhp,5
+Honda City i-VTEC V,2021,805000,37149,Petrol,Dealer,Manual,First Owner,18.4 kmpl,1495 CC,120.0 bhp,5
+Maruti Swift ZXI Plus,2021,604000,38857,Petrol,Individual,Automatic,First Owner,22.8 kmpl,1195 CC,87.8 bhp,5
+Skoda Octavia 2.0 TDI L&K AT,2010,365000,141613,Diesel,Individual,Manual,Second Owner,20.0 kmpl,1968 CC,144.6 bhp,5
+Honda Jazz 1.2 V,2011,126000,154790,Petrol,Individual,Manual,Second Owner,17.7 kmpl,1201 CC,87.3 bhp,5
+Mercedes-Benz E-Class E 220d,2014,1732000,82559,Diesel,Individual,Automatic,Second Owner,16.1 kmpl,1950 CC,186.3 bhp,5
+Tata Safari XZA Plus 6S AT,2012,419000,81738,Diesel,Dealer,Automatic,Third Owner,14.4 kmpl,1958 CC,167.4 bhp,6
+Toyota Etios Liva GD,2022,551000,19774,Diesel,Trustmark Dealer,Manual,First Owner,23.3 kmpl,1366 CC,68.3 bhp,5
+Nissan Sunny XL D,2020,453000,47993,Diesel,Individual,Automatic,Second Owner,23.1 kmpl,1463 CC,83.1 bhp,5
+Mercedes-Benz C-Class C 220d,2017,1540000,73752,Diesel,Individual,Automatic,Third Owner,19.5 kmpl,2143 CC,164.1 bhp,5
+Audi Q3 2.0 TDI Quattro,2016,1091000,128146,Diesel,Individual,Automatic,Third Owner,16.1 kmpl,1970 CC,174.0 bhp,5
+Honda City i-VTEC V,2021,782000,41031,Petrol,Individual,Manual,First Owner,17.2 kmpl,1499 CC,119.6 bhp,5
+Hyundai Verna 1.6 VTVT SX,2022,876000,28724,Petrol,Dealer,Manual,First Owner,17.7 kmpl,1593 CC,121.6 bhp,5
+Toyota Fortuner 4x4 MT,2021,2241000,37728,Diesel,Dealer,Manual,First Owner,14.6 kmpl,2755 CC,176.9 bhp,7
+Tata Tiago XZ,2017,188000,103855,Petrol,Individual,Manual,Second Owner,24.1 kmpl,1197 CC,82.4 bhp,5
+Honda Amaze 1.2 VX,2019,379000,83111,Petrol,Dealer,Manual,Second Owner,18.4 kmpl,1199 CC,87.1 bhp,5
+Audi Q3 2.0 TDI Quattro,2018,1744000,90028,Diesel,Individual,Manual,First Owner,15.3 kmpl,1970 CC,169.8 bhp,5
+Mahindra Scorpio S11,2021,1050000,45462,Diesel,Individual,Manual,First Owner,15.1 kmpl,2179 CC,139.4 bhp,7
+Maruti Alto 800 LXI,2019,187000,47673,Petrol,Dealer,Automatic,Second Owner,25.4 kmpl,796 CC,48.0 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2021,904000,48896,Diesel,Trustmark Dealer,Automatic,First Owner,21.6 kmpl,1496 CC,108.4 bhp,5
+Hyundai i20 Sportz 1.2,2016,253000,111143,Petrol,Individual,Manual,First Owner,19.2 kmpl,1199 CC,83.7 bhp,5
+Maruti Swift ZXI Plus,2019,441000,55230,Petrol,Individual,Automatic,First Owner,23.2 kmpl,1199 CC,88.8 bhp,5
+Maruti Alto K10 VXI,2014,122000,91562,Petrol,Individual,Manual,First Owner,23.7 kmpl,998 CC,67.4 bhp,5
+Maruti Vitara Brezza ZDI,2013,180000,123973,Diesel,Dealer,Manual,Third Owner,23.5 kmpl,1248 CC,86.1 bhp,5
+Chevrolet Beat LT Diesel,2013,106000,115866,Diesel,Dealer,Automatic,Third Owner,25.4 kmpl,938 CC,54.7 bhp,5
+Mahindra XUV500 W8,2007,136000,199202,Diesel,Individual,Automatic,Second Owner,14.4 kmpl,2181 CC,141.7 bhp,7
+Skoda Rapid 1.6 MPI Ambition,2016,319000,92202,Petrol,Individual,Manual,First Owner,14.9 kmpl,1600 CC,101.6 bhp,5
+Audi Q3 2.0 TDI Quattro,2015,1064000,93045,Diesel,Individual,Automatic,Second Owner,15.2 kmpl,1970 CC,169.5 bhp,5
+Tata Tiago XZ,2007,57000,139065,Petrol,Dealer,Automatic,Third Owner,24.5 kmpl,1197 CC,82.8 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2020,2223000,56249,Diesel,Individual,Automatic,First Owner,14.4 kmpl,2755 CC,175.1 bhp,7
+Maruti Vitara Brezza ZDI,2012,144000,108187,Diesel,Individual,Manual,Fourth & Above Owner,23.7 kmpl,1246 CC,88.9 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2021,743000,44946,Diesel,Individual,Manual,First Owner,21.5 kmpl,1498 CC,100.6 bhp,5
+Tata Tiago XZ,2016,179000,113171,Petrol,Individual,Automatic,Second Owner,24.4 kmpl,1199 CC,84.5 bhp,5
+BMW X1 sDrive20d xLine,2014,993000,130789,Diesel,Individual,Manual,First Owner,18.7 kmpl,1993 CC,190.8 bhp,5
+Toyota Glanza G,2016,271000,115061,Petrol,Individual,Manual,First Owner,22.0 kmpl,1197 CC,88.6 bhp,5
+Mercedes-Benz E-Class E 220d,2021,4261000,35368,Diesel,Individual,Manual,First Owner,15.4 kmpl,1952 CC,193.0 bhp,5
+Toyota Etios Liva GD,2021,431000,47433,Diesel,Individual,Manual,First Owner,23.0 kmpl,1362 CC,66.4 bhp,5
+BMW X1 sDrive20d xLine,2019,1861000,50052,Diesel,Individual,Automatic,Second Owner,20.0 kmpl,1993 CC,191.1 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2019,520000,63168,Diesel,Individual,Manual,First Owner,21.4 kmpl,1500 CC,105.8 bhp,5
+Volkswagen Vento 1.6 Highline,2012,139000,158932,Petrol,Dealer,Manual,Fourth & Above Owner,15.4 kmpl,1598 CC,103.7 bhp,5
+Toyota Fortuner 4x4 MT,2011,430000,138972,Diesel,Dealer,Manual,Fourth & Above Owner,14.3 kmpl,2755 CC,179.1 bhp,7
+BMW 5 Series 520d,2017,2623000,64123,Diesel,Trustmark Dealer,Automatic,First Owner,18.2 kmpl,1995 CC,187.0 bhp,5
+Hyundai Creta SX 1.6 CRDI,2015,404000,118861,Diesel,Individual,Automatic,Second Owner,20.4 kmpl,1580 CC,128.3 bhp,5
+Honda Jazz 1.2 V,2009,96000,183097,CNG,Individual,Manual,Second Owner,16.6 km/kg,1199 CC,87.3 bhp,5
+Toyota Etios Liva GD,2021,447000,32433,Diesel,Individual,Manual,First Owner,23.8 kmpl,1364 CC,65.8 bhp,5
+Maruti Ciaz Alpha Petrol,2017,416000,88048,Petrol,Individual,Automatic,First Owner,19.9 kmpl,1460 CC,102.9 bhp,5
+Toyota Innova 2.5 G4 Diesel,2014,307000,73074,Diesel,Dealer,Manual,Third Owner,12.3 kmpl,2494 CC,98.9 bhp,7
+Mahindra XUV500 W11 AT,2016,613000,112038,Diesel,Individual,Automatic,Second Owner,14.0 kmpl,2177 CC,156.3 bhp,7
+Audi A4 2.0 TDI Premium,2015,1449000,75873,Diesel,Individual,Automatic,First Owner,17.3 kmpl,1966 CC,176.4 bhp,5
+Tata Nexon XZ Plus Petrol,2012,172000,125495,Petrol,Individual,Manual,Third Owner,17.6 kmpl,1196 CC,117.4 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2018,1644000,54993,Diesel,Individual,Manual,First Owner,14.5 kmpl,2753 CC,174.4 bhp,7
+Maruti Ciaz Alpha Petrol,2016,367000,81305,Petrol,Individual,Manual,First Owner,20.9 kmpl,1460 CC,105.4 bhp,5
+Honda Amaze 1.5 S i-DTEC,2020,479000,47442,Diesel,Dealer,Manual,First Owner,24.6 kmpl,1500 CC,99.8 bhp,5
+Toyota Fortuner 4x4 MT,2016,1247000,74849,Diesel,Dealer,Manual,First Owner,13.6 kmpl,2755 CC,171.0 bhp,7
+Maruti Alto K10 VXI,2018,199000,81255,Petrol,Individual,Manual,First Owner,23.2 kmpl,996 CC,68.2 bhp,5
+Maruti Wagon R ZXI 1.2,2019,325000,46876,Petrol,Individual,Manual,First Owner,21.4 kmpl,1195 CC,80.3 bhp,5
+Maruti Swift ZXI Plus,2015,259000,79586,Petrol,Individual,Manual,First Owner,22.4 kmpl,1195 CC,86.7 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2020,1622000,62368,Diesel,Individual,Automatic,First Owner,13.8 kmpl,2753 CC,173.7 bhp,7
+Maruti Alto 800 LXI,2010,51000,140727,CNG,Dealer,Manual,Third Owner,25.3 km/kg,796 CC,47.4 bhp,5
+Renault Kwid RXT,2022,350000,36051,Petrol,Dealer,Manual,First Owner,21.8 kmpl,999 CC,67.1 bhp,5
+Chevrolet Beat LT Diesel,2011,80000,96653,CNG,Dealer,Manual,Second Owner,24.9 km/kg,936 CC,55.9 bhp,5
+Nissan Sunny XL D,2013,158000,80504,Diesel,Individual,Manual,Third Owner,23.4 kmpl,1463 CC,83.0 bhp,5
+Hyundai Verna SX Turbo DCT,2007,134000,160006,Petrol,Dealer,Automatic,Third Owner,18.4 kmpl,1480 CC,157.2 bhp,5
+Hyundai Verna SX Turbo DCT,2021,943000,41995,Petrol,Individual,Manual,First Owner,17.8 kmpl,1484 CC,161.0 bhp,5
+BMW 5 Series 520d,2017,2640000,62027,Diesel,Individual,Automatic,First Owner,17.8 kmpl,1993 CC,193.2 bhp,5
+Toyota Etios Liva GD,2009,65000,169761,Diesel,Individual,Manual,Third Owner,23.8 kmpl,1366 CC,66.8 bhp,5
+Maruti Alto K10 VXI,2020,257000,46228,Petrol,Individual,Manual,First Owner,24.4 kmpl,1000 CC,68.1 bhp,5
+Maruti Wagon R ZXI 1.2,2022,488000,23895,Petrol,Dealer,Manual,First Owner,21.4 kmpl,1195 CC,80.2 bhp,5
+Tata Nexon XZA Plus Diesel,2014,286000,84412,Diesel,Individual,Manual,Second Owner,22.2 kmpl,1495 CC,108.0 bhp,5
+Mercedes-Benz C-Class C 220d,2017,1851000,103429,Diesel,Dealer,Manual,First Owner,18.7 kmpl,2143 CC,170.5 bhp,5
+Honda City i-VTEC V,2021,770000,31869,Petrol,Dealer,Manual,First Owner,18.6 kmpl,1497 CC,119.8 bhp,5
+Mercedes-Benz E-Class E 220d,2017,2371000,106514,Diesel,Individual,Automatic,Second Owner,16.4 kmpl,1952 CC,192.7 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2013,800000,88219,Diesel,Individual,Automatic,Second Owner,13.6 kmpl,2757 CC,179.6 bhp,7
+Toyota Fortuner 4x4 MT,2011,507000,109083,Diesel,Trustmark Dealer,Manual,Third Owner,14.5 kmpl,2753 CC,179.0 bhp,7
+Tata Safari XZA Plus 6S AT,2019,1187000,58023,Diesel,Individual,Automatic,Second Owner,13.7 kmpl,1958 CC,163.2 bhp,6
+Mahindra XUV500 W8,2016,451000,84367,Diesel,Individual,Manual,Second Owner,15.7 kmpl,2179 CC,137.8 bhp,7
+Tata Tiago XZ,2018,277000,71013,Petrol,Individual,Manual,First Owner,24.0 kmpl,1197 CC,84.3 bhp,5
+Hyundai i20 Sportz 1.2,2010,76000,184586,Petrol,Dealer,Manual,Fourth & Above Owner,20.8 kmpl,1199 CC,82.7 bhp,5
+Honda City ZX CVT,2008,154000,157210,Petrol,Dealer,Automatic,Third Owner,19.1 kmpl,1496 CC,116.0 bhp,5
+Maruti Baleno Alpha CVT,2022,751000,11642,Petrol,Individual,Automatic,First Owner,19.5 kmpl,1197 CC,,5
+Ford EcoSport 1.5 Ti-VCT AT,2018,471000,65202,Petrol,Individual,Automatic,Second Owner,16.3 kmpl,1496 CC,118.2 bhp,5
+Chevrolet Beat LT Diesel,2018,193000,80160,CNG,Dealer,Manual,Second Owner,25.4 km/kg,936 CC,55.8 bhp,5
+Tata Harrier XZ Plus,2016,650000,119680,Diesel,Dealer,Manual,First Owner,15.7 kmpl,1956 CC,164.1 bhp,5
+Hyundai Creta SX 1.6 CRDI,2012,252000,127256,Diesel,Dealer,Automatic,Third Owner,19.6 kmpl,1584 CC,124.2 bhp,5
+Mercedes-Benz C-Class C 220d,2019,2561000,49263,Diesel,Individual,Automatic,First Owner,18.3 kmpl,2143 CC,163.2 bhp,5
+Toyota Fortuner 4x4 MT,2015,808000,134209,Diesel,Dealer,Manual,Third Owner,14.0 kmpl,2755 CC,170.7 bhp,7
+Mahindra Scorpio S11,2018,708000,90116,Diesel,Trustmark Dealer,Manual,First Owner,14.8 kmpl,2179 CC,143.2 bhp,7
+Hyundai Verna 1.6 VTVT SX,2013,239000,142648,Petrol,Dealer,Manual,Second Owner,18.1 kmpl,1589 CC,122.3 bhp,5
+Skoda Octavia 2.0 TDI L&K AT,2015,837000,81524,Diesel,Individual,Automatic,First Owner,19.8 kmpl,1970 CC,142.3 bhp,5
+Audi A4 2.0 TDI Premium,2015,1343000,103423,Diesel,Dealer,Automatic,Second Owner,16.7 kmpl,1970 CC,,5
+Mahindra Bolero Power+ ZLX,2009,95000,141447,Diesel,Dealer,Manual,Third Owner,17.2 kmpl,1493 CC,71.8 bhp,7
+Toyota Innova Crysta 2.4 VX,2021,1486000,43817,Diesel,Dealer,Manual,First Owner,15.2 kmpl,2391 CC,149.0 bhp,7
+Maruti Swift VXI,2017,251000,53591,Petrol,Individual,Manual,First Owner,21.5 kmpl,1195 CC,83.5 bhp,5
+Audi Q3 2.0 TDI Quattro,2021,2873000,32840,Diesel,Dealer,Automatic,First Owner,15.7 kmpl,1970 CC,176.0 bhp,5
+Audi A6 35 TDI Matrix,2018,2354000,54926,Diesel,Individual,Automatic,Second Owner,,1966 CC,188.2 bhp,5
+Maruti Ertiga VDI,2015,310000,91823,Diesel,Dealer,Automatic,First Owner,24.8 kmpl,1250 CC,87.4 bhp,7
+Mahindra Scorpio S11,2013,324000,98605,Diesel,Individual,Manual,Second Owner,14.4 kmpl,2181 CC,141.2 bhp,
+Hyundai Creta SX 1.6 CRDI,2020,829000,30957,Diesel,Dealer,Manual,First Owner,19.5 kmpl,1580 CC,123.3 bhp,5
+Audi A6 35 TDI Matrix,2016,1782000,74769,Diesel,Individual,Automatic,Second Owner,19.1 kmpl,1968 CC,184.1 bhp,5
+Toyota Fortuner 4x4 MT,2019,1707000,70141,Diesel,Individual,Manual,First Owner,14.2 kmpl,2757 CC,174.9 bhp,7
+Volkswagen Vento 1.5 TDI Highline AT,2008,125000,231611,Diesel,Dealer,Automatic,Third Owner,20.8 kmpl,1498 CC,106.7 bhp,5
+Maruti Wagon R ZXI 1.2,2022,492000,28630,Petrol,Dealer,Manual,First Owner,20.8 kmpl,1197 CC,81.4 bhp,
+Maruti Alto 800 LXI,2008,44000,131761,Petrol,Dealer,Automatic,Third Owner,25.5 kmpl,796 CC,47.1 bhp,5
+Renault Kwid RXT,2010,60000,192828,Petrol,Individual,Manual,Second Owner,22.1 kmpl,999 CC,67.2 bhp,5
+Hyundai Creta SX 1.6 CRDI,2018,687000,48985,Diesel,Individual,Manual,First Owner,19.2 kmpl,1580 CC,122.8 bhp,5
+Hyundai Verna 1.6 VTVT SX,2019,464000,75848,Petrol,Dealer,Manual,Third Owner,17.7 kmpl,1593 CC,120.3 bhp,5
+Tata Safari XZA Plus 6S AT,2008,212000,155099,Diesel,Individual,Manual,Third Owner,13.8 kmpl,1958 CC,171.1 bhp,6
+Toyota Corolla Altis GL,2019,871000,47089,Petrol,Dealer,Manual,First Owner,14.6 kmpl,1798 CC,136.4 bhp,5
+Maruti Ertiga VDI,2020,511000,50722,Diesel,Individual,Manual,First Owner,26.4 kmpl,1246 CC,87.5 bhp,7
+Volkswagen Polo GT TSI,2014,297000,73745,CNG,Individual,Automatic,First Owner,17.7 km/kg,1197 CC,100.7 bhp,5
+Hyundai i20 Asta CRDI,2014,207000,121512,CNG,Individual,Manual,Second Owner,21.4 km/kg,1394 CC,89.4 bhp,5
+Hyundai Creta SX(O) Diesel AT,2012,236000,189805,Diesel,Dealer,Automatic,Fourth & Above Owner,19.0 kmpl,1495 CC,115.4 bhp,5
+Mercedes-Benz C-Class C 220d,2013,1229000,117634,Diesel,Dealer,Automatic,First Owner,19.4 kmpl,2141 CC,166.6 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2014,253000,119574,Diesel,Individual,Manual,First Owner,22.3 kmpl,1496 CC,98.0 bhp,5
+Hyundai Creta SX(O) Diesel AT,2018,877000,80957,Diesel,Dealer,Automatic,First Owner,18.9 kmpl,1491 CC,115.1 bhp,5
+Hyundai Verna 1.6 VTVT SX,2022,873000,17220,Petrol,Dealer,Manual,First Owner,17.4 kmpl,1589 CC,120.7 bhp,5
+Hyundai Verna SX Turbo DCT,2019,744000,66213,Petrol,Individual,Automatic,Second Owner,18.9 kmpl,1484 CC,155.4 bhp,5
+Hyundai Verna SX Turbo DCT,2013,345000,109983,Petrol,Dealer,Automatic,Second Owner,18.1 kmpl,1482 CC,156.9 bhp,5
+Hyundai Santro Magna,2009,55000,211182,Petrol,Individual,Manual,Second Owner,19.9 kmpl,1086 CC,66.5 bhp,5
+Maruti Swift ZXI Plus,2016,272000,103115,Petrol,Individual,Automatic,Second Owner,23.3 kmpl,1199 CC,90.4 bhp,5
+Toyota Etios Liva GD,2012,113000,115028,Diesel,Individual,Automatic,Third Owner,23.6 kmpl,1362 CC,69.0 bhp,5
+Hyundai Verna SX Turbo DCT,2011,214000,174955,Petrol,Individual,Automatic,Third Owner,17.7 kmpl,1482 CC,159.8 bhp,5
+Hyundai i20 Asta CRDI,2013,218000,105736,Diesel,Dealer,Manual,Second Owner,23.5 kmpl,1398 CC,89.1 bhp,5
+Chevrolet Beat LT Diesel,2022,375000,13939,Diesel,Dealer,Manual,First Owner,25.4 kmpl,938 CC,55.8 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2019,1771000,55630,Diesel,Individual,Automatic,First Owner,10.7 kmpl,3200 CC,197.8 bhp,7
+Honda Amaze 1.5 S i-DTEC,2021,549000,25480,Diesel,Dealer,Manual,First Owner,27.0 kmpl,1498 CC,,5
+Maruti Vitara Brezza ZDI,2011,135000,185896,Diesel,Individual,Manual,Third Owner,24.7 kmpl,1250 CC,86.2 bhp,5
+Mahindra XUV500 W11 AT,2019,855000,46069,Diesel,Individual,Manual,Second Owner,13.7 kmpl,2179 CC,149.3 bhp,7
+Mahindra Thar CRDe 4x4,2021,648000,29462,Diesel,Individual,Manual,First Owner,16.7 kmpl,2500 CC,105.2 bhp,4
+Maruti Alto 800 LXI,2016,95000,74625,Petrol,Individual,Manual,Third Owner,25.7 kmpl,794 CC,48.1 bhp,5
+BMW 3 Series 320d Luxury Line,2018,1833000,91554,Diesel,Dealer,Automatic,Second Owner,21.6 kmpl,1997 CC,189.9 bhp,5
+Maruti Swift Dzire VDI,2018,284000,52100,Diesel,Individual,Manual,First Owner,26.0 kmpl,1246 CC,72.7 bhp,5
+Mahindra Thar CRDe 4x4,2013,207000,85142,Diesel,Individual,Manual,Second Owner,16.4 kmpl,2498 CC,107.1 bhp,4
+Hyundai Santro Magna,2016,138000,57111,Petrol,Dealer,Manual,Third Owner,19.6 kmpl,1084 CC,66.3 bhp,5
+Mahindra Scorpio S10,2011,208000,115859,Diesel,Individual,Manual,Third Owner,16.0 kmpl,2181 CC,122.9 bhp,7
+Mahindra Thar CRDe 4x4,2012,155000,144480,Diesel,Individual,Manual,Third Owner,16.7 kmpl,2498 CC,103.8 bhp,4
+Maruti Swift Dzire VDI,2013,142000,110936,Diesel,Individual,Manual,Second Owner,25.3 kmpl,1250 CC,72.3 bhp,5
+Audi A6 35 TDI Matrix,2022,4352000,26560,Diesel,Dealer,Automatic,First Owner,18.6 kmpl,1966 CC,187.9 bhp,5
+Hyundai Creta SX(O) Diesel AT,2013,380000,93224,Diesel,Individual,Automatic,Second Owner,18.6 kmpl,1491 CC,112.3 bhp,5
+Volkswagen Polo GT TSI,2017,413000,97323,CNG,Dealer,Automatic,First Owner,16.5 km/kg,1195 CC,104.7 bhp,5
+Mahindra XUV500 W11 AT,2010,276000,178296,Diesel,Individual,Automatic,Second Owner,14.4 kmpl,2179 CC,148.5 bhp,7
+Maruti Baleno Delta,2020,418000,47686,CNG,Dealer,Manual,Second Owner,20.3 km/kg,1195 CC,79.9 bhp,5
+Hyundai i20 Sportz 1.2,2016,279000,121782,CNG,Trustmark Dealer,Manual,First Owner,19.4 km/kg,1195 CC,84.4 bhp,5
+BMW 3 Series 320d Luxury Line,2018,1824000,83556,Diesel,Dealer,Manual,Second Owner,22.2 kmpl,1997 CC,188.2 bhp,5
+Maruti Vitara Brezza ZDI,2012,148000,169505,Diesel,Individual,Manual,Third Owner,23.1 kmpl,1250 CC,88.2 bhp,5
+Maruti Swift VXI,2018,229000,88584,Petrol,Individual,Manual,Second Owner,21.8 kmpl,1197 CC,82.1 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2016,922000,112100,Diesel,Individual,Automatic,First Owner,14.7 kmpl,2755 CC,174.8 bhp,7
+Maruti Alto 800 LXI,2017,139000,61647,CNG,Individual,Manual,Second Owner,24.3 km/kg,798 CC,47.2 bhp,5
+Audi A4 2.0 TDI Premium,2012,710000,87325,Diesel,Individual,Manual,Third Owner,17.2 kmpl,1970 CC,170.4 bhp,5
+Maruti Swift VXI,2014,139000,133545,Petrol,Individual,Manual,Second Owner,21.7 kmpl,1195 CC,82.1 bhp,5
+Audi A4 2.0 TDI Premium,2018,2048000,65419,Diesel,Individual,Automatic,First Owner,16.5 kmpl,1970 CC,172.2 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2016,1099000,62070,Diesel,Dealer,Automatic,Second Owner,10.8 kmpl,3200 CC,201.1 bhp,7
+Toyota Fortuner 4x4 MT,2010,386000,194506,Diesel,Trustmark Dealer,Manual,Third Owner,14.0 kmpl,2755 CC,179.2 bhp,7
+Maruti Alto 800 LXI,2012,59000,164026,Petrol,Individual,Manual,Second Owner,25.7 kmpl,794 CC,48.6 bhp,5
+Maruti Ertiga VDI,2016,230000,84633,Diesel,Individual,Manual,Fourth & Above Owner,26.5 kmpl,1250 CC,88.5 bhp,7
+Hyundai i20 Asta CRDI,2015,229000,115410,Diesel,Individual,Manual,Second Owner,23.2 kmpl,1394 CC,88.5 bhp,5
+Volkswagen Vento 1.6 Highline,2008,101000,198900,Petrol,Individual,Manual,Second Owner,16.0 kmpl,1598 CC,101.6 bhp,5
+Hyundai Creta SX 1.6 CRDI,2016,500000,70169,Diesel,Dealer,Automatic,Second Owner,20.2 kmpl,1582 CC,127.9 bhp,5
+Honda Amaze 1.5 S i-DTEC,2013,154000,86715,Diesel,Individual,Automatic,Fourth & Above Owner,26.7 kmpl,1496 CC,100.9 bhp,5
+Maruti Ertiga VDI,2021,681000,47580,Diesel,Trustmark Dealer,Manual,First Owner,26.1 kmpl,1250 CC,90.4 bhp,7
+Audi A4 2.0 TDI Premium,2021,2800000,22317,Diesel,Dealer,Manual,First Owner,16.4 kmpl,1968 CC,177.2 bhp,5
+Audi A4 2.0 TDI Premium,2021,2957000,34369,Diesel,Individual,Automatic,First Owner,17.5 kmpl,1970 CC,170.3 bhp,5
+Maruti Swift VXI,2021,369000,39715,Petrol,Individual,Manual,First Owner,21.1 kmpl,1195 CC,81.1 bhp,5
+Audi A4 2.0 TDI Premium,2018,2075000,74659,Diesel,Individual,Automatic,First Owner,17.2 kmpl,1968 CC,,5
+Tata Safari XZA Plus 6S AT,2013,527000,150602,Diesel,Individual,Automatic,First Owner,13.8 kmpl,1956 CC,165.3 bhp,
+Toyota Fortuner 4x4 MT,2021,2162000,42720,Diesel,Dealer,Manual,First Owner,14.6 kmpl,2755 CC,175.9 bhp,7
+Chevrolet Beat LT Diesel,2021,300000,40799,Diesel,Individual,Manual,First Owner,26.1 kmpl,938 CC,55.0 bhp,5
+Maruti Alto 800 LXI,2021,238000,39312,Petrol,Individual,Manual,First Owner,25.3 kmpl,794 CC,48.2 bhp,5
+Mahindra Bolero Power+ ZLX,2010,79000,207816,Diesel,Individual,Manual,Fourth & Above Owner,16.4 kmpl,1493 CC,68.1 bhp,7
+Mahindra XUV500 W8,2018,644000,76757,Diesel,Dealer,Manual,Second Owner,,2181 CC,142.8 bhp,7
+Hyundai Grand i10 Magna,2013,132000,152924,Petrol,Dealer,Manual,First Owner,19.2 kmpl,1195 CC,81.7 bhp,5
+Audi A4 2.0 TDI Premium,2011,740000,97846,Diesel,Dealer,Automatic,Second Owner,17.4 kmpl,1970 CC,172.9 bhp,5
+Maruti Alto K10 VXI,2017,164000,78492,Petrol,Individual,Manual,First Owner,24.1 kmpl,998 CC,69.0 bhp,5
+Mahindra Scorpio S10,2019,650000,65771,Diesel,Dealer,Manual,Second Owner,15.7 kmpl,2181 CC,121.8 bhp,7
+Mahindra Bolero Power+ ZLX,2010,92000,162562,Diesel,Individual,Manual,Third Owner,16.2 kmpl,1495 CC,68.9 bhp,7
+Maruti Swift Dzire VDI,2019,282000,76489,Diesel,Dealer,Manual,Third Owner,27.4 kmpl,1246 CC,72.3 bhp,5
+Toyota Innova 2.5 G4 Diesel,2014,342000,90656,Diesel,Dealer,Manual,Second Owner,12.9 kmpl,2496 CC,97.7 bhp,7
+Hyundai Creta SX 1.6 CRDI,2016,422000,79368,Diesel,Individual,Manual,Second Owner,19.8 kmpl,1584 CC,124.1 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2018,439000,85699,Diesel,Individual,Manual,Second Owner,21.9 kmpl,1498 CC,105.5 bhp,5
+Hyundai Creta SX 1.6 CRDI,2022,1041000,38008,Diesel,Dealer,Manual,First Owner,19.7 kmpl,1584 CC,128.2 bhp,5
+Toyota Etios Liva GD,2010,65000,168671,Diesel,Individual,Manual,Fourth & Above Owner,23.5 kmpl,1362 CC,65.1 bhp,5
+Hyundai Verna SX Turbo DCT,2019,796000,73339,Petrol,Dealer,Automatic,First Owner,18.4 kmpl,1480 CC,160.1 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2020,1815000,33237,Diesel,Individual,Automatic,Second Owner,11.3 kmpl,3196 CC,191.2 bhp,7
+Tata Tiago XZ,2021,481000,27618,Petrol,Trustmark Dealer,Automatic,First Owner,24.2 kmpl,1197 CC,81.7 bhp,5
+Volkswagen Polo GT TSI,2020,478000,50811,CNG,Individual,Manual,Second Owner,17.4 km/kg,1197 CC,100.9 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2009,93000,155906,Petrol,Dealer,Manual,Fourth & Above Owner,17.6 kmpl,1001 CC,108.0 bhp,5
+Toyota Innova 2.5 G4 Diesel,2018,620000,50823,Diesel,Individual,Manual,First Owner,12.7 kmpl,2492 CC,101.9 bhp,7
+Tata Harrier XZ Plus,2019,1083000,51120,Diesel,Individual,Manual,First Owner,16.8 kmpl,1956 CC,169.9 bhp,5
+Maruti Alto K10 VXI,2022,318000,20450,Petrol,Individual,Manual,First Owner,25.0 kmpl,1000 CC,66.0 bhp,5
+Mahindra Bolero Power+ ZLX,2013,185000,160794,Diesel,Dealer,Manual,First Owner,16.3 kmpl,1493 CC,71.7 bhp,7
+Maruti Ertiga VDI,2016,316000,69806,Diesel,Individual,Automatic,Second Owner,24.7 kmpl,1246 CC,89.8 bhp,7
+Volkswagen Polo 1.2 MPI Highline,2011,83000,150096,Petrol,Individual,Manual,Fourth & Above Owner,16.0 kmpl,1200 CC,73.1 bhp,5
+Honda City i-VTEC V,2020,492000,35149,Petrol,Individual,Manual,Third Owner,17.4 kmpl,1495 CC,116.8 bhp,5
+Mahindra Thar CRDe 4x4,2013,176000,97868,Diesel,Dealer,Manual,Third Owner,16.8 kmpl,2500 CC,106.8 bhp,4
+Honda City i-DTEC VX,2010,154000,193925,Diesel,Dealer,Manual,Third Owner,24.8 kmpl,1496 CC,96.2 bhp,5
+Mahindra Scorpio S10,2012,213000,143821,Diesel,Dealer,Manual,Third Owner,16.0 kmpl,2177 CC,121.9 bhp,7
+Audi Q3 2.0 TDI Quattro,2013,1010000,99236,Diesel,Individual,Automatic,First Owner,15.6 kmpl,1966 CC,175.1 bhp,5
+Chevrolet Beat LT Diesel,2020,270000,56331,Diesel,Individual,Manual,First Owner,26.5 kmpl,934 CC,56.0 bhp,5
+Tata Harrier XZ Plus,2017,828000,95106,Diesel,Dealer,Automatic,First Owner,16.9 kmpl,1954 CC,163.4 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2015,425000,72560,Diesel,Dealer,Automatic,First Owner,21.4 kmpl,1498 CC,108.9 bhp,5
+Toyota Corolla Altis GL,2016,374000,63235,Petrol,Individual,Manual,Fourth & Above Owner,14.1 kmpl,1796 CC,136.6 bhp,5
+Maruti Alto 800 LXI,2017,133000,83430,Petrol,Individual,Manual,Second Owner,23.8 kmpl,794 CC,48.6 bhp,5
+Volkswagen Polo GT TSI,2020,678000,61702,Petrol,Trustmark Dealer,Automatic,First Owner,18.0 kmpl,1199 CC,102.0 bhp,5
+Ford Figo 1.2 Titanium,2021,468000,41081,Petrol,Individual,Automatic,First Owner,18.4 kmpl,1196 CC,95.2 bhp,5
+Maruti Baleno Alpha CVT,2019,583000,51078,Petrol,Dealer,Automatic,First Owner,19.6 kmpl,1197 CC,88.4 bhp,5
+Honda City i-DTEC VX,2008,142000,202483,Diesel,Trustmark Dealer,Manual,Second Owner,25.5 kmpl,1500 CC,99.6 bhp,5
+Chevrolet Beat LT Diesel,2015,126000,83354,Diesel,Individual,Manual,Third Owner,24.6 kmpl,936 CC,56.4 bhp,5
+Maruti Baleno Alpha CVT,2020,503000,50864,Petrol,Individual,Manual,Second Owner,19.9 kmpl,1195 CC,87.8 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2019,548000,58462,Diesel,Individual,Manual,First Owner,20.6 kmpl,1500 CC,101.2 bhp,5
+Volkswagen Vento 1.6 Highline,2020,557000,40023,Petrol,Individual,Manual,First Owner,,1596 CC,102.6 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2018,1573000,52362,Diesel,Individual,Automatic,Second Owner,14.8 kmpl,2757 CC,179.3 bhp,7
+Volkswagen Vento 1.6 Highline,2016,322000,70688,Petrol,Individual,Manual,Second Owner,16.0 kmpl,1600 CC,106.5 bhp,5
+Volkswagen Vento 1.6 Highline,2015,279000,135046,Petrol,Dealer,Manual,First Owner,16.3 kmpl,1600 CC,104.2 bhp,5
+BMW 3 Series 320d Luxury Line,2011,556000,174492,Diesel,Individual,Manual,Third Owner,22.8 kmpl,1995 CC,192.8 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2019,418000,71074,Petrol,Individual,Manual,Second Owner,18.9 kmpl,997 CC,111.1 bhp,5
+Maruti Vitara Brezza ZDI,2021,600000,34549,Diesel,Individual,Manual,First Owner,23.7 kmpl,1248 CC,88.9 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2013,260000,102599,Diesel,Individual,Manual,First Owner,20.4 kmpl,1496 CC,101.7 bhp,5
+Honda Civic 1.8 V AT,2020,1285000,41782,Petrol,Dealer,Automatic,First Owner,17.1 kmpl,1801 CC,137.0 bhp,5
+Hyundai i20 Asta CRDI,2014,215000,130905,CNG,Individual,Manual,Second Owner,22.6 km/kg,1394 CC,89.7 bhp,5
+Hyundai Creta SX(O) Diesel AT,2019,1024000,39177,Diesel,Individual,Automatic,First Owner,19.2 kmpl,1493 CC,112.7 bhp,5
+Mercedes-Benz E-Class E 220d,2020,4042000,63549,Diesel,Dealer,Automatic,First Owner,16.0 kmpl,1950 CC,195.1 bhp,5
+Ford Figo 1.2 Titanium,2020,355000,43673,Petrol,Trustmark Dealer,Manual,Second Owner,18.2 kmpl,1194 CC,95.1 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2020,626000,42834,Diesel,Trustmark Dealer,Automatic,Second Owner,20.9 kmpl,1496 CC,105.4 bhp,5
+Hyundai Verna 1.6 VTVT SX,2021,718000,17444,Petrol,Individual,Manual,First Owner,16.9 kmpl,1593 CC,124.1 bhp,5
+Hyundai Grand i10 Magna,2020,357000,61855,CNG,Individual,Automatic,First Owner,18.8 km/kg,1195 CC,82.5 bhp,5
+Hyundai i20 Sportz 1.2,2014,214000,100842,Petrol,Dealer,Manual,First Owner,19.2 kmpl,1199 CC,84.4 bhp,5
+Mahindra XUV500 W11 AT,2019,920000,55527,Diesel,Individual,Manual,First Owner,14.6 kmpl,2181 CC,154.7 bhp,7
+Maruti Wagon R ZXI 1.2,2017,264000,95843,Petrol,Individual,Manual,First Owner,20.7 kmpl,1195 CC,80.2 bhp,5
+Maruti Swift VXI,2018,285000,70706,CNG,Dealer,Manual,First Owner,21.3 km/kg,1197 CC,80.8 bhp,5
+Renault Kwid RXT,2015,125000,102666,Petrol,Dealer,Manual,Second Owner,,997 CC,68.2 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2014,229000,156630,Petrol,Individual,Manual,First Owner,17.9 kmpl,1001 CC,111.5 bhp,5
+BMW 5 Series 520d,2020,3589000,65874,Diesel,Individual,Automatic,First Owner,17.9 kmpl,1993 CC,188.3 bhp,5
+Hyundai Creta SX 1.6 CRDI,2018,606000,47702,Diesel,Individual,Manual,Second Owner,19.9 kmpl,1580 CC,129.4 bhp,5
+Maruti Baleno Delta,2015,210000,75802,Petrol,Individual,Manual,Second Owner,21.5 kmpl,1195 CC,84.2 bhp,5
+Maruti Vitara Brezza ZDI,2018,411000,53324,Diesel,Dealer,Manual,Second Owner,25.2 kmpl,1246 CC,90.0 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2017,249000,70402,Petrol,Individual,Manual,Second Owner,16.9 kmpl,1198 CC,72.8 bhp,5
+Maruti Swift Dzire VDI,2017,243000,67285,Diesel,Individual,Manual,Second Owner,26.4 kmpl,1246 CC,72.6 bhp,5
+Mahindra XUV500 W11 AT,2006,141000,210898,Diesel,Individual,Automatic,Third Owner,14.0 kmpl,2181 CC,152.5 bhp,7
+Hyundai Grand i10 Magna,2013,120000,146500,Petrol,Dealer,Manual,Second Owner,19.5 kmpl,1195 CC,80.1 bhp,5
+Hyundai i20 Sportz 1.2,2011,122000,137805,Petrol,Individual,Manual,Second Owner,19.3 kmpl,1195 CC,83.9 bhp,5
+Renault Kwid RXT,2017,155000,87372,Petrol,Dealer,Manual,Second Owner,21.7 kmpl,999 CC,67.7 bhp,5
+Audi A6 35 TDI Matrix,2016,1674000,56309,Diesel,Individual,Automatic,Third Owner,18.6 kmpl,1970 CC,183.0 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2011,135000,104438,Petrol,Individual,Manual,Third Owner,17.6 kmpl,997 CC,105.5 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2018,610000,51463,Diesel,Dealer,Automatic,First Owner,20.8 kmpl,1496 CC,109.3 bhp,5
+Mahindra Scorpio S10,2022,974000,17248,Diesel,Individual,Manual,First Owner,14.9 kmpl,2179 CC,116.7 bhp,7
+Honda Jazz 1.2 V,2012,133000,179284,Petrol,Individual,Manual,Second Owner,16.4 kmpl,1201 CC,89.6 bhp,5
+Hyundai i20 Asta CRDI,2011,136000,106611,Diesel,Individual,Manual,Third Owner,22.6 kmpl,1398 CC,90.0 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2013,859000,135148,Diesel,Individual,Automatic,First Owner,13.7 kmpl,2757 CC,169.4 bhp,7
+Ford Figo 1.2 Titanium,2019,313000,39143,Petrol,Individual,Manual,First Owner,18.7 kmpl,1196 CC,95.9 bhp,5
+Volkswagen Vento 1.6 Highline,2020,603000,52591,Petrol,Individual,Manual,First Owner,16.6 kmpl,1600 CC,101.6 bhp,5
+Volkswagen Vento 1.5 TDI Highline AT,2019,574000,66553,Diesel,Individual,Automatic,Second Owner,21.7 kmpl,1500 CC,109.7 bhp,5
+Chevrolet Beat LT Diesel,2020,278000,51620,Diesel,Individual,Manual,First Owner,25.5 kmpl,936 CC,56.5 bhp,5
+Hyundai Creta SX(O) Diesel AT,2013,467000,82929,Diesel,Dealer,Automatic,First Owner,18.4 kmpl,1493 CC,116.3 bhp,5
+Hyundai Santro Magna,2017,203000,92184,Petrol,Individual,Manual,First Owner,20.2 kmpl,1088 CC,69.9 bhp,5
+Maruti Swift Dzire VDI,2016,260000,63656,Diesel,Dealer,Manual,First Owner,27.5 kmpl,1248 CC,72.9 bhp,5
+Maruti Swift VXI,2013,131000,145362,CNG,Individual,Automatic,Second Owner,22.1 km/kg,1197 CC,84.2 bhp,5
+Mahindra Thar CRDe 4x4,2015,227000,133936,Diesel,Individual,Manual,Second Owner,16.4 kmpl,2498 CC,104.2 bhp,4
+Toyota Fortuner 2.8 4x2 AT,2014,981000,137427,Diesel,Individual,Automatic,First Owner,14.6 kmpl,2753 CC,175.1 bhp,7
+BMW 5 Series 520d,2011,993000,108934,Diesel,Individual,Automatic,Second Owner,19.0 kmpl,1995 CC,186.6 bhp,5
+Hyundai Santro Magna,2016,157000,54222,Petrol,Dealer,Manual,Second Owner,21.0 kmpl,1084 CC,68.4 bhp,5
+Volkswagen Vento 1.6 Highline,2019,579000,51746,Petrol,Individual,Automatic,First Owner,15.7 kmpl,1598 CC,104.8 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2015,286000,106152,Diesel,Individual,Manual,First Owner,23.1 kmpl,1496 CC,95.8 bhp,5
+Audi A6 35 TDI Matrix,2020,3145000,56803,Diesel,Individual,Automatic,First Owner,17.6 kmpl,,183.4 bhp,5
+Honda Amaze 1.5 S i-DTEC,2018,399000,59092,Diesel,Dealer,Manual,First Owner,26.0 kmpl,1496 CC,96.1 bhp,5
+Hyundai Verna 1.6 VTVT SX,2019,529000,50076,Petrol,Individual,Manual,First Owner,17.9 kmpl,1591 CC,124.7 bhp,5
+Maruti Wagon R ZXI 1.2,2020,368000,39301,Petrol,Individual,Manual,First Owner,20.0 kmpl,1195 CC,83.2 bhp,5
+Mercedes-Benz C-Class C 220d,2010,589000,183816,Diesel,Dealer,Automatic,Third Owner,18.3 kmpl,2143 CC,170.5 bhp,5
+BMW 3 Series 320d Luxury Line,2008,369000,194032,Diesel,Individual,Automatic,Fourth & Above Owner,22.7 kmpl,1997 CC,188.0 bhp,5
+Maruti Wagon R ZXI 1.2,2013,138000,139570,Petrol,Individual,Manual,Second Owner,,1197 CC,80.0 bhp,5
+Hyundai Venue SX 1.0 Turbo,2013,205000,99437,Petrol,Individual,Manual,Third Owner,,998 CC,117.9 bhp,5
+BMW 5 Series 520d,2018,2956000,75723,Diesel,Trustmark Dealer,Automatic,First Owner,19.1 kmpl,,182.8 bhp,5
+Mahindra XUV500 W8,2020,735000,58889,Diesel,Individual,Manual,Second Owner,14.5 kmpl,2181 CC,142.9 bhp,7
+Hyundai Santro Magna,2018,189000,70298,Petrol,Individual,Manual,Second Owner,20.9 kmpl,1088 CC,69.8 bhp,5
+BMW 5 Series 520d,2018,2806000,95193,Diesel,Individual,Automatic,First Owner,18.6 kmpl,1993 CC,190.3 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2021,781000,29489,Petrol,Trustmark Dealer,Automatic,Second Owner,15.3 kmpl,1496 CC,119.3 bhp,5
+Mahindra Thar CRDe 4x4,2021,540000,49378,Diesel,Individual,Manual,Second Owner,,2500 CC,,4
+Maruti Wagon R LXI CNG,2020,260000,33034,CNG,Individual,Manual,Second Owner,31.1 km/kg,996 CC,59.2 bhp,5
+Tata Harrier XZ Plus,2010,204000,170065,Diesel,Individual,Manual,Fourth & Above Owner,16.5 kmpl,1956 CC,170.5 bhp,5
+BMW 3 Series 320d Luxury Line,2012,757000,163236,Diesel,Dealer,Automatic,Third Owner,21.7 kmpl,1997 CC,182.6 bhp,5
+Hyundai Creta SX 1.6 CRDI,2014,351000,132647,Diesel,Individual,Manual,First Owner,19.0 kmpl,1584 CC,127.3 bhp,5
+Mercedes-Benz C-Class C 220d,2017,1596000,75476,Diesel,Individual,Automatic,Second Owner,19.0 kmpl,2145 CC,169.3 bhp,5
+Maruti Alto 800 LXI,2021,235000,52577,Petrol,Individual,Manual,First Owner,25.8 kmpl,794 CC,47.9 bhp,5
+Toyota Etios Liva GD,2016,242000,76442,CNG,Individual,Automatic,First Owner,24.5 km/kg,1362 CC,65.6 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2020,2042000,45342,Diesel,Individual,Manual,First Owner,14.1 kmpl,2753 CC,172.0 bhp,7
+Toyota Innova Crysta 2.4 VX,2018,731000,94549,Diesel,Individual,Manual,Third Owner,15.2 kmpl,2395 CC,147.0 bhp,7
+Maruti Wagon R ZXI 1.2,2010,85000,108497,Petrol,Dealer,Automatic,Fourth & Above Owner,21.0 kmpl,1195 CC,81.3 bhp,5
+Hyundai Santro Magna,2022,378000,30007,Petrol,Individual,Automatic,First Owner,21.3 kmpl,1084 CC,67.4 bhp,5
+Toyota Fortuner 4x4 MT,2015,775000,98767,Diesel,Dealer,Manual,Third Owner,13.9 kmpl,2755 CC,178.8 bhp,7
+Hyundai Verna SX Turbo DCT,2014,382000,118670,Petrol,Dealer,Automatic,Second Owner,18.7 kmpl,1482 CC,153.0 bhp,5
+Maruti Wagon R ZXI 1.2,2016,198000,115379,Petrol,Individual,Manual,Second Owner,20.6 kmpl,1199 CC,80.8 bhp,5
+Maruti Alto 800 LXI,2017,147000,98938,Petrol,Individual,Manual,First Owner,24.5 kmpl,794 CC,47.1 bhp,5
+Hyundai i20 Asta CRDI,2020,478000,61213,Diesel,Individual,Manual,Second Owner,22.9 kmpl,1398 CC,88.3 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2019,1752000,66795,Diesel,Individual,Automatic,First Owner,14.8 kmpl,2757 CC,172.5 bhp,7
+Volkswagen Vento 1.6 Highline,2018,441000,54023,Petrol,Dealer,Manual,Second Owner,16.4 kmpl,1596 CC,105.6 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2019,1608000,47082,Diesel,Individual,Manual,Second Owner,14.3 kmpl,,171.6 bhp,7
+Mercedes-Benz E-Class E 220d,2020,4239000,43587,Diesel,Dealer,Automatic,First Owner,15.8 kmpl,1952 CC,192.6 bhp,5
+Tata Nexon XZ Plus Petrol,2017,387000,47625,Petrol,Individual,Manual,First Owner,16.6 kmpl,1200 CC,121.6 bhp,5
+Tata Nexon XZ Plus Petrol,2022,750000,29157,Petrol,Individual,Manual,First Owner,16.7 kmpl,1198 CC,117.7 bhp,5
+Hyundai Santro Magna,2007,39000,234257,Petrol,Individual,Manual,Third Owner,20.4 kmpl,1088 CC,69.6 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2019,1825000,76747,Diesel,Individual,Automatic,First Owner,10.8 kmpl,3196 CC,201.2 bhp,7
+Tata Nexon XZ Plus Petrol,2020,557000,57031,Petrol,Individual,Manual,First Owner,17.2 kmpl,1200 CC,117.1 bhp,5
+Maruti Alto K10 VXI,2007,37000,257720,Petrol,Individual,Manual,Second Owner,24.8 kmpl,998 CC,66.7 bhp,5
+Renault Duster 110PS RXZ,2014,349000,86354,Diesel,Individual,Manual,First Owner,18.8 kmpl,1463 CC,111.6 bhp,5
+BMW 3 Series 320d Luxury Line,2020,2478000,48171,Diesel,Individual,Automatic,Second Owner,22.6 kmpl,1997 CC,182.2 bhp,5
+Tata Tiago XZ,2017,206000,76546,Petrol,Individual,Automatic,Second Owner,24.5 kmpl,1199 CC,83.5 bhp,5
+Toyota Etios Liva GD,2016,174000,111459,Diesel,Individual,Manual,Second Owner,24.5 kmpl,1362 CC,67.9 bhp,5
+Audi A4 2.0 TDI Premium,2014,1130000,140926,Diesel,Dealer,Automatic,Second Owner,17.2 kmpl,1970 CC,169.6 bhp,5
+Honda City i-VTEC V,2015,341000,94356,Petrol,Dealer,Automatic,Second Owner,18.5 kmpl,1495 CC,117.3 bhp,5
+Toyota Etios Liva GD,2009,68000,197105,Diesel,Individual,Manual,Third Owner,22.8 kmpl,1366 CC,65.6 bhp,5
+Hyundai Grand i10 Magna,2012,99000,103071,Petrol,Individual,Manual,Third Owner,18.9 kmpl,1199 CC,82.9 bhp,5
+Maruti Ertiga VDI,2016,260000,123102,Diesel,Individual,Manual,Second Owner,24.6 kmpl,1250 CC,86.7 bhp,7
+Mercedes-Benz E-Class E 220d,2017,2686000,88845,Diesel,Individual,Automatic,First Owner,16.7 kmpl,1952 CC,186.6 bhp,5
+Tata Nexon XZA Plus Diesel,2022,1061000,23910,Diesel,Individual,Automatic,First Owner,21.6 kmpl,1495 CC,107.4 bhp,5
+Toyota Etios Liva GD,2018,252000,59120,Diesel,Individual,Manual,Second Owner,24.1 kmpl,1366 CC,68.2 bhp,5
+Tata Tiago XZ,2016,158000,93495,Petrol,Individual,Automatic,Fourth & Above Owner,24.8 kmpl,1199 CC,82.6 bhp,5
+Toyota Corolla Altis GL,2014,401000,76269,Petrol,Dealer,Manual,Second Owner,14.5 kmpl,1800 CC,135.7 bhp,5
+Maruti Swift ZXI Plus,2018,381000,79494,Petrol,Individual,Automatic,First Owner,21.9 kmpl,1199 CC,88.6 bhp,5
+Tata Nexon XZA Plus Diesel,2020,761000,55553,Diesel,Dealer,Automatic,Second Owner,21.1 kmpl,1499 CC,109.1 bhp,5
+Nissan Micra Active XL,2018,255000,59235,Petrol,Dealer,Manual,First Owner,18.7 kmpl,1196 CC,65.1 bhp,5
+Audi Q3 2.0 TDI Quattro,2019,1861000,53893,Diesel,Individual,Manual,First Owner,15.2 kmpl,1966 CC,175.3 bhp,5
+Hyundai i20 Asta CRDI,2012,135000,106458,CNG,Individual,Manual,Fourth & Above Owner,22.5 km/kg,1394 CC,91.3 bhp,5
+Maruti Alto K10 VXI,2019,237000,59764,Petrol,Dealer,Automatic,First Owner,22.7 kmpl,996 CC,65.7 bhp,5
+BMW X1 sDrive20d xLine,2015,1167000,102427,Diesel,Individual,Automatic,Second Owner,20.4 kmpl,1997 CC,191.8 bhp,5
+Tata Nexon XZA Plus Diesel,2011,211000,147070,Diesel,Individual,Automatic,Second Owner,20.9 kmpl,1495 CC,111.2 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2018,334000,71298,Petrol,Dealer,Manual,First Owner,15.9 kmpl,1200 CC,74.6 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2020,464000,52088,CNG,Dealer,Manual,First Owner,15.6 km/kg,1198 CC,75.8 bhp,5
+Toyota Glanza G,2021,534000,51831,Petrol,Individual,Automatic,First Owner,23.2 kmpl,1197 CC,88.1 bhp,5
+Toyota Etios Liva GD,2010,92000,107361,Diesel,Individual,Manual,Second Owner,22.3 kmpl,1362 CC,69.0 bhp,5
+Volkswagen Polo 1.0 TSI Highline Plus,2011,140000,160200,Petrol,Individual,Manual,Second Owner,18.1 kmpl,1001 CC,110.3 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2017,518000,78944,Petrol,Dealer,Automatic,First Owner,16.0 kmpl,1498 CC,120.2 bhp,5
+Hyundai Creta SX 1.6 CRDI,2016,373000,111598,Diesel,Individual,Automatic,Third Owner,,1582 CC,123.8 bhp,5
+Mahindra Bolero Power+ ZLX,2021,542000,24330,Diesel,Individual,Manual,First Owner,17.3 kmpl,1493 CC,69.8 bhp,7
+Mercedes-Benz E-Class E 220d,2020,3753000,41576,Diesel,Individual,Automatic,First Owner,15.5 kmpl,1952 CC,190.2 bhp,5
+Renault Kwid RXT,2015,141000,105929,Petrol,Individual,Automatic,First Owner,21.2 kmpl,997 CC,67.7 bhp,5
+Honda City i-DTEC VX,2020,674000,30904,Diesel,Individual,Manual,Second Owner,24.7 kmpl,1498 CC,97.2 bhp,5
+Nissan Micra Active XL,2015,136000,103756,Petrol,Dealer,Manual,Third Owner,19.2 kmpl,1198 CC,67.9 bhp,5
+Hyundai i20 Asta CRDI,2020,519000,43978,Diesel,Individual,Manual,First Owner,23.3 kmpl,1398 CC,86.7 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2017,505000,44591,Diesel,Individual,Automatic,First Owner,20.9 kmpl,1500 CC,106.0 bhp,5
+Mahindra Bolero Power+ ZLX,2012,139000,164780,Diesel,Trustmark Dealer,Manual,Third Owner,17.1 kmpl,1495 CC,70.5 bhp,7
+Toyota Glanza G,2006,67000,150012,Petrol,Dealer,Manual,Second Owner,22.2 kmpl,1199 CC,87.2 bhp,5
+Mahindra Scorpio S10,2010,140000,213209,Diesel,Dealer,Automatic,Fourth & Above Owner,16.1 kmpl,2181 CC,121.4 bhp,7
+Skoda Octavia 2.0 TDI L&K AT,2022,2104000,24832,Diesel,Individual,Automatic,First Owner,19.2 kmpl,1966 CC,139.4 bhp,5
+Maruti Alto 800 LXI,2019,193000,53747,CNG,Individual,Manual,First Owner,24.9 km/kg,794 CC,48.2 bhp,5
+Maruti Swift VXI,2022,428000,16038,Petrol,Individual,Manual,First Owner,22.7 kmpl,1199 CC,81.0 bhp,5
+BMW X1 sDrive20d xLine,2016,1513000,96854,Diesel,Individual,Automatic,First Owner,19.4 kmpl,1995 CC,190.7 bhp,5
+BMW 5 Series 520d,2021,4135000,34277,Diesel,Individual,Automatic,First Owner,17.6 kmpl,1997 CC,190.8 bhp,5
+Hyundai Venue SX 1.0 Turbo,2015,330000,112605,Petrol,Individual,Manual,First Owner,17.8 kmpl,1000 CC,117.3 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2015,515000,130667,Diesel,Dealer,Manual,Fourth & Above Owner,14.2 kmpl,2755 CC,166.8 bhp,7
+Mercedes-Benz C-Class C 220d,2013,992000,144905,Diesel,Individual,Automatic,Second Owner,18.7 kmpl,2141 CC,165.8 bhp,5
+Ford Figo 1.2 Titanium,2016,203000,61586,Petrol,Dealer,Automatic,Third Owner,18.2 kmpl,1196 CC,92.3 bhp,5
+Skoda Rapid 1.6 MPI Ambition,2010,124000,216205,Petrol,Dealer,Manual,Second Owner,15.1 kmpl,1596 CC,103.8 bhp,5
+Hyundai i20 Asta CRDI,2009,84000,187420,Diesel,Individual,Manual,Fourth & Above Owner,23.6 kmpl,1394 CC,91.1 bhp,5
+BMW 3 Series 320d Luxury Line,2021,3278000,18953,Diesel,Dealer,Automatic,First Owner,23.2 kmpl,1995 CC,182.7 bhp,5
+Maruti Baleno Delta,2016,275000,103851,Petrol,Dealer,Manual,First Owner,22.0 kmpl,1195 CC,82.9 bhp,5
+Hyundai Verna 1.6 VTVT SX,2012,149000,177852,Petrol,Individual,Manual,Fourth & Above Owner,17.6 kmpl,1589 CC,118.8 bhp,5
+Maruti Alto K10 VXI,2010,49000,116777,Petrol,Individual,Manual,Fourth & Above Owner,24.1 kmpl,1000 CC,67.7 bhp,5
+Volkswagen Vento 1.6 Highline,2008,107000,145460,Petrol,Dealer,Manual,Third Owner,16.1 kmpl,1596 CC,,5
+Skoda Rapid 1.5 TDI Elegance,2018,387000,89454,Diesel,Individual,Manual,Third Owner,21.4 kmpl,1498 CC,106.3 bhp,5
+Maruti Swift ZXI Plus,2013,166000,156733,CNG,Dealer,Automatic,Third Owner,22.8 km/kg,1197 CC,86.1 bhp,5
+Ford EcoSport 1.5 TDCi Titanium,2010,108000,165070,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner,23.3 kmpl,1498 CC,100.9 bhp,5
+Audi Q3 2.0 TDI Quattro,2015,1273000,122008,Diesel,Individual,Automatic,First Owner,15.0 kmpl,1968 CC,169.8 bhp,5
+Maruti Swift ZXI Plus,2018,359000,70588,Petrol,Individual,Automatic,First Owner,22.4 kmpl,1197 CC,89.7 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2022,2078000,25956,Diesel,Dealer,Manual,First Owner,14.0 kmpl,2753 CC,172.2 bhp,7
+Skoda Octavia 2.0 TDI L&K AT,2020,1518000,23763,Diesel,Dealer,Automatic,Second Owner,18.8 kmpl,1968 CC,139.5 bhp,5
+Maruti Swift ZXI Plus,2010,106000,129794,Petrol,Individual,Manual,Second Owner,21.8 kmpl,1197 CC,88.7 bhp,5
+Honda City i-DTEC VX,2018,532000,70043,Diesel,Individual,Manual,First Owner,24.4 kmpl,1496 CC,100.0 bhp,5
+Mahindra Scorpio S10,2020,814000,36190,Diesel,Trustmark Dealer,Manual,First Owner,15.0 kmpl,2179 CC,120.1 bhp,7
+Hyundai Grand i10 Magna,2010,93000,152575,Petrol,Dealer,Automatic,Second Owner,19.8 kmpl,1199 CC,81.0 bhp,5
+Volkswagen Polo GT TSI,2019,518000,67823,Petrol,Individual,Automatic,First Owner,17.1 kmpl,1199 CC,104.1 bhp,5
+Maruti Alto 800 LXI,2013,81000,155850,Petrol,Individual,Manual,First Owner,24.4 kmpl,798 CC,46.3 bhp,5
+Maruti Vitara Brezza ZDI,2014,304000,103758,Diesel,Dealer,Automatic,First Owner,23.6 kmpl,1248 CC,90.3 bhp,5
+Maruti Swift VXI,2012,106000,126921,CNG,Dealer,Manual,Second Owner,22.1 km/kg,1197 CC,84.0 bhp,5
+Nissan Sunny XL D,2019,443000,70104,Diesel,Dealer,Manual,First Owner,22.3 kmpl,1459 CC,85.0 bhp,5
+Volkswagen Polo 1.2 MPI Highline,2017,279000,86008,Petrol,Individual,Manual,First Owner,17.2 kmpl,1200 CC,72.0 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2016,945000,108244,Diesel,Individual,Automatic,First Owner,13.8 kmpl,2757 CC,171.3 bhp,7
+Volkswagen Polo GT TSI,2022,828000,15844,Petrol,Individual,Automatic,First Owner,16.4 kmpl,1197 CC,101.4 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2017,443000,87346,Petrol,Individual,Automatic,First Owner,15.5 kmpl,1496 CC,120.6 bhp,5
+Hyundai Creta SX(O) Diesel AT,2021,1245000,40735,Diesel,Trustmark Dealer,Automatic,First Owner,17.6 kmpl,1495 CC,111.3 bhp,5
+Maruti Swift ZXI Plus,2011,135000,160333,Petrol,Dealer,Automatic,Second Owner,22.4 kmpl,1195 CC,86.5 bhp,5
+Hyundai Creta SX(O) Diesel AT,2019,832000,42210,Diesel,Dealer,Automatic,Second Owner,18.2 kmpl,1495 CC,110.6 bhp,5
+Toyota Fortuner 4x4 MT,2016,916000,53066,Diesel,Individual,Manual,Third Owner,14.1 kmpl,2755 CC,174.1 bhp,7
+Audi A6 35 TDI Matrix,2013,1441000,143517,Diesel,Trustmark Dealer,Automatic,First Owner,18.8 kmpl,1970 CC,192.0 bhp,5
+Renault Duster 110PS RXZ,2014,274000,137209,Diesel,Dealer,Manual,Second Owner,18.7 kmpl,1459 CC,111.4 bhp,5
+Audi Q3 2.0 TDI Quattro,2020,1975000,37872,Diesel,Individual,Automatic,Second Owner,14.9 kmpl,1966 CC,173.5 bhp,5
+Tata Harrier XZ Plus,2017,729000,78819,Diesel,Individual,Manual,Second Owner,16.6 kmpl,1954 CC,166.4 bhp,5
+Maruti Ertiga VDI,2017,361000,103010,Diesel,Individual,Automatic,Second Owner,24.2 kmpl,1248 CC,87.4 bhp,7
+Tata Tiago XZ,2022,422000,30252,Petrol,Individual,Manual,First Owner,24.0 kmpl,1197 CC,82.8 bhp,5
+Honda Amaze 1.2 VX,2011,133000,116605,Petrol,Individual,Manual,Second Owner,19.1 kmpl,1197 CC,87.2 bhp,5
+Volkswagen Vento 1.6 Highline,2021,699000,40136,Petrol,Dealer,Manual,First Owner,15.3 kmpl,1600 CC,105.9 bhp,5
+Hyundai i20 Sportz 1.2,2019,327000,81460,Petrol,Individual,Manual,Second Owner,19.9 kmpl,1195 CC,82.8 bhp,5
+Toyota Innova 2.5 G4 Diesel,2013,357000,110370,Diesel,Trustmark Dealer,Manual,First Owner,12.4 kmpl,2494 CC,103.5 bhp,7
+Maruti Wagon R LXI CNG,2015,126000,82757,CNG,Dealer,Manual,Third Owner,30.7 km/kg,996 CC,59.1 bhp,5
+Skoda Rapid 1.5 TDI Elegance,2020,662000,56699,Diesel,Dealer,Manual,First Owner,20.9 kmpl,1498 CC,105.2 bhp,5
+Toyota Etios Liva GD,2017,200000,104508,Diesel,Dealer,Manual,Third Owner,24.4 kmpl,1366 CC,68.1 bhp,5
+Honda Amaze 1.5 S i-DTEC,2015,252000,89991,Diesel,Dealer,Manual,Second Owner,25.8 kmpl,1500 CC,99.2 bhp,5
+Maruti Wagon R ZXI 1.2,2016,229000,119554,Petrol,Individual,Manual,First Owner,20.6 kmpl,1199 CC,84.0 bhp,5
+Ford Endeavour 3.2 Titanium 4x4,2017,1238000,101914,Diesel,Individual,Automatic,Second Owner,10.8 kmpl,3198 CC,197.9 bhp,7
+Honda City i-DTEC VX,2011,178000,192102,Diesel,Individual,Manual,Second Owner,24.6 kmpl,1500 CC,99.1 bhp,5
+Hyundai Creta SX 1.6 CRDI,2021,979000,24750,Diesel,Dealer,Manual,First Owner,18.9 kmpl,1580 CC,128.4 bhp,5
+Hyundai Grand i10 Magna,2014,141000,101063,Petrol,Individual,Manual,Second Owner,18.4 kmpl,1199 CC,83.1 bhp,5
+Maruti Swift Dzire VDI,2008,67000,195605,Diesel,Individual,Manual,Second Owner,27.1 kmpl,1246 CC,72.1 bhp,5
+Mercedes-Benz E-Class E 220d,2014,1455000,84662,Diesel,Individual,Automatic,Third Owner,16.1 kmpl,1950 CC,196.2 bhp,5
+Toyota Etios Liva GD,2020,370000,60632,CNG,Individual,Manual,First Owner,23.9 km/kg,1366 CC,68.7 bhp,5
+Tata Safari XZA Plus 6S AT,2020,1379000,56516,Diesel,Individual,Automatic,First Owner,13.9 kmpl,1956 CC,169.4 bhp,6
+Maruti Swift VXI,2011,82000,185048,Petrol,Dealer,Automatic,Third Owner,23.0 kmpl,1195 CC,83.5 bhp,5
+Skoda Octavia 2.0 TDI L&K AT,2015,702000,97763,Diesel,Individual,Automatic,Second Owner,18.9 kmpl,1970 CC,137.9 bhp,5
+Honda Amaze 1.2 VX,2011,126000,98675,Petrol,Dealer,Manual,Third Owner,18.7 kmpl,1197 CC,89.9 bhp,5
+Maruti Ciaz Alpha Petrol,2017,446000,54578,Petrol,Individual,Manual,First Owner,20.4 kmpl,1460 CC,103.3 bhp,5
+Maruti Baleno Delta,2018,278000,62042,Petrol,Dealer,Manual,Third Owner,21.8 kmpl,1197 CC,83.6 bhp,5
+Toyota Innova Crysta 2.8 ZX AT,2012,483000,108326,Diesel,Dealer,Automatic,Third Owner,14.1 kmpl,2753 CC,166.4 bhp,7
+Toyota Innova 2.5 G4 Diesel,2020,661000,34621,Diesel,Individual,Manual,Third Owner,13.3 kmpl,2494 CC,100.0 bhp,7
+Mahindra Bolero Power+ ZLX,2009,84000,135774,Diesel,Individual,Manual,Third Owner,16.0 kmpl,1491 CC,71.4 bhp,7
+Maruti Swift ZXI Plus,2017,291000,65929,CNG,Trustmark Dealer,Automatic,Third Owner,22.6 km/kg,1195 CC,90.6 bhp,5
+Honda City i-DTEC VX,2019,544000,85624,Diesel,Individual,Manual,Second Owner,25.0 kmpl,1498 CC,98.8 bhp,5
+Honda Amaze 1.5 S i-DTEC,2015,252000,122172,Diesel,Trustmark Dealer,Manual,First Owner,24.9 kmpl,1500 CC,101.5 bhp,5
+BMW 5 Series 520d,2007,575000,138342,Diesel,Individual,Automatic,Third Owner,18.9 kmpl,1997 CC,188.4 bhp,5
+Mahindra Scorpio S10,2016,446000,69927,Diesel,Individual,Manual,First Owner,15.5 kmpl,2177 CC,121.8 bhp,7
+Honda Jazz 1.2 V,2019,372000,60413,Petrol,Dealer,Manual,Second Owner,17.4 kmpl,1199 CC,86.7 bhp,5
+Tata Nexon XZ Plus Petrol,2015,193000,102226,Petrol,Individual,Manual,Fourth & Above Owner,16.3 kmpl,1198 CC,116.5 bhp,5
+Mahindra Scorpio S10,2017,494000,93352,Diesel,Individual,Manual,First Owner,15.3 kmpl,2181 CC,121.3 bhp,7
+Nissan Micra Active XL,2021,331000,39795,Petrol,Individual,Manual,First Owner,19.2 kmpl,1198 CC,67.1 bhp,
+Mahindra Scorpio S10,2018,538000,94008,Diesel,Individual,Manual,Second Owner,16.1 kmpl,2177 CC,,7
+Maruti Swift VXI,2012,116000,106208,CNG,Trustmark Dealer,Manual,Second Owner,21.8 km/kg,1199 CC,80.6 bhp,5
+Tata Harrier XZ Plus,2022,1504000,31882,Diesel,Individual,Manual,First Owner,16.4 kmpl,1956 CC,162.8 bhp,5
+Maruti Wagon R LXI CNG,2022,400000,36042,CNG,Individual,Manual,First Owner,30.2 km/kg,998 CC,56.5 bhp,5
+Renault Kwid RXT,2021,293000,32174,Petrol,Dealer,Manual,First Owner,21.9 kmpl,999 CC,65.5 bhp,5
+Hyundai Grand i10 Magna,2013,118000,122011,Petrol,Individual,Manual,Second Owner,19.6 kmpl,1199 CC,83.9 bhp,5
+Maruti Vitara Brezza ZDI,2012,126000,181396,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner,25.0 kmpl,1250 CC,87.8 bhp,5
+Toyota Fortuner 2.8 4x2 AT,2019,1960000,65758,Diesel,Individual,Automatic,First Owner,14.0 kmpl,2755 CC,177.6 bhp,7
+BMW 5 Series 520d,2018,2785000,75721,Diesel,Dealer,Automatic,Second Owner,18.4 kmpl,1997 CC,187.9 bhp,5
+Ford EcoSport 1.5 Ti-VCT AT,2021,846000,26002,Petrol,Trustmark Dealer,Manual,First Owner,15.9 kmpl,1498 CC,121.0 bhp,5

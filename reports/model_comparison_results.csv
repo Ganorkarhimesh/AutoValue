@@ -1,0 +1,5 @@
+Experiment,Model Type,Features Used,Test MAE (₹),Test RMSE (₹),Test R²,Is Best
+Experiment C: KNN Regression (k=3),KNN Regression (k=3),All 50 Features (StandardScaler Scaled),106253.0839951865,252278.53413234712,0.7824906025281577,True
+Experiment D: KNN Regression (k=5),KNN Regression (k=5),All 50 Features (StandardScaler Scaled),111559.53198555957,255414.49822618163,0.777049464885783,False
+Experiment B: Multiple Linear Regression,Multiple Linear Regression,All 50 Features (Numerical + Dummy Encoded),156580.2484564291,323115.36731984845,0.6431935844323429,False
+Experiment A: Simple Linear Regression,Simple Linear Regression,Single Feature: max_power,235634.26293892594,395949.7039231584,0.4642064604023677,False
