@@ -232,23 +232,5 @@ git remote add origin https://github.com/your-username/autovalue-ai.git
 git push -u origin main
 ```
 
----
-
-## 🎓 Viva Voce Quick Defense
-
-1. **Why is StandardScaler essential for KNN but not strictly needed for OLS Linear Regression?**  
-   KNN uses geometric Euclidean distance $d(x, y) = \sqrt{\sum (x_i - y_i)^2}$. If `km_driven` is 60,000 and `seats` is 5, distance is 99.9% dominated by `km_driven`. OLS coefficients $\beta_j$ automatically scale inversely with feature variance to minimize sum of squared errors, making scaling mathematically non-essential for OLS.
-
-2. **Why fit imputers and scalers strictly on training data?**  
-   To prevent **data leakage**. Computing medians or scaling parameters over the entire dataset allows test set information to contaminate training, producing artificially optimistic scores that fail in production.
-
-3. **Why did KNN ($k=3$) win over Multiple Linear Regression?**  
-   Automobile resale prices form non-linear, localized clusters based on vehicle segments. Averaging the 3 closest historical sales reflects real pricing patterns better than forcing a single rigid linear hyperplane across all segments.
-
-4. **Why identify IQR outliers but not drop them?**  
-   High prices and high engine capacities represent genuine luxury vehicles (BMW, Audi, Mercedes-Benz) rather than recording errors. Removing them would truncate the dataset to economy hatchbacks and destroy model utility on luxury valuations.
-
----
-
 ## 📄 License
 This project is developed for educational purposes under the MIT License as part of the B.Tech Computer Science & Engineering curriculum.
