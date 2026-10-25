@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Syllabus Compliance (Practicals 1 to 6 ONLY)
+## 🎯 Syllabus Compliance 
 
 This project strictly adheres to the permitted concepts of the first six machine learning practicals:
 
